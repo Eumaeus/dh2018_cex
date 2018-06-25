@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="grc">ΚΑΤΑ ΜΑΘΘΑΙΟΝ</title>
+                <editor>Janey Capers Newland</editor>
+                <editor>Emmett Baumgarten</editor>
+                <editor>Brienna DiPietro</editor>
+                <editor>De'Sean Markley</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>MSS2017-091</edition>
+                <respStmt>
+                    <name>James B. Duke Library</name>
+                    <resp></resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <authority>
+                    <name></name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="grc">
+        <body>
+            <div n="12" type="chapter">
+                <div n="48" type="verse">
+                    <p>ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν
+                        οἱ ἀδελφοί μου · </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου
+                        καὶ οἱ ἀδελφοί μου· </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ <abbr>πρς</abbr><expan>πατρός</expan> μου τοῦ ἐν οὐρανοις, αὐτός μου
+                        ἀδελφὸς· καὶ ἀδελφὴ. καὶ <abbr>μηρ</abbr><expan>μήτηρ</expan> ἐστίν· </p>
+                </div>
+            </div>
+            <div n="13" type="chapter">
+                <div n="1" type="verse">
+                    <p>Ἐν δὲ <sic>τὴν</sic> ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ <abbr>Ις</abbr><expan>Ἰησοῦς</expan> ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα<supplied>σσαν</supplied>·
+                    </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>καὶ συνήχθησαν πρὸσ αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα
+                        καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ
+                        σπεῖραι· </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ
+                        κατέ<supplied>φαγεν αὐτά</supplied> </p>
+                </div>
+                
+                <div n="5" type="verse">
+                    <p><supplied>ἐπὶ τὰ π</supplied>ετρώδη ὅπου οὐκ εἶχε<supplied>ν</supplied> γῆν
+                        πολλ<supplied>ήν</supplied>, καὶ εὐθέως ἐξανέτειλ<supplied>εν</supplied>
+                        διὰ τὸ <supplied>μὴ ἔχειν βάθος γῆς</supplied>,</p>
+                </div>
+                <div n="6" type="verse">
+                    <p>ἡλίο<supplied>υ</supplied>
+                        δὲ ἀνα<supplied>τε</supplied>ίλ<supplied>αν</supplied>το<supplied>ς</supplied> ἐκα<supplied>υ</supplied>ματί
+                        σθη καὶ <supplied>διὰ</supplied> τὸ μὴ ἔχειν ῥίζαν
+                        <supplied>ἐξ</supplied>ηράνθη.</p>
+                </div>
+                <div n="7" type="verse">
+                    <p>ἄ<sic>λ</sic>λλα δὲ <unclear>ἔπ</unclear>ε<supplied>σ</supplied>εν ἐπὶ 
+                        τὰς ἀκάνθας, <supplied>καὶ ἀν</supplied>έ<supplied>β</supplied>ησ<supplied>α</supplied>ν <supplied>αἱ</supplied> <sic>τα</sic> 
+                        ἄκανθαι καὶ <supplied>ἔ</supplied>πνιξ<unclear>αν</unclear> αὐτά.</p>
+                </div>
+                <div n="8" type="verse">
+                    <p>ἄλλα δὲ ἔπεσεν <supplied>ἐπὶ τὴ</supplied>ν γῆν τὴν
+                        καλὴν <supplied>καὶ ἐδίδου</supplied> καρπόν, ὃ μὲν 
+                        ἑκατὸν <supplied>ὃ δὲ ἑξήκοντα</supplied> ὃ δὲ 
+                        τριάκοντα.</p>
+                </div>
+                <div n="9" type="verse">
+                    <p>ὁ ἔχ<supplied>ων ὦτα</supplied> ἀκουέ<supplied>τω</supplied>.</p>
+                </div>
+                <div n="10" type="verse">
+                    <p><supplied>Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν</supplied> πα
+                        ραβολαῖς λαλεῖς αὐτοῖς·</p>
+                </div>
+                <div n="11" type="verse">
+                    <p>ὁ δὲ 
+                        ἀποκριθεὶς εἶπεν αὐτοῖς· 
+                        Ὅτ<supplied>ι ὑμῖν</supplied> δ<supplied>έδο</supplied>ται γνῶναι τὰ 
+                        <supplied>μυ</supplied>στήρια τ<supplied>ῆς</supplied> βασιλείας 
+                        <supplied>τῶν οὐραν</supplied>ῶν· <supplied>ἐ</supplied>κείνοις δὲ οὐ δέ<supplied>δοται</supplied>. </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

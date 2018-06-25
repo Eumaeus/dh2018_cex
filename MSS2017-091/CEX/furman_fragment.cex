@@ -1,0 +1,215 @@
+// Furman University MS 2017.091
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#FUMS2017091
+urn#urn:cite2:cex:fufolio.2018_1:ms2017_091
+license#CC BY-NC-SA 3.0. 
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:#chapter/verse#Greek New Testament#Matthew#XML Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:#chapter/verse#Greek New Testament#Matthew#Diplomatic Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:#chapter/verse#Greek New Testament#Matthew#Normalized Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:#chapter/verse#Greek New Testament#Wescott-Hort (1885)#Perseus Digital Library##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:#chapter/verse#Greek New Testament#Reina–Valera (1602)#Project Gutenberg (1909)##true#spa
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:#chapter/verse#Greek New Testament#King James Version (1611)#Project Gutenberg (1989)##true#eng
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ <abbr>πρς</abbr><expan>πατρός</expan> μου τοῦ ἐν οὐρανοις, αὐτός μου ἀδελφὸς· καὶ ἀδελφὴ. καὶ <abbr>μηρ</abbr><expan>μήτηρ</expan> ἐστίν· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.1#Ἐν δὲ <sic>τὴν</sic> ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ <abbr>Ις</abbr><expan>Ἰησοῦς</expan> ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα<supplied>σσαν</supplied>·
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατέ<supplied>φαγεν αὐτά</supplied>
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.5#<supplied>ἐπὶ τὰ π</supplied>ετρώδη ὅπου οὐκ εἶχε<supplied>ν</supplied> γῆν πολλ<supplied>ήν</supplied>, καὶ εὐθέως ἐξανέτειλ<supplied>εν</supplied> διὰ τὸ <supplied>μὴ ἔχειν βάθος γῆς</supplied>, 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.6#ἡλίο<supplied>υ</supplied> δὲ ἀνα<supplied>τε</supplied>ίλ<supplied>αν</supplied>το<supplied>ς</supplied> ἐκα<supplied>υ</supplied>ματίσθη καὶ <supplied>διὰ</supplied> τὸ μὴ ἔχειν ῥίζαν <supplied>ἐξ</supplied>ηράνθη. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.7#ἄ<sic>λ</sic>λλα δὲ <unclear>ἔπ</unclear>ε<supplied>σ</supplied>εν ἐπὶ τὰς ἀκάνθας, <supplied>καὶ ἀν</supplied>έ<supplied>β</supplied>ησ<supplied>α</supplied>ν <supplied>αἱ</supplied> <sic>τα</sic> ἄκανθαι καὶ <supplied>ἔ</supplied>πνιξ<unclear>αν</unclear> αὐτά. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.8#ἄλλα δὲ ἔπεσεν <supplied>ἐπὶ τὴ</supplied>ν γῆν τὴν καλὴν <supplied>καὶ ἐδίδου</supplied> καρπόν, ὃ μὲν ἑκατὸν <supplied>ὃ δὲ ἑξήκοντα</supplied> ὃ δὲ τριάκοντα. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.9#ὁ ἔχ<supplied>ων ὦτα</supplied> ἀκουέ<supplied>τω</supplied>.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.10#<supplied>Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν</supplied> πα ραβολαῖς λαλεῖς αὐτοῖς· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὅτ<supplied>ι ὑμῖν</supplied> δ<supplied>έδο</supplied>ται γνῶναι τὰ <supplied>μυ</supplied>στήρια τ<supplied>ῆς</supplied> βασιλείας <supplied>τῶν οὐραν</supplied>ῶν· <supplied>ἐ</supplied>κείνοις δὲ οὐ δέ<supplied>δοται</supplied>. 
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πρς μου τοῦ ἐν οὐρανοις, αὐτός μου ἀδελφὸς· καὶ ἀδελφὴ. καὶ μηρ ἐστίν· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.1#Ἐν δὲ τὴν ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ ις ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα … ·
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατε … 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.5# … ετρωδη ὅπου οὐκ εἶχε … γῆν πολλ … , καὶ εὐθέως ἐξανέτειλ … διὰ τὸ … , 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.6#ἡλίο … δὲ ἀνα … ιλ … το … εκα … ματίσθη καὶ … τὸ μὴ ἔχειν ῥίζαν … ηρανθη. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.7#ἄλλλα δὲ ἔπε … εν ἐπὶ τὰς ἀκάνθας, … ε … ησ … ν … τα ἄκανθαι καὶ … πνιξαν αὐτά. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.8#ἄλλα δὲ ἔπεσεν … ν γῆν τὴν καλὴν … καρπόν, ὃ μὲν ἑκατὸν … ὃ δὲ τριάκοντα. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.9#ὁ εχ … ἀκουέ … .
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.10# … πα ραβολαῖς λαλεῖς αὐτοῖς· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· οτ … δ … ται γνῶναι τὰ … στήρια τ … βασιλείας … ῶν· … κείνοις δὲ οὐ δέ … . 
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοις, αὐτός μου ἀδελφὸς· καὶ ἀδελφὴ. καὶ μήτηρ  ἐστίν· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.1#Ἐν δὲ τὴν ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ   Ἰησοῦς  ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλασσαν·
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, ἴδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατέφαγεν …
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.5#… πετρώδη ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθέως ἐξανέτειλεν διὰ τὸ …
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.6#ἡλίου δὲ ἀνατείλαντος ἐκαυματίσθη καὶ … τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.7#ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας, … ἀνέβησαν … τὰ ἄκανθαι καὶ ἔπνιξαν αὐτά. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.8#ἄλλα δὲ ἔπεσεν … τὴν γῆν τὴν καλὴν … καρπόν, ὃ μὲν ἑκατὸν … ὃ δὲ τριάκοντα. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.9#ὁ ἔχων … ἀκουέτω.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.10#… παραβολαῖς λαλεῖς αὐτοῖς· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· ὅτι … δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας … οὐρανῶν· ἐκείνοις δὲ οὐ δέδοται. 
+
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:12.48#ὁ δὲ ἀποκριθεὶς εἶπεν τῷ λέγοντι αὐτῷ· Τίς ἐστιν ἡ μήτηρ μου, καὶ τίνες εἰσὶν οἱ ἀδελφοί μου ; 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:12.49#καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ τοὺς μαθητὰς αὐτοῦ εἶπεν· Ἰδοὺ ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς, αὐτός μου ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.1#Ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐξελθὼν ὁ Ἰησοῦς τῆς οἰκίας ἐκάθητο παρὰ τὴν θάλασσαν· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι, καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.3#καὶ ἐλάλησεν αὐτοῖς πολλὰ ἐν παραβολαῖς λέγων· Ἰδοὺ ἐξῆλθεν ὁ σπείρων τοῦ σπείρειν. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.4#καὶ ἐν τῷ σπείρειν αὐτὸν ἃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ⸂ἐλθόντα τὰ πετεινὰ⸃ κατέφαγεν αὐτά. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.5#ἄλλα δὲ ἔπεσεν ἐπὶ τὰ πετρώδη ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθέως ἐξανέτειλεν διὰ τὸ μὴ ἔχειν βάθος γῆς, 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.6#ἡλίου δὲ ἀνατείλαντος ἐκαυματίσθη καὶ διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.7#ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας, καὶ ἀνέβησαν αἱ ἄκανθαι καὶ ἔπνιξαν αὐτά.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.8#ἄλλα δὲ ἔπεσεν ἐπὶ τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπόν, ὃ μὲν ἑκατὸν ὃ δὲ ἑξήκοντα ὃ δὲ τριάκοντα. 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.9#ὁ ἔχων ὦτα ἀκουέτω.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.10#Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν παραβολαῖς λαλεῖς αὐτοῖς ;
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὅτι ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν, ἐκείνοις δὲ οὐ δέδοται. 
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.48#Y rešpondiendo el al que le dezia [ešto], dixo, Quien es mi madre, y quienšon mis hermanos?
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.49#Y eštendiendo šu mano azia šus dišcipulos, dixo, Heaqui mi madre y mishermanos.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.50#Porque todo aquel que hiziere la voluntad de mi Padre, que eštá en loscielos, ešše es mi hermano, y hermana, y madre.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.t#CAPIT. XIII.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.1#Y Aquel dia, šaliendo Iešus de caša, šentóše junto à la mar:
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.2#Y allegaronše à el muchas compañas; y entrandoše el en un navio, šentóše, ytoda la compaña eštava à la ribera.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.3#Y hablóles muchas cošas por Parabolas, diziendo,^ He aqui el que šembraba,šalió à šembrar.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.4#Y šembrãdo, parte [de la šimiente] cayó junto àl camino: y vinieron las aves,y comieronla.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.5#Y parte cayó en pedregales, donde no tenia mucha tierra, y nacio luego,porque no tenia tierra profunda:
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.6#Mas en šaliendo el Sol, še quemó, y šecóše: porque no tenia rayz.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.7#Y parte cayó en ešpinas: y las ešpinas crecieron, y ahogaronla.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.8#Y parte cayó en buena tierra, y dió fruto: uno de à ciento, y otro de àšešenta, y otro de à treynta.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.9#Quien tiene oydos para oyr, oyga.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.10#Entõces llegandoše los Dišcipulos, dixeronle: Porqué les hablas^ porparabolas?
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.11#Y el rešpondiendo, dixoles, Porque à vošotros es concedido šaber losmyšterios del Reyno de los cielos: mas à ellos no es concedido.
+
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:12.48#But he answered and said unto him that told him, Who is my mother? and who are my brethren?
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:12.49#And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:12.50#For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.1#The same day went Jesus out of the house, and sat by the sea side.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.2#And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.3#And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.4#And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.5#Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.6#And when the sun was up, they were scorched; and because they had no root, they withered away.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.7#And some fell among thorns; and the thorns sprung up, and choked them:
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.8#But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.9#Who hath ears to hear, let him hear.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.10#And the disciples came, and said unto him, Why speakest thou unto them in parables?
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:13.11#He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
+
+
+#!datamodels
+Collection#Model#Label#Description
+urn:cite2:cite:verbs.v1:#urn:cite2:cite:datamodels.v1:commentarymodel#Commentary Model#URN comments on URN. See documentation at <https://github.com/cite-architecture/commentary>.
+urn:cite2:fufolio:jbdms.2018a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images. See documentation at <http://cite-architecture.github.io/imagemodel/>.
+urn:cite2:fufolio:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference. See <TBA>.
+urn:cite2:fufolio:jbdms_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model. See documentation at <https://github.com/cite-architecture/dse>.
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:fufolio:jbdms.2018a:#Images of Manuscripts from the James B. Duke Library: Furman Research#urn:cite2:fufolio:jbdms.2018a.caption:##CC-attribution-share-alike
+urn:cite2:fufolio:MSS2017091.v1:#Furman University James B. Duke Library, MS 2017-091#urn:cite2:fufolio:MSS2017091.v1.label:#urn:cite2:fufolio:MSS2017091.v1.sequence:#Public Domain
+// datamodels and extensions
+urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
+urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:binaryimg.v1.label:##Public domain
+urn:cite2:fufolio:jbdms_dse.v1:#DSE model of James B. Duke MSS#urn:cite2:fufolio:jbdms_dse.v1.label:#urn:cite2:fufolio:jbdms_dse.v1.seq:#CC-attribution-share-alike
+urn:cite2:cite:verbs.v1:#Collection of verbal relations#urn:cite2:cite:verbs.v1.label:##Public Domain
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:verbs.v1.urn:#URN#Cite2Urn#
+urn:cite2:cite:verbs.v1.label:#label#String#
+urn:cite2:cite:verbs.v1.description:#description#String#
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:jbdms.2018a.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:jbdms.2018a.caption:#Caption#String#
+urn:cite2:fufolio:jbdms.2018a.rights:#Rights#String#
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:jbdms_dse.v1.urn:#DSE record#Cite2Urn#
+urn:cite2:fufolio:jbdms_dse.v1.label:#Label#String#
+urn:cite2:fufolio:jbdms_dse.v1.seq:#Sequence#Number#
+urn:cite2:fufolio:jbdms_dse.v1.passage:#Text passage#CtsUrn#
+urn:cite2:fufolio:jbdms_dse.v1.imageroi:#Image region of interest#Cite2Urn#
+urn:cite2:fufolio:jbdms_dse.v1.surface:#Artifact surface#Cite2Urn#
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:datamodels.v1.urn:#Data model#Cite2Urn#
+urn:cite2:cite:datamodels.v1.label:#Label#String#
+urn:cite2:cite:datamodels.v1.description:#Description#String#
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:binaryimg.v1.urn:#Binary Image#Cite2Urn#
+urn:cite2:fufolio:binaryimg.v1.label:#Label#String#
+urn:cite2:fufolio:binaryimg.v1.collection:#Image Collection#Cite2Urn#
+urn:cite2:fufolio:binaryimg.v1.protocol:#Protocol#String#iiifApi,localDeepZoom,JPG,iipDeepZoom
+urn:cite2:fufolio:binaryimg.v1.path:#Path on Server#String#
+urn:cite2:fufolio:binaryimg.v1.url:#Service URN Base#String#
+urn:cite2:fufolio:binaryimg.v1.rights:#Rights#String#
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:MSS2017091.v1.sequence:#Page sequence#Number#
+urn:cite2:fufolio:MSS2017091.v1.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:MSS2017091.v1.rv:#Recto or Verso#String#recto,verso
+urn:cite2:fufolio:MSS2017091.v1.label:#Label#String#
+urn:cite2:fufolio:MSS2017091.v1.defaultimg:#Default image#Cite2Urn#
+
+#!citedata
+urn#label#description
+urn:cite2:cite:verbs.v1:commentsOn#comments on#subject[Urn] comments on object[Urn]
+urn:cite2:cite:verbs.v1:illustrates#illustrates#subject[Urn] comments on object[Urn]
+urn:cite2:cite:verbs.v1:hasOnIt#has on it#subject[Urn] comments on object[Urn]
+
+#!citedata
+urn#label#collection#protocol#path#url#rights
+urn:cite2:fufolio:binaryimg.v1:MSS2017091_amphoreusIIF#Binary data for images of MSS2017091: Furman University. IIIF Files at the University of Houson.#urn:cite2:fufolio:jbdms.2018a:#iiifApi#/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+urn:cite2:fufolio:binaryimg.v1:MSS2017091_iipDeepZoom#Binary data for images ofMSS2017091. IIIF Files at the University of Houson. (must add .tif.dzi)#urn:cite2:fufolio:jbdms.2018a:#iipDeepZoom#/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/#http://www.homermultitext.org/iipsrv?DeepZoom=#Creative Commons Attribution Share-Alike.
+urn:cite2:fufolio:binaryimg.v1:MSS2017091_localDeepZoom#Binary data for images ofMSS2017091. DeepZoom files#urn:cite2:fufolio:jbdms.2018a:#localDeepZoom#/fufolio/jbdms/2018a#image_archive#Creative Commons Attribution Share-Alike.
+urn:cite2:fufolio:binaryimg.v1:MSS2017091_localJPG#Binary data for images of MSS2017091. DeepZoom files#urn:cite2:fufolio:jbdms.2018a:#JPG#/fufolio/jbdms/2018a/#image_archive#Creative Commons Attribution Share-Alike.
+
+#!citedata
+urn#label#description
+urn:cite2:cite:datamodels.v1:binaryimg#Binary image model#Model of binary images manipulable by URN reference. See <TBA>.
+urn:cite2:cite:datamodels.v1:imagemodel#Citable images#Model of citable images from the CITE Architecture. See <http://cite-architecture.github.io/imagemodel/>.
+urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model. See documentation at <https://github.com/cite-architecture/dse>.
+
+#!citedata
+sequence#urn#rv#label#defaultimg
+0#urn:cite2:fufolio:MSS2017091.v1:recto#recto#Furman University, James B. Duke Library, MS 2017-091, recto#urn:cite2:fufolio:jbdms.2018a:MSS2017091r
+1#urn:cite2:fufolio:MSS2017091.v1:verso#recto#Furman University, James B. Duke Library, MS 2017-091, verso#urn:cite2:fufolio:jbdms.2018a:MSS2017091vn
+
+#!citedata
+urn#caption#rights
+urn:cite2:fufolio:jbdms.2018a:MSS2017091r#Furman University, James B. Duke Library, MS 2017-091, recto, natural light.#Public Domain
+urn:cite2:fufolio:jbdms.2018a:MSS2017091vn#Furman University, James B. Duke Library, MS 2017-091, verso, natural light.#Public Domain
+urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1#Furman University, James B. Duke Library, MS 2017-091, verso, UV enhanced 1.#Public Domain
+urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2#Furman University, James B. Duke Library, MS 2017-091, verso, UV enhanced 2.#Public Domain
+
+#!citedata
+seq#urn#label#passage#imageroi#surface
+0#urn:cite2:fufolio:jbdms_dse.v1:0#DSE Record for Matthew 12.48.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001:12.48#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2266,0.1146,0.1188,0.05323#urn:cite2:fufolio:MSS2017091.v1:recto
