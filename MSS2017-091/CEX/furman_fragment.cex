@@ -10,18 +10,20 @@ license#CC BY-NC-SA 3.0.
 
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:#chapter/verse#Greek New Testament#Matthew#XML Edition of FU MS 2017.091##true#grc
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:#chapter/verse#Greek New Testament#Matthew#Diplomatic Edition of FU MS 2017.091##true#grc
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:#chapter/verse#Greek New Testament#Matthew#Normalized Edition of FU MS 2017.091##true#grc
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:#chapter/verse#Greek New Testament#Wescott-Hort (1885)#Perseus Digital Library##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:#chapter/verse#Greek New Testament#Matthew (excerpts)#XML Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:#chapter/verse#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091##true#grc
+//urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:#chapter/verse/token#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091#lexical tokens#true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:#chapter/verse#Greek New Testament#Matthew (excerpts)#Normalized Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:#chapter/verse#Greek New Testament#Matthew (excerepts)#Wescott-Hort (1885)##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:#chapter/verse/tokens#Greek New Testament#Matthew (excepts)#Wescott-Hort (1885)#Tokenized to align with FU MS 2017.091#true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:#chapter/verse#Greek New Testament#Reina–Valera (1602)#Project Gutenberg (1909)##true#spa
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fukjv:#chapter/verse#Greek New Testament#King James Version (1611)#Project Gutenberg (1989)##true#eng
 
 #!ctsdata
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· ἴδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ <abbr>πρς</abbr><expan>πατρός</expan> μου τοῦ ἐν οὐρανοις, αὐτός μου ἀδελφὸς· καὶ ἀδελφὴ. καὶ <abbr>μηρ</abbr><expan>μήτηρ</expan> ἐστίν· 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.1#Ἐν δὲ <sic>τὴν</sic> ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ <abbr>Ις</abbr><expan>Ἰησοῦς</expan> ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα<supplied>σσαν</supplied>·
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.1#ἐν δὲ <sic>τὴν</sic> ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ <abbr>Ις</abbr><expan>Ἰησοῦς</expan> ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα<supplied>σσαν</supplied>·
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατέ<supplied>φαγεν αὐτά</supplied>
@@ -34,13 +36,13 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.10#<supplied>Καὶ προσε
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὅτ<supplied>ι ὑμῖν</supplied> δ<supplied>έδο</supplied>ται γνῶναι τὰ <supplied>μυ</supplied>στήρια τ<supplied>ῆς</supplied> βασιλείας <supplied>τῶν οὐραν</supplied>ῶν· <supplied>ἐ</supplied>κείνοις δὲ οὐ δέ<supplied>δοται</supplied>. 
 
 #!ctsdata
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.49#καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.50#ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πρς μου τοῦ ἐν οὐρανοις, αὐτός μου ἀδελφὸς· καὶ ἀδελφὴ. καὶ μηρ ἐστίν· 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.1#Ἐν δὲ τὴν ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ ις ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα … ·
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.1#ἐν δὲ τὴν ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ ις ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα … ·
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατε … 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, ἴδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.4#καὶ ἐν τ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατε … 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.5# … ετρωδη ὅπου οὐκ εἶχε … γῆν πολλ … , καὶ εὐθέως ἐξανέτειλ … διὰ τὸ … , 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.6#ἡλίο … δὲ ἀνα … ιλ … το … εκα … ματίσθη καὶ … τὸ μὴ ἔχειν ῥίζαν … ηρανθη. 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.7#ἄλλλα δὲ ἔπε … εν ἐπὶ τὰς ἀκάνθας, … ε … ησ … ν … τα ἄκανθαι καὶ … πνιξαν αὐτά. 
@@ -56,7 +58,7 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:12.50#ὅστις γὰρ ἂν
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.1#Ἐν δὲ τὴν ἡμέρᾳ ἐκείνῃ, ἐξελθὼν ὁ   Ἰησοῦς  ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλασσαν·
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.2#καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.3#καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, ἴδου ἐξῆλθεν σπείρων τοῦ σπεῖραι· 
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.4# καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατέφαγεν …
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.4#καὶ ἐν τῷ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ κατέφαγεν …
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.5#… πετρώδη ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθέως ἐξανέτειλεν διὰ τὸ …
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.6#ἡλίου δὲ ἀνατείλαντος ἐκαυματίσθη καὶ … τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη. 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.7#ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας, … ἀνέβησαν … τὰ ἄκανθαι καὶ ἔπνιξαν αὐτά. 
@@ -64,6 +66,8 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.8#ἄλλα δὲ ἔπεσ�
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.9#ὁ ἔχων … ἀκουέτω.
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.10#… παραβολαῖς λαλεῖς αὐτοῖς· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· ὅτι … δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας … οὐρανῶν· ἐκείνοις δὲ οὐ δέδοται. 
+
+
 
 
 #!ctsdata
@@ -82,11 +86,231 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.9#ὁ ἔχων ὦτα ἀκ�
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.10#Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν παραβολαῖς λαλεῖς αὐτοῖς ;
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὅτι ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν, ἐκείνοις δὲ οὐ δέδοται. 
 
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.1#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.3#ἀποκριθεὶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.4#εἶπεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.5#τῷ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.6#λέγοντι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.7#αὐτῷ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.8#Τίς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.9#ἐστιν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.10#ἡ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.11#μήτηρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.12#μου
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.13#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.14#τίνες
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.15#εἰσὶν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.16#οἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.17#ἀδελφοί 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.48.18#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.2#ἐκτείνας 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.3#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.4#χεῖρα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.5#αὐτοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.6#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.7#τοὺς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.8#μαθητὰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.9#αὐτοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.10#εἶπεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.11#Ἰδοὺ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.12#ἡ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.13#μήτηρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.14#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.15#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.16#οἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.17#ἀδελφοί 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.49.18#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.1#ὅστις 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.2#γὰρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.3#ἂν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.4#ποιήσῃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.5#τὸ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.6#θέλημα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.7#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.8#πατρός 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.9#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.10#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.11#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.12#οὐρανοῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.13#αὐτός 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.14#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.15#ἀδελφὸς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.16#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.17#ἀδελφὴ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.18#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.19#μήτηρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:12.50.20#ἐστίν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.1#Ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.3#τῇ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.4#ἡμέρᾳ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.5#ἐκείνῃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.6#ἐξελθὼν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.7#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.8#Ἰησοῦς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.9#τῆς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.10#οἰκίας 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.11#ἐκάθητο 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.12#παρὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.13#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.1.14#θάλασσαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.2#συνήχθησαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.3#πρὸς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.4#αὐτὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.5#ὄχλοι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.6#πολλοί
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.7#ὥστε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.8#αὐτὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.9#εἰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.10#πλοῖον 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.11#ἐμβάντα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.12#καθῆσθαι
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.13#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.14#πᾶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.15#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.16#ὄχλος 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.17#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.18#τὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.19#αἰγιαλὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.2.20#εἱστήκει 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.2#ἐλάλησεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.3#αὐτοῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.4#πολλὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.5#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.6#παραβολαῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.7#λέγων
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.8#Ἰδοὺ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.9#ἐξῆλθεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.9a#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.10#σπείρων 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.11#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.12#σπείρειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.2#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.3#τῷ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.4#σπείρειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.5#αὐτὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.6#ἃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.7#μὲν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.8#ἔπεσεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.9#παρὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.10#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.11#ὁδόν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.12#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.13#ἐλθόντα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.14#τὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.15#πετεινὰ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.17#κατέφαγεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.18#αὐτά 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.1#ἄλλα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.3#ἔπεσεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.4#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.5#τὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.6#πετρώδη 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.7#ὅπου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.8#οὐκ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.9#εἶχεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.10#γῆν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.11#πολλήν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.12#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.13#εὐθέως 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.14#ἐξανέτειλεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.15#διὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.16#τὸ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.17#μὴ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.18#ἔχειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.19#βάθος 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.5.20#γῆς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.1#ἡλίου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.3#ἀνατείλαντος 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.4#ἐκαυματίσθη 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.5#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.6#διὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.7#τὸ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.8#μὴ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.9#ἔχειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.10#ῥίζαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.6.11#ἐξηράνθη 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.1#ἄλλα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.2#ἔπεσεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.3#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.4#τὰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.5#ἀκάνθας
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.6#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.7#ἀνέβησαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.8#αἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.9#ἄκανθαι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.10#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.11#ἔπνιξαν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.7.12#αὐτά
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.1#ἄλλα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.3#ἔπεσεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.4#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.5#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.6#γῆν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.7#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.8#καλὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.9#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.10#ἐδίδου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.11#καρπόν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.12#ὃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.13#μὲν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.14#ἑκατὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.15#ὃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.16#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.17#ἑξήκοντα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.18#ὃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.19#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.8.20#τριάκοντα
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.9.1#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.9.3#ἔχων 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.9.4#ὦτα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.9.5#ἀκουέτω
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.1#Καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.2#προσελθόντες 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.3#οἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.4#μαθηταὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.5#εἶπαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.6#αὐτῷ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.7#Διὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.8#τί 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.9#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.10#παραβολαῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.11#λαλεῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.10.12#αὐτοῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.1#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.3#ἀποκριθεὶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.4#εἶπεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.5#αὐτοῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.6#Ὅτι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.7#ὑμῖν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.8#δέδοται 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.9#γνῶναι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.10#τὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.11#μυστήρια 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.12#τῆς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.13#βασιλείας 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.14#τῶν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.15#οὐρανῶν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.16#ἐκείνοις 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.17#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.18#οὐ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.11.19#δέδοται
+
+
 #!ctsdata
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.48#Y rešpondiendo el al que le dezia [ešto], dixo, Quien es mi madre, y quienšon mis hermanos?
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.49#Y eštendiendo šu mano azia šus dišcipulos, dixo, Heaqui mi madre y mishermanos.
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:12.50#Porque todo aquel que hiziere la voluntad de mi Padre, que eštá en loscielos, ešše es mi hermano, y hermana, y madre.
-urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.t#CAPIT. XIII.
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.1#Y Aquel dia, šaliendo Iešus de caša, šentóše junto à la mar:
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.2#Y allegaronše à el muchas compañas; y entrandoše el en un navio, šentóše, ytoda la compaña eštava à la ribera.
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:13.3#Y hablóles muchas cošas por Parabolas, diziendo,^ He aqui el que šembraba,šalió à šembrar.
