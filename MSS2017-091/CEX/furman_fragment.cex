@@ -12,7 +12,7 @@ license#CC BY-NC-SA 3.0.
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:#chapter/verse#Greek New Testament#Matthew (excerpts)#XML Edition of FU MS 2017.091##true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:#chapter/verse#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091##true#grc
-//urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:#chapter/verse/token#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091#lexical tokens#true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:#chapter/verse/token#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091#lexical tokens#true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:#chapter/verse#Greek New Testament#Matthew (excerpts)#Normalized Edition of FU MS 2017.091##true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:#chapter/verse#Greek New Testament#Matthew (excerepts)#Wescott-Hort (1885)##true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:#chapter/verse/tokens#Greek New Testament#Matthew (excepts)#Wescott-Hort (1885)#Tokenized to align with FU MS 2017.091#true#grc
@@ -436,4 +436,395 @@ urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2#Furman University, James B. Duke Li
 
 #!citedata
 seq#urn#label#passage#imageroi#surface
-0#urn:cite2:fufolio:jbdms_dse.v1:0#DSE Record for Matthew 12.48.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001:12.48#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2266,0.1146,0.1188,0.05323#urn:cite2:fufolio:MSS2017091.v1:recto
+1#urn:cite2:fufolio:jbdms_dse.v1:1#DSE Record for Matthew 12.48.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2266,0.1146,0.1188,0.05323#urn:cite2:fufolio:MSS2017091.v1:recto
+2#urn:cite2:fufolio:jbdms_dse.v1:2#DSE Record for Matthew 12.48.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3470,0.1149,0.06739,0.05155#urn:cite2:fufolio:MSS2017091.v1:recto
+3#urn:cite2:fufolio:jbdms_dse.v1:3#DSE Record for Matthew 12.48.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4182,0.1159,0.03482,0.05323#urn:cite2:fufolio:MSS2017091.v1:recto
+4#urn:cite2:fufolio:jbdms_dse.v1:4#DSE Record for Matthew 12.48.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4477,0.1169,0.1009,0.05054#urn:cite2:fufolio:MSS2017091.v1:recto
+5#urn:cite2:fufolio:jbdms_dse.v1:5#DSE Record for Matthew 12.48.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5499,0.1166,0.05391,0.05020#urn:cite2:fufolio:MSS2017091.v1:recto
+6#urn:cite2:fufolio:jbdms_dse.v1:6#DSE Record for Matthew 12.48.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2300,0.1614,0.05166,0.04818#urn:cite2:fufolio:MSS2017091.v1:recto
+7#urn:cite2:fufolio:jbdms_dse.v1:7#DSE Record for Matthew 12.48.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2810,0.1644,0.04964,0.04481#urn:cite2:fufolio:MSS2017091.v1:recto
+8#urn:cite2:fufolio:jbdms_dse.v1:8#DSE Record for Matthew 12.48.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3297,0.1759,0.01864,0.03470#urn:cite2:fufolio:MSS2017091.v1:recto
+9#urn:cite2:fufolio:jbdms_dse.v1:9#DSE Record for Matthew 12.48.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3495,0.1614,0.04897,0.05391#urn:cite2:fufolio:MSS2017091.v1:recto
+10#urn:cite2:fufolio:jbdms_dse.v1:10#DSE Record for Matthew 12.48.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3953,0.1705,0.03819,0.03639#urn:cite2:fufolio:MSS2017091.v1:recto
+11#urn:cite2:fufolio:jbdms_dse.v1:11#DSE Record for Matthew 12.48.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4405,0.1695,0.04672,0.03740#urn:cite2:fufolio:MSS2017091.v1:recto
+12#urn:cite2:fufolio:jbdms_dse.v1:12#DSE Record for Matthew 12.48.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4850,0.1604,0.06312,0.04380#urn:cite2:fufolio:MSS2017091.v1:recto
+13#urn:cite2:fufolio:jbdms_dse.v1:13#DSE Record for Matthew 12.48.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5501,0.1637,0.06199,0.05020#urn:cite2:fufolio:MSS2017091.v1:recto
+14#urn:cite2:fufolio:jbdms_dse.v1:14#DSE Record for Matthew 12.48.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2278,0.2086,0.02898,0.04582#urn:cite2:fufolio:MSS2017091.v1:recto
+15#urn:cite2:fufolio:jbdms_dse.v1:15#DSE Record for Matthew 12.48.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2563,0.2099,0.09816,0.04245#urn:cite2:fufolio:MSS2017091.v1:recto
+16#urn:cite2:fufolio:jbdms_dse.v1:16#DSE Record for Matthew 12.48.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3522,0.2123,0.04155,0.03706#urn:cite2:fufolio:MSS2017091.v1:recto
+17#urn:cite2:fufolio:jbdms_dse.v1:17#DSE Record for Matthew 12.49.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4075,0.2123,0.04245,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+18#urn:cite2:fufolio:jbdms_dse.v1:18#DSE Record for Matthew 12.49.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4524,0.2139,0.09883,0.04111#urn:cite2:fufolio:MSS2017091.v1:recto
+19#urn:cite2:fufolio:jbdms_dse.v1:19#DSE Record for Matthew 12.49.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5532,0.2062,0.05256,0.05054#urn:cite2:fufolio:MSS2017091.v1:recto
+20#urn:cite2:fufolio:jbdms_dse.v1:20#DSE Record for Matthew 12.49.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2264,0.2577,0.07951,0.04650#urn:cite2:fufolio:MSS2017091.v1:recto
+21#urn:cite2:fufolio:jbdms_dse.v1:21#DSE Record for Matthew 12.49.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3064,0.2510,0.06267,0.04414#urn:cite2:fufolio:MSS2017091.v1:recto
+22#urn:cite2:fufolio:jbdms_dse.v1:22#DSE Record for Matthew 12.49.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3697,0.2463,0.04155,0.04515#urn:cite2:fufolio:MSS2017091.v1:recto
+23#urn:cite2:fufolio:jbdms_dse.v1:23#DSE Record for Matthew 12.49.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4117,0.2510,0.04582,0.04313#urn:cite2:fufolio:MSS2017091.v1:recto
+24#urn:cite2:fufolio:jbdms_dse.v1:24#DSE Record for Matthew 12.49.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4589,0.2483,0.1597,0.05593#urn:cite2:fufolio:MSS2017091.v1:recto
+25#urn:cite2:fufolio:jbdms_dse.v1:25#DSE Record for Matthew 12.49.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2246,0.2965,0.07143,0.03807#urn:cite2:fufolio:MSS2017091.v1:recto
+26#urn:cite2:fufolio:jbdms_dse.v1:26#DSE Record for Matthew 12.49.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3048,0.2935,0.07143,0.04616#urn:cite2:fufolio:MSS2017091.v1:recto
+27#urn:cite2:fufolio:jbdms_dse.v1:27#DSE Record for Matthew 12.49.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3810,0.2918,0.06020,0.04818#urn:cite2:fufolio:MSS2017091.v1:recto
+28#urn:cite2:fufolio:jbdms_dse.v1:28#DSE Record for Matthew 12.49.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4394,0.3022,0.01774,0.03908#urn:cite2:fufolio:MSS2017091.v1:recto
+29#urn:cite2:fufolio:jbdms_dse.v1:29#DSE Record for Matthew 12.49.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4546,0.2914,0.04852,0.05189#urn:cite2:fufolio:MSS2017091.v1:recto
+30#urn:cite2:fufolio:jbdms_dse.v1:30#DSE Record for Matthew 12.49.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5011,0.3005,0.04650,0.04077#urn:cite2:fufolio:MSS2017091.v1:recto
+31#urn:cite2:fufolio:jbdms_dse.v1:31#DSE Record for Matthew 12.49.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5456,0.3036,0.03571,0.03571#urn:cite2:fufolio:MSS2017091.v1:recto
+32#urn:cite2:fufolio:jbdms_dse.v1:32#DSE Record for Matthew 12.49.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5768,0.2884,0.02965,0.05391#urn:cite2:fufolio:MSS2017091.v1:recto
+33#urn:cite2:fufolio:jbdms_dse.v1:33#DSE Record for Matthew 12.49.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2314,0.3329,0.1031,0.04009#urn:cite2:fufolio:MSS2017091.v1:recto
+34#urn:cite2:fufolio:jbdms_dse.v1:34#DSE Record for Matthew 12.49.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3351,0.3393,0.03774,0.03605#urn:cite2:fufolio:MSS2017091.v1:recto
+35#urn:cite2:fufolio:jbdms_dse.v1:35#DSE Record for Matthew 12.50.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3747,0.3352,0.07480,0.04178#urn:cite2:fufolio:MSS2017091.v1:recto
+36#urn:cite2:fufolio:jbdms_dse.v1:36#DSE Record for Matthew 12.50.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4515,0.3440,0.03302,0.03673#urn:cite2:fufolio:MSS2017091.v1:recto
+37#urn:cite2:fufolio:jbdms_dse.v1:37#DSE Record for Matthew 12.50.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4883,0.3440,0.02561,0.03470#urn:cite2:fufolio:MSS2017091.v1:recto
+38#urn:cite2:fufolio:jbdms_dse.v1:38#DSE Record for Matthew 12.50.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5148,0.3534,0.08356,0.02594#urn:cite2:fufolio:MSS2017091.v1:recto
+39#urn:cite2:fufolio:jbdms_dse.v1:39#DSE Record for Matthew 12.50.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2289,0.3804,0.02606,0.03841#urn:cite2:fufolio:MSS2017091.v1:recto
+40#urn:cite2:fufolio:jbdms_dse.v1:40#DSE Record for Matthew 12.50.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2574,0.3804,0.08086,0.03639#urn:cite2:fufolio:MSS2017091.v1:recto
+41#urn:cite2:fufolio:jbdms_dse.v1:41#DSE Record for Matthew 12.50.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3423,0.3892,0.04133,0.02628#urn:cite2:fufolio:MSS2017091.v1:recto
+42#urn:cite2:fufolio:jbdms_dse.v1:42#DSE Record for Matthew 12.50.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3839,0.3881,0.04582,0.03437#urn:cite2:fufolio:MSS2017091.v1:recto
+43#urn:cite2:fufolio:jbdms_dse.v1:43#DSE Record for Matthew 12.50.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4308,0.3922,0.04403,0.02864#urn:cite2:fufolio:MSS2017091.v1:recto
+44#urn:cite2:fufolio:jbdms_dse.v1:44#DSE Record for Matthew 12.50.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4771,0.3814,0.03976,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+45#urn:cite2:fufolio:jbdms_dse.v1:45#DSE Record for Matthew 12.50.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5191,0.3875,0.02358,0.02999#urn:cite2:fufolio:MSS2017091.v1:recto
+46#urn:cite2:fufolio:jbdms_dse.v1:46#DSE Record for Matthew 12.50.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5442,0.3817,0.07075,0.04043#urn:cite2:fufolio:MSS2017091.v1:recto
+47#urn:cite2:fufolio:jbdms_dse.v1:47#DSE Record for Matthew 12.50.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2316,0.4208,0.06918,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+48#urn:cite2:fufolio:jbdms_dse.v1:48#DSE Record for Matthew 12.50.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3005,0.4333,0.04133,0.02358#urn:cite2:fufolio:MSS2017091.v1:recto
+49#urn:cite2:fufolio:jbdms_dse.v1:49#DSE Record for Matthew 12.50.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3432,0.4232,0.1013,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+50#urn:cite2:fufolio:jbdms_dse.v1:50#DSE Record for Matthew 12.50.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4479,0.4235,0.04021,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+51#urn:cite2:fufolio:jbdms_dse.v1:51#DSE Record for Matthew 12.50.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4892,0.4235,0.08850,0.04549#urn:cite2:fufolio:MSS2017091.v1:recto
+52#urn:cite2:fufolio:jbdms_dse.v1:52#DSE Record for Matthew 12.50.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5791,0.4306,0.02269,0.03706#urn:cite2:fufolio:MSS2017091.v1:recto
+53#urn:cite2:fufolio:jbdms_dse.v1:53#DSE Record for Matthew 12.50.19, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.19#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2242,0.4690,0.04942,0.03774#urn:cite2:fufolio:MSS2017091.v1:recto
+54#urn:cite2:fufolio:jbdms_dse.v1:54#DSE Record for Matthew 12.50.20, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.20#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2790,0.4670,0.04582,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+55#urn:cite2:fufolio:jbdms_dse.v1:55#DSE Record for Matthew 13.1.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3414,0.4653,0.03122,0.04380#urn:cite2:fufolio:MSS2017091.v1:recto
+56#urn:cite2:fufolio:jbdms_dse.v1:56#DSE Record for Matthew 13.1.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3749,0.4629,0.03055,0.05020#urn:cite2:fufolio:MSS2017091.v1:recto
+57#urn:cite2:fufolio:jbdms_dse.v1:57#DSE Record for Matthew 13.1.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4081,0.4727,0.02538,0.03470#urn:cite2:fufolio:MSS2017091.v1:recto
+58#urn:cite2:fufolio:jbdms_dse.v1:58#DSE Record for Matthew 13.1.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4358,0.4653,0.07637,0.04077#urn:cite2:fufolio:MSS2017091.v1:recto
+59#urn:cite2:fufolio:jbdms_dse.v1:59#DSE Record for Matthew 13.1.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5139,0.4663,0.08221,0.03942#urn:cite2:fufolio:MSS2017091.v1:recto
+60#urn:cite2:fufolio:jbdms_dse.v1:60#DSE Record for Matthew 13.1.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2253,0.5034,0.1080,0.04919#urn:cite2:fufolio:MSS2017091.v1:recto
+61#urn:cite2:fufolio:jbdms_dse.v1:61#DSE Record for Matthew 13.1.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3338,0.5172,0.01146,0.03470#urn:cite2:fufolio:MSS2017091.v1:recto
+62#urn:cite2:fufolio:jbdms_dse.v1:62#DSE Record for Matthew 13.1.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3470,0.5232,0.02538,0.02999#urn:cite2:fufolio:MSS2017091.v1:recto
+63#urn:cite2:fufolio:jbdms_dse.v1:63#DSE Record for Matthew 13.1.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3715,0.5216,0.04155,0.02796#urn:cite2:fufolio:MSS2017091.v1:recto
+64#urn:cite2:fufolio:jbdms_dse.v1:64#DSE Record for Matthew 13.1.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4528,0.5125,0.07772,0.04313#urn:cite2:fufolio:MSS2017091.v1:recto
+65#urn:cite2:fufolio:jbdms_dse.v1:65#DSE Record for Matthew 13.1.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5359,0.5084,0.07435,0.04447#urn:cite2:fufolio:MSS2017091.v1:recto
+66#urn:cite2:fufolio:jbdms_dse.v1:66#DSE Record for Matthew 13.1.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2287,0.5549,0.07188,0.03605#urn:cite2:fufolio:MSS2017091.v1:recto
+67#urn:cite2:fufolio:jbdms_dse.v1:67#DSE Record for Matthew 13.1.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3044,0.5569,0.03998,0.03336#urn:cite2:fufolio:MSS2017091.v1:recto
+68#urn:cite2:fufolio:jbdms_dse.v1:68#DSE Record for Matthew 13.1.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3446,0.5546,0.06402,0.04346#urn:cite2:fufolio:MSS2017091.v1:recto
+69#urn:cite2:fufolio:jbdms_dse.v1:69#DSE Record for Matthew 13.2.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4717,0.5650,0.03122,0.03875#urn:cite2:fufolio:MSS2017091.v1:recto
+70#urn:cite2:fufolio:jbdms_dse.v1:70#DSE Record for Matthew 13.2.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5011,0.5563,0.09816,0.04245#urn:cite2:fufolio:MSS2017091.v1:recto
+71#urn:cite2:fufolio:jbdms_dse.v1:71#DSE Record for Matthew 13.2.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5038,0.5650,0.09704,0.03639#urn:cite2:fufolio:MSS2017091.v1:recto
+72#urn:cite2:fufolio:jbdms_dse.v1:72#DSE Record for Matthew 13.2.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2311,0.6034,0.04492,0.03100#urn:cite2:fufolio:MSS2017091.v1:recto
+73#urn:cite2:fufolio:jbdms_dse.v1:73#DSE Record for Matthew 13.2.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3277,0.5970,0.06199,0.04144#urn:cite2:fufolio:MSS2017091.v1:recto
+74#urn:cite2:fufolio:jbdms_dse.v1:74#DSE Record for Matthew 13.2.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3899,0.5920,0.07098,0.05458#urn:cite2:fufolio:MSS2017091.v1:recto
+75#urn:cite2:fufolio:jbdms_dse.v1:75#DSE Record for Matthew 13.2.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4593,0.5937,0.08154,0.05121#urn:cite2:fufolio:MSS2017091.v1:recto
+76#urn:cite2:fufolio:jbdms_dse.v1:76#DSE Record for Matthew 13.2.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5451,0.5943,0.06357,0.04447#urn:cite2:fufolio:MSS2017091.v1:recto
+77#urn:cite2:fufolio:jbdms_dse.v1:77#DSE Record for Matthew 13.2.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2257,0.6392,0.06020,0.03605#urn:cite2:fufolio:MSS2017091.v1:recto
+78#urn:cite2:fufolio:jbdms_dse.v1:78#DSE Record for Matthew 13.2.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2866,0.6408,0.03055,0.02999#urn:cite2:fufolio:MSS2017091.v1:recto
+79#urn:cite2:fufolio:jbdms_dse.v1:79#DSE Record for Matthew 13.2.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3181,0.6435,0.08019,0.02594#urn:cite2:fufolio:MSS2017091.v1:recto
+80#urn:cite2:fufolio:jbdms_dse.v1:80#DSE Record for Matthew 13.2.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4009,0.6395,0.1114,0.03235#urn:cite2:fufolio:MSS2017091.v1:recto
+81#urn:cite2:fufolio:jbdms_dse.v1:81#DSE Record for Matthew 13.2.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5137,0.6456,0.09928,0.02999#urn:cite2:fufolio:MSS2017091.v1:recto
+82#urn:cite2:fufolio:jbdms_dse.v1:82#DSE Record for Matthew 13.2.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2170,0.6823,0.03167,0.03538#urn:cite2:fufolio:MSS2017091.v1:recto
+83#urn:cite2:fufolio:jbdms_dse.v1:83#DSE Record for Matthew 13.2.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2466,0.6850,0.05144,0.02965#urn:cite2:fufolio:MSS2017091.v1:recto
+84#urn:cite2:fufolio:jbdms_dse.v1:84#DSE Record for Matthew 13.2.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3017,0.6863,0.01415,0.02999#urn:cite2:fufolio:MSS2017091.v1:recto
+85#urn:cite2:fufolio:jbdms_dse.v1:85#DSE Record for Matthew 13.2.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3169,0.6833,0.07749,0.03706#urn:cite2:fufolio:MSS2017091.v1:recto
+86#urn:cite2:fufolio:jbdms_dse.v1:86#DSE Record for Matthew 13.2.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3971,0.6833,0.03706,0.03336#urn:cite2:fufolio:MSS2017091.v1:recto
+87#urn:cite2:fufolio:jbdms_dse.v1:87#DSE Record for Matthew 13.2.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4353,0.6799,0.03953,0.03571#urn:cite2:fufolio:MSS2017091.v1:recto
+88#urn:cite2:fufolio:jbdms_dse.v1:88#DSE Record for Matthew 13.2.19, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.19#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4757,0.6796,0.09816,0.04245#urn:cite2:fufolio:MSS2017091.v1:recto
+89#urn:cite2:fufolio:jbdms_dse.v1:89#DSE Record for Matthew 13.2.20, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.20#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5748,0.6830,0.06155,0.03571#urn:cite2:fufolio:MSS2017091.v1:recto
+90#urn:cite2:fufolio:jbdms_dse.v1:90#DSE Record for Matthew 13.2.20, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.20#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4757,0.6796,0.09816,0.04245#urn:cite2:fufolio:MSS2017091.v1:recto
+91#urn:cite2:fufolio:jbdms_dse.v1:91#DSE Record for Matthew 13.3.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2951,0.7237,0.02269,0.03908#urn:cite2:fufolio:MSS2017091.v1:recto
+92#urn:cite2:fufolio:jbdms_dse.v1:92#DSE Record for Matthew 13.3.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3201,0.7227,0.1101,0.03336#urn:cite2:fufolio:MSS2017091.v1:recto
+93#urn:cite2:fufolio:jbdms_dse.v1:93#DSE Record for Matthew 13.3.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4308,0.7173,0.06739,0.04178#urn:cite2:fufolio:MSS2017091.v1:recto
+94#urn:cite2:fufolio:jbdms_dse.v1:94#DSE Record for Matthew 13.3.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4946,0.7166,0.03684,0.04515#urn:cite2:fufolio:MSS2017091.v1:recto
+95#urn:cite2:fufolio:jbdms_dse.v1:95#DSE Record for Matthew 13.3.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5272,0.7254,0.07255,0.03201#urn:cite2:fufolio:MSS2017091.v1:recto
+96#urn:cite2:fufolio:jbdms_dse.v1:96#DSE Record for Matthew 13.3.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2197,0.7665,0.09097,0.04009#urn:cite2:fufolio:MSS2017091.v1:recto
+97#urn:cite2:fufolio:jbdms_dse.v1:97#DSE Record for Matthew 13.3.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3084,0.7571,0.09142,0.05357#urn:cite2:fufolio:MSS2017091.v1:recto
+98#urn:cite2:fufolio:jbdms_dse.v1:98#DSE Record for Matthew 13.3.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4014,0.7631,0.07862,0.04481#urn:cite2:fufolio:MSS2017091.v1:recto
+99#urn:cite2:fufolio:jbdms_dse.v1:99#DSE Record for Matthew 13.3.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4787,0.7584,0.05593,0.04885#urn:cite2:fufolio:MSS2017091.v1:recto
+100#urn:cite2:fufolio:jbdms_dse.v1:100#DSE Record for Matthew 13.3.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5337,0.7409,0.07974,0.07177#urn:cite2:fufolio:MSS2017091.v1:recto
+101#urn:cite2:fufolio:jbdms_dse.v1:101#DSE Record for Matthew 13.3.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2201,0.8012,0.09636,0.05155#urn:cite2:fufolio:MSS2017091.v1:recto
+102#urn:cite2:fufolio:jbdms_dse.v1:102#DSE Record for Matthew 13.3.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3133,0.8049,0.04425,0.04009#urn:cite2:fufolio:MSS2017091.v1:recto
+103#urn:cite2:fufolio:jbdms_dse.v1:103#DSE Record for Matthew 13.3.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3562,0.8015,0.09322,0.04751#urn:cite2:fufolio:MSS2017091.v1:recto
+104#urn:cite2:fufolio:jbdms_dse.v1:104#DSE Record for Matthew 13.4.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4524,0.8022,0.03594,0.04178#urn:cite2:fufolio:MSS2017091.v1:recto
+105#urn:cite2:fufolio:jbdms_dse.v1:105#DSE Record for Matthew 13.4.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4865,0.8032,0.03414,0.04987#urn:cite2:fufolio:MSS2017091.v1:recto
+106#urn:cite2:fufolio:jbdms_dse.v1:106#DSE Record for Matthew 13.4.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5200,0.8056,0.04178,0.04582#urn:cite2:fufolio:MSS2017091.v1:recto
+107#urn:cite2:fufolio:jbdms_dse.v1:107#DSE Record for Matthew 13.4.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5591,0.7978,0.04874,0.05222#urn:cite2:fufolio:MSS2017091.v1:recto
+108#urn:cite2:fufolio:jbdms_dse.v1:108#DSE Record for Matthew 13.4.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2170,0.8558,0.04650,0.04751#urn:cite2:fufolio:MSS2017091.v1:recto
+109#urn:cite2:fufolio:jbdms_dse.v1:109#DSE Record for Matthew 13.4.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2633,0.8470,0.07008,0.04380#urn:cite2:fufolio:MSS2017091.v1:recto
+110#urn:cite2:fufolio:jbdms_dse.v1:110#DSE Record for Matthew 13.4.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3311,0.8437,0.02493,0.04144#urn:cite2:fufolio:MSS2017091.v1:recto
+111#urn:cite2:fufolio:jbdms_dse.v1:111#DSE Record for Matthew 13.4.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3585,0.8437,0.05009,0.04987#urn:cite2:fufolio:MSS2017091.v1:recto
+112#urn:cite2:fufolio:jbdms_dse.v1:112#DSE Record for Matthew 13.4.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4111,0.8410,0.07929,0.04919#urn:cite2:fufolio:MSS2017091.v1:recto
+113#urn:cite2:fufolio:jbdms_dse.v1:113#DSE Record for Matthew 13.4.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4111,0.8410,0.07929,0.04919#urn:cite2:fufolio:MSS2017091.v1:recto
+114#urn:cite2:fufolio:jbdms_dse.v1:114#DSE Record for Matthew 13.4.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5622,0.8427,0.03077,0.05020#urn:cite2:fufolio:MSS2017091.v1:recto
+115#urn:cite2:fufolio:jbdms_dse.v1:115#DSE Record for Matthew 13.4.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2145,0.8952,0.07210,0.04178#urn:cite2:fufolio:MSS2017091.v1:recto
+116#urn:cite2:fufolio:jbdms_dse.v1:116#DSE Record for Matthew 13.4.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.2884,0.8935,0.02022,0.05020#urn:cite2:fufolio:MSS2017091.v1:recto
+117#urn:cite2:fufolio:jbdms_dse.v1:117#DSE Record for Matthew 13.4.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3109,0.8922,0.06222,0.05256#urn:cite2:fufolio:MSS2017091.v1:recto
+118#urn:cite2:fufolio:jbdms_dse.v1:118#DSE Record for Matthew 13.4.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.3686,0.8848,0.04358,0.06031#urn:cite2:fufolio:MSS2017091.v1:recto
+119#urn:cite2:fufolio:jbdms_dse.v1:119#DSE Record for Matthew 13.4.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.4111,0.8912,0.1015,0.04818#urn:cite2:fufolio:MSS2017091.v1:recto
+120#urn:cite2:fufolio:jbdms_dse.v1:120#DSE Record for Matthew 13.4.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5092,0.8972,0.04088,0.04144#urn:cite2:fufolio:MSS2017091.v1:recto
+121#urn:cite2:fufolio:jbdms_dse.v1:121#DSE Record for Matthew 13.4.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091r@0.5514,0.8922,0.05323,0.04683#urn:cite2:fufolio:MSS2017091.v1:recto
+122#urn:cite2:fufolio:jbdms_dse.v1:122#DSE Record for Matthew 13.5.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4156,0.1635,0.05048,0.03382#urn:cite2:fufolio:MSS2017091.v1:verso
+123#urn:cite2:fufolio:jbdms_dse.v1:123#DSE Record for Matthew 13.5.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4692,0.1694,0.05317,0.03289#urn:cite2:fufolio:MSS2017091.v1:verso
+124#urn:cite2:fufolio:jbdms_dse.v1:124#DSE Record for Matthew 13.5.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5242,0.1734,0.04365,0.03568#urn:cite2:fufolio:MSS2017091.v1:verso
+125#urn:cite2:fufolio:jbdms_dse.v1:125#DSE Record for Matthew 13.5.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5604,0.1651,0.05254,0.04344#urn:cite2:fufolio:MSS2017091.v1:verso
+126#urn:cite2:fufolio:jbdms_dse.v1:126#DSE Record for Matthew 13.5.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6152,0.1843,0.03496,0.02917#urn:cite2:fufolio:MSS2017091.v1:verso
+127#urn:cite2:fufolio:jbdms_dse.v1:127#DSE Record for Matthew 13.5.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3269,0.2004,0.05730,0.02606#urn:cite2:fufolio:MSS2017091.v1:verso
+128#urn:cite2:fufolio:jbdms_dse.v1:128#DSE Record for Matthew 13.5.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4187,0.2020,0.04137,0.03413#urn:cite2:fufolio:MSS2017091.v1:verso
+129#urn:cite2:fufolio:jbdms_dse.v1:129#DSE Record for Matthew 13.5.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4619,0.2076,0.07468,0.03258#urn:cite2:fufolio:MSS2017091.v1:verso
+130#urn:cite2:fufolio:jbdms_dse.v1:130#DSE Record for Matthew 13.5.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5403,0.2101,0.1189,0.03723#urn:cite2:fufolio:MSS2017091.v1:verso
+131#urn:cite2:fufolio:jbdms_dse.v1:131#DSE Record for Matthew 13.5.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3204,0.2336,0.04572,0.04002#urn:cite2:fufolio:MSS2017091.v1:verso
+132#urn:cite2:fufolio:jbdms_dse.v1:132#DSE Record for Matthew 13.5.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3657,0.2374,0.03434,0.04002#urn:cite2:fufolio:MSS2017091.v1:verso
+133#urn:cite2:fufolio:jbdms_dse.v1:133#DSE Record for Matthew 13.6.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6022,0.2569,0.05999,0.02948#urn:cite2:fufolio:MSS2017091.v1:verso
+134#urn:cite2:fufolio:jbdms_dse.v1:134#DSE Record for Matthew 13.6.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3269,0.2774,0.03413,0.04065#urn:cite2:fufolio:MSS2017091.v1:verso
+135#urn:cite2:fufolio:jbdms_dse.v1:135#DSE Record for Matthew 13.6.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3643,0.2864,0.03972,0.02637#urn:cite2:fufolio:MSS2017091.v1:verso
+136#urn:cite2:fufolio:jbdms_dse.v1:136#DSE Record for Matthew 13.6.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4357,0.2833,0.02607,0.03382#urn:cite2:fufolio:MSS2017091.v1:verso
+137#urn:cite2:fufolio:jbdms_dse.v1:137#DSE Record for Matthew 13.6.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4890,0.2879,0.02462,0.02637#urn:cite2:fufolio:MSS2017091.v1:verso
+138#urn:cite2:fufolio:jbdms_dse.v1:138#DSE Record for Matthew 13.6.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5372,0.2901,0.04675,0.02886#urn:cite2:fufolio:MSS2017091.v1:verso
+139#urn:cite2:fufolio:jbdms_dse.v1:139#DSE Record for Matthew 13.6.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5954,0.2975,0.05482,0.02420#urn:cite2:fufolio:MSS2017091.v1:verso
+140#urn:cite2:fufolio:jbdms_dse.v1:140#DSE Record for Matthew 13.6.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3293,0.3239,0.03951,0.02172#urn:cite2:fufolio:MSS2017091.v1:verso
+141#urn:cite2:fufolio:jbdms_dse.v1:141#DSE Record for Matthew 13.6.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3837,0.3193,0.03868,0.03165#urn:cite2:fufolio:MSS2017091.v1:verso
+142#urn:cite2:fufolio:jbdms_dse.v1:142#DSE Record for Matthew 13.6.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4584,0.3273,0.03062,0.02389#urn:cite2:fufolio:MSS2017091.v1:verso
+143#urn:cite2:fufolio:jbdms_dse.v1:143#DSE Record for Matthew 13.6.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4954,0.3286,0.02731,0.02451#urn:cite2:fufolio:MSS2017091.v1:verso
+144#urn:cite2:fufolio:jbdms_dse.v1:144#DSE Record for Matthew 13.6.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5232,0.3258,0.05668,0.03103#urn:cite2:fufolio:MSS2017091.v1:verso
+145#urn:cite2:fufolio:jbdms_dse.v1:145#DSE Record for Matthew 13.6.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5809,0.3273,0.06868,0.03320#urn:cite2:fufolio:MSS2017091.v1:verso
+146#urn:cite2:fufolio:jbdms_dse.v1:146#DSE Record for Matthew 13.6.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3475,0.3643,0.09102,0.02699#urn:cite2:fufolio:MSS2017091.v1:verso
+147#urn:cite2:fufolio:jbdms_dse.v1:147#DSE Record for Matthew 13.7.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4400,0.3602,0.06496,0.03320#urn:cite2:fufolio:MSS2017091.v1:verso
+148#urn:cite2:fufolio:jbdms_dse.v1:148#DSE Record for Matthew 13.7.1a, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.1a#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5137,0.3574,0.02607,0.03568#urn:cite2:fufolio:MSS2017091.v1:verso
+149#urn:cite2:fufolio:jbdms_dse.v1:149#DSE Record for Matthew 13.7.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5703,0.3698,0.02441,0.02544#urn:cite2:fufolio:MSS2017091.v1:verso
+150#urn:cite2:fufolio:jbdms_dse.v1:150#DSE Record for Matthew 13.7.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5983,0.3667,0.01800,0.02699#urn:cite2:fufolio:MSS2017091.v1:verso
+151#urn:cite2:fufolio:jbdms_dse.v1:151#DSE Record for Matthew 13.7.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6233,0.3705,0.03579,0.03072#urn:cite2:fufolio:MSS2017091.v1:verso
+152#urn:cite2:fufolio:jbdms_dse.v1:152#DSE Record for Matthew 13.7.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3302,0.3993,0.05234,0.02637#urn:cite2:fufolio:MSS2017091.v1:verso
+153#urn:cite2:fufolio:jbdms_dse.v1:153#DSE Record for Matthew 13.7.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3877,0.3993,0.02338,0.02482#urn:cite2:fufolio:MSS2017091.v1:verso
+154#urn:cite2:fufolio:jbdms_dse.v1:154#DSE Record for Matthew 13.7.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4400,0.4021,0.04179,0.02854#urn:cite2:fufolio:MSS2017091.v1:verso
+155#urn:cite2:fufolio:jbdms_dse.v1:155#DSE Record for Matthew 13.7.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4992,0.4021,0.02296,0.03444#urn:cite2:fufolio:MSS2017091.v1:verso
+156#urn:cite2:fufolio:jbdms_dse.v1:156#DSE Record for Matthew 13.7.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5207,0.3950,0.1212,0.04499#urn:cite2:fufolio:MSS2017091.v1:verso
+157#urn:cite2:fufolio:jbdms_dse.v1:157#DSE Record for Matthew 13.7.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6479,0.4077,0.01779,0.02482#urn:cite2:fufolio:MSS2017091.v1:verso
+158#urn:cite2:fufolio:jbdms_dse.v1:158#DSE Record for Matthew 13.7.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3349,0.4421,0.08792,0.02886#urn:cite2:fufolio:MSS2017091.v1:verso
+159#urn:cite2:fufolio:jbdms_dse.v1:159#DSE Record for Matthew 13.7.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4226,0.4421,0.03393,0.02637#urn:cite2:fufolio:MSS2017091.v1:verso
+160#urn:cite2:fufolio:jbdms_dse.v1:160#DSE Record for Matthew 13.7.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5052,0.4446,0.05254,0.02265#urn:cite2:fufolio:MSS2017091.v1:verso
+161#urn:cite2:fufolio:jbdms_dse.v1:161#DSE Record for Matthew 13.7.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5894,0.4518,0.05585,0.02358#urn:cite2:fufolio:MSS2017091.v1:verso
+162#urn:cite2:fufolio:jbdms_dse.v1:162#DSE Record for Matthew 13.8.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3343,0.4818,0.05110,0.02327#urn:cite2:fufolio:MSS2017091.v1:verso
+163#urn:cite2:fufolio:jbdms_dse.v1:163#DSE Record for Matthew 13.8.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3891,0.4753,0.02379,0.02699#urn:cite2:fufolio:MSS2017091.v1:verso
+164#urn:cite2:fufolio:jbdms_dse.v1:164#DSE Record for Matthew 13.8.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4311,0.4843,0.06351,0.01924#urn:cite2:fufolio:MSS2017091.v1:verso
+165#urn:cite2:fufolio:jbdms_dse.v1:165#DSE Record for Matthew 13.8.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5544,0.4908,0.01324,0.02482#urn:cite2:fufolio:MSS2017091.v1:verso
+166#urn:cite2:fufolio:jbdms_dse.v1:166#DSE Record for Matthew 13.8.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5751,0.4884,0.03413,0.02327#urn:cite2:fufolio:MSS2017091.v1:verso
+167#urn:cite2:fufolio:jbdms_dse.v1:167#DSE Record for Matthew 13.8.7, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.7#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6115,0.4760,0.04592,0.03289#urn:cite2:fufolio:MSS2017091.v1:verso
+168#urn:cite2:fufolio:jbdms_dse.v1:168#DSE Record for Matthew 13.8.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3329,0.5079,0.06516,0.04747#urn:cite2:fufolio:MSS2017091.v1:verso
+169#urn:cite2:fufolio:jbdms_dse.v1:169#DSE Record for Matthew 13.8.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5348,0.5281,0.06516,0.02513#urn:cite2:fufolio:MSS2017091.v1:verso
+170#urn:cite2:fufolio:jbdms_dse.v1:170#DSE Record for Matthew 13.8.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6105,0.5107,0.02110,0.03692#urn:cite2:fufolio:MSS2017091.v1:verso
+171#urn:cite2:fufolio:jbdms_dse.v1:171#DSE Record for Matthew 13.8.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6328,0.5073,0.04034,0.04065#urn:cite2:fufolio:MSS2017091.v1:verso
+172#urn:cite2:fufolio:jbdms_dse.v1:172#DSE Record for Matthew 13.8.14, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.14#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3339,0.5600,0.07964,0.02668#urn:cite2:fufolio:MSS2017091.v1:verso
+173#urn:cite2:fufolio:jbdms_dse.v1:173#DSE Record for Matthew 13.8.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5974,0.5579,0.01634,0.03227#urn:cite2:fufolio:MSS2017091.v1:verso
+174#urn:cite2:fufolio:jbdms_dse.v1:174#DSE Record for Matthew 13.8.19, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.19#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.6158,0.5576,0.02213,0.03382#urn:cite2:fufolio:MSS2017091.v1:verso
+175#urn:cite2:fufolio:jbdms_dse.v1:175#DSE Record for Matthew 13.8.20, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.20#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.3337,0.5976,0.1144,0.03196#urn:cite2:fufolio:MSS2017091.v1:verso
+176#urn:cite2:fufolio:jbdms_dse.v1:176#DSE Record for Matthew 13.9.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.4812,0.5920,0.02007,0.04002#urn:cite2:fufolio:MSS2017091.v1:verso
+177#urn:cite2:fufolio:jbdms_dse.v1:177#DSE Record for Matthew 13.9.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv1@0.5052,0.5892,0.05379,0.05306#urn:cite2:fufolio:MSS2017091.v1:verso
+178#urn:cite2:fufolio:jbdms_dse.v1:178#DSE Record for Matthew 13.9.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7436,0.6218,0.05132,0.03203#urn:cite2:fufolio:MSS2017091.v1:verso
+179#urn:cite2:fufolio:jbdms_dse.v1:179#DSE Record for Matthew 13.10.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7773,0.6905,0.02751,0.02926#urn:cite2:fufolio:MSS2017091.v1:verso
+180#urn:cite2:fufolio:jbdms_dse.v1:180#DSE Record for Matthew 13.10.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7436,0.6218,0.05132,0.03203#urn:cite2:fufolio:MSS2017091.v1:verso
+181#urn:cite2:fufolio:jbdms_dse.v1:181#DSE Record for Matthew 13.10.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.5913,0.7204,0.07514,0.03942#urn:cite2:fufolio:MSS2017091.v1:verso
+182#urn:cite2:fufolio:jbdms_dse.v1:182#DSE Record for Matthew 13.10.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6744,0.7302,0.07185,0.03388#urn:cite2:fufolio:MSS2017091.v1:verso
+183#urn:cite2:fufolio:jbdms_dse.v1:183#DSE Record for Matthew 13.11.1, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.1#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7635,0.7148,0.01642,0.04250#urn:cite2:fufolio:MSS2017091.v1:verso
+184#urn:cite2:fufolio:jbdms_dse.v1:184#DSE Record for Matthew 13.11.2, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.2#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7820,0.7200,0.02464,0.04281#urn:cite2:fufolio:MSS2017091.v1:verso
+185#urn:cite2:fufolio:jbdms_dse.v1:185#DSE Record for Matthew 13.11.3, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.3#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.4759,0.7690,0.1454,0.02864#urn:cite2:fufolio:MSS2017091.v1:verso
+186#urn:cite2:fufolio:jbdms_dse.v1:186#DSE Record for Matthew 13.11.4, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.4#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6259,0.7598,0.08232,0.03603#urn:cite2:fufolio:MSS2017091.v1:verso
+187#urn:cite2:fufolio:jbdms_dse.v1:187#DSE Record for Matthew 13.11.5, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.5#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7052,0.7579,0.07883,0.03634#urn:cite2:fufolio:MSS2017091.v1:verso
+188#urn:cite2:fufolio:jbdms_dse.v1:188#DSE Record for Matthew 13.11.6, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.6#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.4742,0.8047,0.03921,0.02464#urn:cite2:fufolio:MSS2017091.v1:verso
+189#urn:cite2:fufolio:jbdms_dse.v1:189#DSE Record for Matthew 13.11.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.5769,0.7943,0.01540,0.02957#urn:cite2:fufolio:MSS2017091.v1:verso
+190#urn:cite2:fufolio:jbdms_dse.v1:190#DSE Record for Matthew 13.11.8, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.8#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6362,0.8017,0.04250,0.02741#urn:cite2:fufolio:MSS2017091.v1:verso
+191#urn:cite2:fufolio:jbdms_dse.v1:191#DSE Record for Matthew 13.11.9, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.9#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6840,0.8047,0.08150,0.02679#urn:cite2:fufolio:MSS2017091.v1:verso
+192#urn:cite2:fufolio:jbdms_dse.v1:192#DSE Record for Matthew 13.11.10, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.10#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7697,0.8081,0.03798,0.03111#urn:cite2:fufolio:MSS2017091.v1:verso
+193#urn:cite2:fufolio:jbdms_dse.v1:193#DSE Record for Matthew 13.11.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7697,0.8081,0.03798,0.03111#urn:cite2:fufolio:MSS2017091.v1:verso
+194#urn:cite2:fufolio:jbdms_dse.v1:194#DSE Record for Matthew 13.11.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.5966,0.8426,0.01622,0.01786#urn:cite2:fufolio:MSS2017091.v1:verso
+195#urn:cite2:fufolio:jbdms_dse.v1:195#DSE Record for Matthew 13.11.12, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.12#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6159,0.8432,0.009444,0.02002#urn:cite2:fufolio:MSS2017091.v1:verso
+196#urn:cite2:fufolio:jbdms_dse.v1:196#DSE Record for Matthew 13.11.13, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.13#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6159,0.8432,0.009444,0.02002#urn:cite2:fufolio:MSS2017091.v1:verso
+197#urn:cite2:fufolio:jbdms_dse.v1:197#DSE Record for Matthew 13.11.15, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.15#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.5241,0.8827,0.03408,0.02279#urn:cite2:fufolio:MSS2017091.v1:verso
+198#urn:cite2:fufolio:jbdms_dse.v1:198#DSE Record for Matthew 13.11.16, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.16#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.5929,0.8725,0.07575,0.03634#urn:cite2:fufolio:MSS2017091.v1:verso
+199#urn:cite2:fufolio:jbdms_dse.v1:199#DSE Record for Matthew 13.11.17, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.17#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.6732,0.8617,0.03203,0.04958#urn:cite2:fufolio:MSS2017091.v1:verso
+200#urn:cite2:fufolio:jbdms_dse.v1:200#DSE Record for Matthew 13.11.18, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.18#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7099,0.8759,0.03777,0.03326#urn:cite2:fufolio:MSS2017091.v1:verso
+201#urn:cite2:fufolio:jbdms_dse.v1:201#DSE Record for Matthew 13.11, JBDMS 2017-091#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11#urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2@0.7499,0.8657,0.03695,0.04835#urn:cite2:fufolio:MSS2017091.v1:verso
+
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.3#ἀποκριθεὶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.4#εἶπε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.5#τῶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.6#εἰποντι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.7#αὐτῶ· 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.8#τίς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.9#ἐστιν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.10#ἡ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.11#μήτηρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.12#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.13#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.14#τίνες 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.15#εἰσὶν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.16#οἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.17#ἀδελφοί 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.48.18#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.2#ἐκτείνας 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.3#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.4#χειρα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.5#αὐτοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.6#ἐπι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.7#τοὺς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.8#μαθητὰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.9#αὐτοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.10#εἶπεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.11#ἴδου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.12#ἡ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.13#μήτηρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.14#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.15#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.16#οἱ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.17#ἀδελφοί 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.49.18#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.1#ὅστις 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.2#γὰρ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.3#ἂν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.4#ποιήσῃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.5#τὸ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.6#θέλημα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.7#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.8#πρς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.9#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.10#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.11#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.12#οὐρανοις
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.13#αὐτός 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.14#μου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.15#ἀδελφὸς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.16#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.17#ἀδελφὴ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.18#καὶ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.19#μηρ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:12.50.20#ἐστίν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.1#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.3#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.4#ἡμέρᾳ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.5#ἐκείνῃ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.6#ἐξελθὼν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.7#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.8#ις 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.9#ἀπο 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.10#οἰκίας
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.11#ἐκάθητο
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.12#παρὰ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.13#τὴν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.14#θάλα
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.2#συνήχθησαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.3#πρὸς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.4#αὐτὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.5#ὄχλοι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.6#πολλοί
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.7#ὥστε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.8#αὐτὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.9#εἰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.10#πλοῖον 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.11#ἐμβάντα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.12#καθῆσθαι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.13#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.14#πᾶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.15#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.16#ὄχλος 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.17#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.18#τὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.19#αἰγιαλὸν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.2.20#εἱστήκει 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.2#ἐλάλησεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.3#αὐτοῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.4#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.5#παραβολαῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.6#πολλά
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.7#λέγων
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.8#ἴδου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.9#ἐξῆλθεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.10#σπείρων 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.11#τοῦ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.12#σπεῖραι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.1#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.2#ἐν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.3#τω
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.4#σπείρειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.5#αὐτὸν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.6#ἃ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.7#μὲν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.8#ἔπεσε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.9#παρὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.10#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.11#ὁδόν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.12#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.13#ἦλθε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.14#τὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.15#πετεινὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.16#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.17#κατε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.6#ετρωδη 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.7#ὅπου 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.8#οὐκ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.9#εἶχε 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.10#γῆν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.11#πολλ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.12#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.13#εὐθέως 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.14#ἐξανέτειλ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.15#διὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.5.16#τὸ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.1#ἡλίο
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.3#ἀνα ιλ το
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.4#εκα ματίσθη
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.5#καὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.7#τὸ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.8#μὴ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.9#ἔχειν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.10#ῥίζαν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.6.11#ηρανθη 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.1#ἄλλλα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.1a#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.2#ἔπε εν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.3#ἐπὶ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.4#τὰς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.5#ἀκάνθας
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.6#καὶ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.7#ε ησ ν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.8#τα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.9#ἄκανθαι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.10#καὶ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.11#πνιξαν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.7.12#αὐτά 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.1#ἄλλα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.3#ἔπεσεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.5#ν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.6#γῆν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.7#τὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.8#καλὴν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.11#καρπόν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.12#ὃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.13#μὲν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.14#ἑκατὸν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.18#ὃ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.19#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.8.20#τριάκοντα 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.1#ὁ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.2#εχ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.9.5#ἀκουέ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.10#παραβολαῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.11#λαλεῖς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.10.12#αὐτοῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.1#ὁ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.2#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.3#ἀποκριθεὶς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.4#εἶπεν 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.5#αὐτοῖς
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.6#οτ
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.8#δ ται
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.9#γνῶναι 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.10#τὰ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.11#στήρια 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.12#τ ς 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.13#βασιλείας 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.15#ῶν
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.16#κείνοις 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.17#δὲ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.18#οὐ 
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.19#δέ
