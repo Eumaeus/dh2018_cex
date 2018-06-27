@@ -1,0 +1,638 @@
+// Library of texts for teaching CITE Collections
+// The pound sign "#" is used as a column divider.
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#Cork Demonstration Library 5
+urn#urn:cite2:furman:cex.2017a:corkDemo5
+license#The Irish text of Caoineadh Airt Uí Laoghaire is in the public domain. The English translation by T. Kinsella was published in "An Duanaire - Poems of the Dispossessed: an anthology of Gaelic poems", edited by Seán Ó Tuama (Dolmen Press, Portlaoise 1981 ISBN 0-85105-363-7). Included in this demonstration dataset under the doctrine of Fair Use. Please do not distribute further.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:gleLit:chonaill.airt.gle:#Stanza/Section/Line#Eibhlín Dhubh Ní Chonaill#Caoineadh Airt Uí Laoghaire#Demonstration Edition (Irish)##true#gle
+urn:cts:gleLit:chonaill.airt.eng:#Stanza/Section/Line#Eibhlín Dhubh Ní Chonaill#Caoineadh Airt Uí Laoghaire#The Lament For Art Ó Laoghaire, T. Kinsella, trans.##true#eng
+
+#!ctsdata
+urn:cts:gleLit:chonaill.airt.gle:1.1.1#Mo ghrá go daingean tu!
+urn:cts:gleLit:chonaill.airt.gle:1.1.2#Lá dá bhfaca thu
+urn:cts:gleLit:chonaill.airt.gle:1.1.3#ag ceann tí an mhargaidh,
+urn:cts:gleLit:chonaill.airt.gle:1.1.4#thug mo shúil aire dhuit,
+urn:cts:gleLit:chonaill.airt.gle:1.1.5#thug mo chroí taitnearnh duit,
+urn:cts:gleLit:chonaill.airt.gle:1.1.6#d'éalaíos óm charaid leat
+urn:cts:gleLit:chonaill.airt.gle:1.1.7#i bhfad ó bhaile leat.
+urn:cts:gleLit:chonaill.airt.gle:1.2.1#Is domhsa nárbh aithreach:
+urn:cts:gleLit:chonaill.airt.gle:1.2.2#Chuiris parlús á ghealadh dhom,
+urn:cts:gleLit:chonaill.airt.gle:1.2.3#rúrnanna á mbreacadh dhom,
+urn:cts:gleLit:chonaill.airt.gle:1.2.4#bácús á dheargadh dhom,
+urn:cts:gleLit:chonaill.airt.gle:1.2.5#brící á gceapadh dhom,
+urn:cts:gleLit:chonaill.airt.gle:1.2.6#rósta ar bhearaibh dom,
+urn:cts:gleLit:chonaill.airt.gle:1.2.7#mairt á leagadh dhom;
+urn:cts:gleLit:chonaill.airt.gle:1.2.8#codladh i gclúmh lachan dom
+urn:cts:gleLit:chonaill.airt.gle:1.2.9#go dtíodh an t-eadartha
+urn:cts:gleLit:chonaill.airt.gle:1.2.10#nó thairis dá dtaitneadh liorn.
+urn:cts:gleLit:chonaill.airt.gle:1.3.1#Mo chara go daingean tu!
+urn:cts:gleLit:chonaill.airt.gle:1.3.2#is cuimhin lem aigne
+urn:cts:gleLit:chonaill.airt.gle:1.3.3#an lá breá earraigh úd,
+urn:cts:gleLit:chonaill.airt.gle:1.3.4#gur bhreá thiodh hata dhuit
+urn:cts:gleLit:chonaill.airt.gle:1.3.5#faoi bhanda óir tarraingthe;
+urn:cts:gleLit:chonaill.airt.gle:1.3.6#claíomh cinn airgid,
+urn:cts:gleLit:chonaill.airt.gle:1.3.7#lámh dheas chalma,
+urn:cts:gleLit:chonaill.airt.gle:1.3.8#rompsáil bhagarthach -
+urn:cts:gleLit:chonaill.airt.gle:1.3.9#fír-chritheagla
+urn:cts:gleLit:chonaill.airt.gle:1.3.10#ar námhaid chealgach -
+urn:cts:gleLit:chonaill.airt.gle:1.3.11#tú i gcóir chun falaracht
+urn:cts:gleLit:chonaill.airt.gle:1.3.12#is each caol ceannann fút.
+urn:cts:gleLit:chonaill.airt.gle:1.3.13#D'umhlaídís Sasanaigh
+urn:cts:gleLit:chonaill.airt.gle:1.3.14#síos go talamh duit,
+urn:cts:gleLit:chonaill.airt.gle:1.3.15#is ní ar mhaithe leat
+urn:cts:gleLit:chonaill.airt.gle:1.3.16#ach le haon-chorp eagla,
+urn:cts:gleLit:chonaill.airt.gle:1.3.17#cé gur leo a cailleadh tu,
+urn:cts:gleLit:chonaill.airt.gle:1.3.18#a mhuirnín mh'anama....
+urn:cts:gleLit:chonaill.airt.gle:1.4.1#Mo chara thu go daingean!
+urn:cts:gleLit:chonaill.airt.gle:1.4.2#is nuair thiocfaidh chúgham abhaile
+urn:cts:gleLit:chonaill.airt.gle:1.4.3#Conchúr beag an cheana
+urn:cts:gleLit:chonaill.airt.gle:1.4.4#is Fear Ó Laoghaire, an leanbh,
+urn:cts:gleLit:chonaill.airt.gle:1.4.5#fiafróid díom go tapaidh
+urn:cts:gleLit:chonaill.airt.gle:1.4.6#cár fhágas féin a n-athair.
+urn:cts:gleLit:chonaill.airt.gle:1.4.7#'Neosad dóibh faoi mhairg
+urn:cts:gleLit:chonaill.airt.gle:1.4.8#gur fhágas i gCill na Martar.
+urn:cts:gleLit:chonaill.airt.gle:1.4.9#Glaofaid siad ar a n-athair,
+urn:cts:gleLit:chonaill.airt.gle:1.4.10#is ní bheidh sé acu le freagairt....
+urn:cts:gleLit:chonaill.airt.gle:1.5.1#Mo chara thu go daingean!
+urn:cts:gleLit:chonaill.airt.gle:1.5.2#is níor chreideas riamh dod mharbh
+urn:cts:gleLit:chonaill.airt.gle:1.5.3#gur tháinig chúgham do chapall
+urn:cts:gleLit:chonaill.airt.gle:1.5.4#is a srianta léi go talamh,
+urn:cts:gleLit:chonaill.airt.gle:1.5.5#is fuil do chroí ar a leacain
+urn:cts:gleLit:chonaill.airt.gle:1.5.6#siar go t'iallait ghreanta
+urn:cts:gleLit:chonaill.airt.gle:1.5.7#mar a mbítheá id shuí 's id sheasarnh.
+urn:cts:gleLit:chonaill.airt.gle:1.5.8#Thugas léim go tairsigh,
+urn:cts:gleLit:chonaill.airt.gle:1.5.9#an dara léim go geata,
+urn:cts:gleLit:chonaill.airt.gle:1.5.10#an triú léim ar do chapall.
+urn:cts:gleLit:chonaill.airt.gle:1.6.1#Do bhuaileas go luath mo bhasa
+urn:cts:gleLit:chonaill.airt.gle:1.6.2#is do bhaineas as na reathaibh
+urn:cts:gleLit:chonaill.airt.gle:1.6.3#chomh maith is bhí séagam,
+urn:cts:gleLit:chonaill.airt.gle:1.6.4#go bhfuaras romham tu marbh
+urn:cts:gleLit:chonaill.airt.gle:1.6.5#Cois toirín ísil aitinn,
+urn:cts:gleLit:chonaill.airt.gle:1.6.6#gan Pápa gan easpag,
+urn:cts:gleLit:chonaill.airt.gle:1.6.7#gan cléireach gan sagart
+urn:cts:gleLit:chonaill.airt.gle:1.6.8#do léifeadh ort an tsailm,
+urn:cts:gleLit:chonaill.airt.gle:1.6.9#ach seanbhean chríonna chaite
+urn:cts:gleLit:chonaill.airt.gle:1.6.10#do leath ort binn dá fallaing --
+urn:cts:gleLit:chonaill.airt.gle:1.6.11#do chuid fola leat 'na sraithibh;
+urn:cts:gleLit:chonaill.airt.gle:1.6.12#is níor fhanas le hí ghlanadh
+urn:cts:gleLit:chonaill.airt.gle:1.6.13#ach í ól suas lem basaibh.
+urn:cts:gleLit:chonaill.airt.gle:1.7.1#Mo ghrá thu go daingean!
+urn:cts:gleLit:chonaill.airt.gle:1.7.2#is érigh suas id sheasamh
+urn:cts:gleLit:chonaill.airt.gle:1.7.3#is tar liom féin abhaile,
+urn:cts:gleLit:chonaill.airt.gle:1.7.4#go gcuirfeam mairt á leagadh,
+urn:cts:gleLit:chonaill.airt.gle:1.7.5#go nglaofam ar chóisir fhairsing,
+urn:cts:gleLit:chonaill.airt.gle:1.7.6#go mbeidh againn ceol á spreagadh,
+urn:cts:gleLit:chonaill.airt.gle:1.7.7#go gcóireod duitse leaba
+urn:cts:gleLit:chonaill.airt.gle:1.7.8#faoi bhairlíní geala,
+urn:cts:gleLit:chonaill.airt.gle:1.7.9#faoi chuilteanna breátha breaca,
+urn:cts:gleLit:chonaill.airt.gle:1.7.10#a bhainfidh asat alias
+urn:cts:gleLit:chonaill.airt.gle:1.7.11#in ionad an fhuachta a ghlacais.
+urn:cts:gleLit:chonaill.airt.gle:2.1.1#Mo chara is mo stór tú
+urn:cts:gleLit:chonaill.airt.gle:2.1.2#is mó bean chumtha chórach
+urn:cts:gleLit:chonaill.airt.gle:2.1.3#ó Chorcaigh na. seolta
+urn:cts:gleLit:chonaill.airt.gle:2.1.4#go Droichead na Tóime,
+urn:cts:gleLit:chonaill.airt.gle:2.1.5#do tabharfadh macha mór bó dhuit
+urn:cts:gleLit:chonaill.airt.gle:2.1.6#agus dorn buí-óir duit,
+urn:cts:gleLit:chonaill.airt.gle:2.1.7#ná raghadh a chodladh 'na seomra
+urn:cts:gleLit:chonaill.airt.gle:2.1.8#oíche do thórraimh.
+urn:cts:gleLit:chonaill.airt.gle:2.2.1#Mo chara is m' uan tú!
+urn:cts:gleLit:chonaill.airt.gle:2.2.2#is ná creid sin uathu,
+urn:cts:gleLit:chonaill.airt.gle:2.2.3#ná an cogar a fuarais,
+urn:cts:gleLit:chonaill.airt.gle:2.2.4#ná an scéal fir fuatha,
+urn:cts:gleLit:chonaill.airt.gle:2.2.5#gur a chodladh a chuas-sa.
+urn:cts:gleLit:chonaill.airt.gle:2.2.6#Níor throm suan dom:
+urn:cts:gleLit:chonaill.airt.gle:2.2.7#ach bhí do linbh ró-bhuartha,
+urn:cts:gleLit:chonaill.airt.gle:2.2.8#'s do theastaigh sé uathu
+urn:cts:gleLit:chonaill.airt.gle:2.2.9#iad a chur chun suaimhnis.
+urn:cts:gleLit:chonaill.airt.gle:2.3.1#A dhaoine na n-ae istigh,
+urn:cts:gleLit:chonaill.airt.gle:2.3.2#'bhfuil aon bhean in Éirinn,
+urn:cts:gleLit:chonaill.airt.gle:2.3.3#ó luí na gréine,
+urn:cts:gleLit:chonaill.airt.gle:2.3.4#a shínfeadh a taobh leis,
+urn:cts:gleLit:chonaill.airt.gle:2.3.5#do bhéarfadh trí lao dho,
+urn:cts:gleLit:chonaill.airt.gle:2.3.6#ná raghadh le craobhacha
+urn:cts:gleLit:chonaill.airt.gle:2.3.7#i ndiaidh Airt Uí Laoghaire
+urn:cts:gleLit:chonaill.airt.gle:2.3.8#atá anso traochta
+urn:cts:gleLit:chonaill.airt.gle:2.3.9#ó mhaidin inné agam?...
+urn:cts:gleLit:chonaill.airt.gle:2.4.1#M'fhada-chreach léan-ghoirt
+urn:cts:gleLit:chonaill.airt.gle:2.4.2#ná rabhas-sa taobh leat
+urn:cts:gleLit:chonaill.airt.gle:2.4.3#nuair lámhadh an piléar leat,
+urn:cts:gleLit:chonaill.airt.gle:2.4.4#go ngeobhainn é im thaobh dheas
+urn:cts:gleLit:chonaill.airt.gle:2.4.5#nó i mbinn mo léine,
+urn:cts:gleLit:chonaill.airt.gle:2.4.6#is go léigfinn cead slé' leat
+urn:cts:gleLit:chonaill.airt.gle:2.4.7#a mharcaigh na ré-ghlac
+urn:cts:gleLit:chonaill.airt.gle:2.5.1#Mo chreach ghéarchúiseach
+urn:cts:gleLit:chonaill.airt.gle:2.5.2#ná rabhas ar do chúlaibh
+urn:cts:gleLit:chonaill.airt.gle:2.5.3#nuair lámhadh an púdar,
+urn:cts:gleLit:chonaill.airt.gle:2.5.4#go ngeobhainn é im chom dheas
+urn:cts:gleLit:chonaill.airt.gle:2.5.5#nó i mbinn mo ghúna,
+urn:cts:gleLit:chonaill.airt.gle:2.5.6#is go léigfinn cead siúil leat
+urn:cts:gleLit:chonaill.airt.gle:2.5.7#a mharcaigh na súl nglas,
+urn:cts:gleLit:chonaill.airt.gle:2.5.8#ós tú b'fhearr léigean chucu.
+urn:cts:gleLit:chonaill.airt.gle:3.1.1#Mo chara thu is mo, shearc-mhaoin!
+urn:cts:gleLit:chonaill.airt.gle:3.1.2#Is gránna an cháir a chur ar ghaiscíoch
+urn:cts:gleLit:chonaill.airt.gle:3.1.3#comhra agus caipín,
+urn:cts:gleLit:chonaill.airt.gle:3.1.4#ar mharcach an dea-chroí
+urn:cts:gleLit:chonaill.airt.gle:3.1.5#a bhiodh ag iascaireacht ar ghlaisíbh
+urn:cts:gleLit:chonaill.airt.gle:3.1.6#agus ag ól ar hallaíbh
+urn:cts:gleLit:chonaill.airt.gle:3.1.7#i bhfarradh mná na ngeal-chíoch.
+urn:cts:gleLit:chonaill.airt.gle:3.1.8#Mo mhíle mearaí
+urn:cts:gleLit:chonaill.airt.gle:3.1.9#mar a chailleas do thaithí.
+urn:cts:gleLit:chonaill.airt.gle:3.2.1#Greadadh chúghat is díth
+urn:cts:gleLit:chonaill.airt.gle:3.2.2#á Mhorris ghránna an fhill!
+urn:cts:gleLit:chonaill.airt.gle:3.2.3#á bhain díom fear mo thí,
+urn:cts:gleLit:chonaill.airt.gle:3.2.4#athair mo, leanbh gan aois:
+urn:cts:gleLit:chonaill.airt.gle:3.2.5#dís acu ag siúl an tí,
+urn:cts:gleLit:chonaill.airt.gle:3.2.6#'s an tríú duine acu istigh im chlí,
+urn:cts:gleLit:chonaill.airt.gle:3.2.7#agus is dócha ná cuirfead diom.
+urn:cts:gleLit:chonaill.airt.gle:3.3.1#Mo chara thu is mo thaitneamh!
+urn:cts:gleLit:chonaill.airt.gle:3.3.2#Nuair ghabhais amach an geata
+urn:cts:gleLit:chonaill.airt.gle:3.3.3#d'fhillis ar ais go tapaidh,
+urn:cts:gleLit:chonaill.airt.gle:3.3.4#do phógais do dhís leanbh,
+urn:cts:gleLit:chonaill.airt.gle:3.3.5#do phógais mise ar bharra baise.
+urn:cts:gleLit:chonaill.airt.gle:3.3.6#Dúraís, 'A Eibhlín, éirigh id sheasamh
+urn:cts:gleLit:chonaill.airt.gle:3.3.7#agus cuir do ghnó chun taisce
+urn:cts:gleLit:chonaill.airt.gle:3.3.8#go luaimneach is go tapaidh.
+urn:cts:gleLit:chonaill.airt.gle:3.3.9#Táimse ag fágáil an bhaile,
+urn:cts:gleLit:chonaill.airt.gle:3.3.10#is ní móide go deo go gcasfainn.'
+urn:cts:gleLit:chonaill.airt.gle:3.3.11#Níor dheineas dá chaint ach magadh,
+urn:cts:gleLit:chonaill.airt.gle:3.3.12#mar bhíodh á rá liom go minic cheana.
+urn:cts:gleLit:chonaill.airt.gle:3.4.1#Mo chara thu is mo chuid!
+urn:cts:gleLit:chonaill.airt.gle:3.4.2#A mharcaigh an chlaímh ghil,
+urn:cts:gleLit:chonaill.airt.gle:3.4.3#éirigh suas anois,
+urn:cts:gleLit:chonaill.airt.gle:3.4.4#cuir ort do chulaith
+urn:cts:gleLit:chonaill.airt.gle:3.4.5#éadaigh uasail ghlain,
+urn:cts:gleLit:chonaill.airt.gle:3.4.6#cuir ort do bhéabhar dubh,
+urn:cts:gleLit:chonaill.airt.gle:3.4.7#tarraing do lámhainní umat.
+urn:cts:gleLit:chonaill.airt.gle:3.4.8#Siúd í in airde t'fbuip;
+urn:cts:gleLit:chonaill.airt.gle:3.4.9#sin i do láir amuigh.
+urn:cts:gleLit:chonaill.airt.gle:3.4.10#Buail-se an bóthar caol úd soir
+urn:cts:gleLit:chonaill.airt.gle:3.4.11#mar a maolóidh romhat na toir,
+urn:cts:gleLit:chonaill.airt.gle:3.4.12#mar a gcaolóidh romhat an sruth,
+urn:cts:gleLit:chonaill.airt.gle:3.4.13#mar a n-umhlóidh romhat mná is fir,
+urn:cts:gleLit:chonaill.airt.gle:3.4.14#má tá a mbéasa féin acu -
+urn:cts:gleLit:chonaill.airt.gle:3.4.15#'s is baolach liomsa ná fuil anois....
+urn:cts:gleLit:chonaill.airt.gle:3.5.1#Mo ghrá thu is mo chumann!
+urn:cts:gleLit:chonaill.airt.gle:3.5.2#'s ní hé a bhfuair bás dem chine,
+urn:cts:gleLit:chonaill.airt.gle:3.5.3#ni bás mo thriúr clainne;
+urn:cts:gleLit:chonaill.airt.gle:3.5.4#ná Dónall Mór Ó Conaill,
+urn:cts:gleLit:chonaill.airt.gle:3.5.5#ná Conall a bháigh an tuile,
+urn:cts:gleLit:chonaill.airt.gle:3.5.6#ná bean na sé mblian 's fiche
+urn:cts:gleLit:chonaill.airt.gle:3.5.7#do chuaigh anonn thar uisce
+urn:cts:gleLit:chonaill.airt.gle:3.5.8#'déanamh cairdeasaí le rithe -
+urn:cts:gleLit:chonaill.airt.gle:3.5.9#ní hiad go lér atá agam dá ngairm,
+urn:cts:gleLit:chonaill.airt.gle:3.5.10#ach Art a bhaint aréir dá bhonnaibh
+urn:cts:gleLit:chonaill.airt.gle:3.5.11#ar inse Charraig an Ime!
+urn:cts:gleLit:chonaill.airt.gle:3.5.12#marcach na lárach doinne
+urn:cts:gleLit:chonaill.airt.gle:3.5.13#atá agam féin anso go singil --
+urn:cts:gleLit:chonaill.airt.gle:3.5.14#gan éinne beo 'na ghoire
+urn:cts:gleLit:chonaill.airt.gle:3.5.15#ach mná beaga dubha an mhuilinn,
+urn:cts:gleLit:chonaill.airt.gle:3.5.16#is mar bharr ar mo mhíle tubaist
+urn:cts:gleLit:chonaill.airt.gle:3.5.17#gan a súiile féin ag sileadh.
+urn:cts:gleLit:chonaill.airt.gle:3.6.1#Mo chara is mo lao thu!
+urn:cts:gleLit:chonaill.airt.gle:3.6.2#A Airt Uí Laoghaire
+urn:cts:gleLit:chonaill.airt.gle:3.6.3#Mhic Conchúir, Mhic Céadaigh,
+urn:cts:gleLit:chonaill.airt.gle:3.6.4#Mhic Laoisigh Uí Laoghaire,
+urn:cts:gleLit:chonaill.airt.gle:3.6.5#aniar ón nGaortha
+urn:cts:gleLit:chonaill.airt.gle:3.6.6#is anoir ón gCaolchnoc,
+urn:cts:gleLit:chonaill.airt.gle:3.6.7#mar a bhfásaid caora
+urn:cts:gleLit:chonaill.airt.gle:3.6.8#is cnó bui ar ghéagaibh
+urn:cts:gleLit:chonaill.airt.gle:3.6.9#is úlla 'na slaodaibh
+urn:cts:gleLit:chonaill.airt.gle:3.6.10#na n-am féinig.
+urn:cts:gleLit:chonaill.airt.gle:3.6.11#Cárbh ionadh le héinne
+urn:cts:gleLit:chonaill.airt.gle:3.6.12#dá lasadh Uíbh Laoghaire
+urn:cts:gleLit:chonaill.airt.gle:3.6.13#agus Béal Atha an Ghaorthaigh
+urn:cts:gleLit:chonaill.airt.gle:3.6.14#is an Uigdn naofa
+urn:cts:gleLit:chonaill.airt.gle:3.6.15#i ndiaidh mharcaigh na ré-ghlac
+urn:cts:gleLit:chonaill.airt.gle:3.6.16#a níodh an fiach a thraochadh
+urn:cts:gleLit:chonaill.airt.gle:3.6.17#ón nGreanaigh ar saothar
+urn:cts:gleLit:chonaill.airt.gle:3.6.18#nuair stadaidís caol-choin!
+urn:cts:gleLit:chonaill.airt.gle:3.6.19#Is a mharcaigh na gclaon-rosc  --
+urn:cts:gleLit:chonaill.airt.gle:3.6.20#nó cad d'imigh aréir ort?
+urn:cts:gleLit:chonaill.airt.gle:3.6.21#Óir do shíleas féinig
+urn:cts:gleLit:chonaill.airt.gle:3.6.22#ni maródh an saol tu
+urn:cts:gleLit:chonaill.airt.gle:3.6.23#nuair cheannaíos duit éide.
+urn:cts:gleLit:chonaill.airt.gle:4.1.1#Mo ghrá is mo rún tu!
+urn:cts:gleLit:chonaill.airt.gle:4.1.2#'s mo ghra mo cholúr geal!
+urn:cts:gleLit:chonaill.airt.gle:4.1.3#Cé ná tánag-sa chúghat-sa
+urn:cts:gleLit:chonaill.airt.gle:4.1.4#is nár thugas mo thrúip liom,
+urn:cts:gleLit:chonaill.airt.gle:4.1.5#nior chúis náire siúd liom
+urn:cts:gleLit:chonaill.airt.gle:4.1.6#mar bhíodar i gcúngrach
+urn:cts:gleLit:chonaill.airt.gle:4.1.7#i seomraí dúnta
+urn:cts:gleLit:chonaill.airt.gle:4.1.8#is i gcomhraí cúnga,
+urn:cts:gleLit:chonaill.airt.gle:4.1.9#is i gcodladh gan mhúscailt.
+urn:cts:gleLit:chonaill.airt.gle:4.1.10#Mura mbeadh an bholgach
+urn:cts:gleLit:chonaill.airt.gle:4.1.11#is an bás dorcha
+urn:cts:gleLit:chonaill.airt.gle:4.1.12#is an fiabhras spotaitheach,
+urn:cts:gleLit:chonaill.airt.gle:4.1.13#bheadh an marc-shlua borb san
+urn:cts:gleLit:chonaill.airt.gle:4.1.14#is a srianta á gcroitheadh acu
+urn:cts:gleLit:chonaill.airt.gle:4.1.15#ag déanamh fothraim
+urn:cts:gleLit:chonaill.airt.gle:4.1.16#ag teacht dod shochraid
+urn:cts:gleLit:chonaill.airt.gle:4.1.17#a Airt an bhrollaigh ghil....
+urn:cts:gleLit:chonaill.airt.gle:4.2.1#Mo chara is mo lao thu!
+urn:cts:gleLit:chonaill.airt.gle:4.2.2#Is aisling tri néallaibh
+urn:cts:gleLit:chonaill.airt.gle:4.2.3#do deineadh aréir dom
+urn:cts:gleLit:chonaill.airt.gle:4.2.4#i gCorcaigh go déanach
+urn:cts:gleLit:chonaill.airt.gle:4.2.5#ar leaba im aonar:
+urn:cts:gleLit:chonaill.airt.gle:4.2.6#gur thit ár gcúirt aolda,
+urn:cts:gleLit:chonaill.airt.gle:4.2.7#cur chríon an Gaortha,
+urn:cts:gleLit:chonaill.airt.gle:4.2.8#nár fhan friotal id chaol-choin
+urn:cts:gleLit:chonaill.airt.gle:4.2.9#ná binneas ag éanaibh,
+urn:cts:gleLit:chonaill.airt.gle:4.2.10#nuair fuaradh tu traochta
+urn:cts:gleLit:chonaill.airt.gle:4.2.11#ar lár an tslé' arnuigh,
+urn:cts:gleLit:chonaill.airt.gle:4.2.12#gan sagart, gan cléireach,
+urn:cts:gleLit:chonaill.airt.gle:4.2.13#ach seanbhean aosta
+urn:cts:gleLit:chonaill.airt.gle:4.2.14#do leath binn dá bréid ort
+urn:cts:gleLit:chonaill.airt.gle:4.2.15#nuair fuadh den chré thu,
+urn:cts:gleLit:chonaill.airt.gle:4.2.16#a Airt Uí Laoghaire,
+urn:cts:gleLit:chonaill.airt.gle:4.2.17#is do chuid fola 'na slaodaibh
+urn:cts:gleLit:chonaill.airt.gle:4.2.18#i mbrollach do léine.
+urn:cts:gleLit:chonaill.airt.gle:4.3.1#Mo ghrá is mo rún tu!
+urn:cts:gleLit:chonaill.airt.gle:4.3.2#'s is breá thiodh súd duit,
+urn:cts:gleLit:chonaill.airt.gle:4.3.3#stoca chúig dhual duit,
+urn:cts:gleLit:chonaill.airt.gle:4.3.4#buatais go glúin ort,
+urn:cts:gleLit:chonaill.airt.gle:4.3.5#Caroilin cúinneach,
+urn:cts:gleLit:chonaill.airt.gle:4.3.6#is fuip go lúifar
+urn:cts:gleLit:chonaill.airt.gle:4.3.7#ar ghillín shúgach -
+urn:cts:gleLit:chonaill.airt.gle:4.3.8#is mó ainnir mhodhúil mhúinte
+urn:cts:gleLit:chonaill.airt.gle:4.3.9#bhíodh ag féachaint sa chúl ort.
+urn:cts:gleLit:chonaill.airt.gle:4.4.1#Mo ghrá go daingean tu!
+urn:cts:gleLit:chonaill.airt.gle:4.4.2#'s nuair théitheá sna cathracha
+urn:cts:gleLit:chonaill.airt.gle:4.4.3#daora, daingeana,
+urn:cts:gleLit:chonaill.airt.gle:4.4.4#biodh mná na gceannaithe
+urn:cts:gleLit:chonaill.airt.gle:4.4.5#ag umhlú go talamh duit,
+urn:cts:gleLit:chonaill.airt.gle:4.4.6#óir do thuigidís 'na n-aigne
+urn:cts:gleLit:chonaill.airt.gle:4.4.7#gur bhreá an leath leaba tu,
+urn:cts:gleLit:chonaill.airt.gle:4.4.8#nó an bhéalóg chapaill tu,
+urn:cts:gleLit:chonaill.airt.gle:4.4.9#nó an t-athair leanbh tu.
+urn:cts:gleLit:chonaill.airt.gle:4.5.1#Tá fhios ag losa Criost
+urn:cts:gleLit:chonaill.airt.gle:4.5.2#ná beidh caidhp ar bhaitheas mo chinn,
+urn:cts:gleLit:chonaill.airt.gle:4.5.3#ná léine chnis lem thaoibh,
+urn:cts:gleLit:chonaill.airt.gle:4.5.4#ná bróg ar thrácht mo bhoinn,
+urn:cts:gleLit:chonaill.airt.gle:4.5.5#ná trioscán ar fuaid mo thí,
+urn:cts:gleLit:chonaill.airt.gle:4.5.6#ná srian leis an láir ndoinn,
+urn:cts:gleLit:chonaill.airt.gle:4.5.7#ná caithfidh mé le dlí,
+urn:cts:gleLit:chonaill.airt.gle:4.5.8#'s go raghad anonn thar toinn
+urn:cts:gleLit:chonaill.airt.gle:4.5.9#ag comhrá leis an rá,
+urn:cts:gleLit:chonaill.airt.gle:4.5.10#'s mura gcuirfidh ionam aon tsuim
+urn:cts:gleLit:chonaill.airt.gle:4.5.11#go dtiocfad ar ais arís
+urn:cts:gleLit:chonaill.airt.gle:4.5.12#go bodach na fola duibhe
+urn:cts:gleLit:chonaill.airt.gle:4.5.13#a bhain diom féin mo mhaoin.
+urn:cts:gleLit:chonaill.airt.gle:5.1.1#Mó ghrá thu agus mo rún!
+urn:cts:gleLit:chonaill.airt.gle:5.1.2#Tá do stácaí ar a mbonn,
+urn:cts:gleLit:chonaill.airt.gle:5.1.3#tá do bha buí á gcrú;
+urn:cts:gleLit:chonaill.airt.gle:5.1.4#is ar mo chroí atá do chumha
+urn:cts:gleLit:chonaill.airt.gle:5.1.5#ná leigheasfadh Cúige Mumhan
+urn:cts:gleLit:chonaill.airt.gle:5.1.6#ná Gaibhne Oileáin na bhFionn.
+urn:cts:gleLit:chonaill.airt.gle:5.2.1#Go dtiocfaidh Art Ó Laoghaire chúgham
+urn:cts:gleLit:chonaill.airt.gle:5.2.2#ní scaipfidh ar mo chumha
+urn:cts:gleLit:chonaill.airt.gle:5.2.3#atá i lár mo chroí á bhrú,
+urn:cts:gleLit:chonaill.airt.gle:5.2.4#dúnta suas go dlúth
+urn:cts:gleLit:chonaill.airt.gle:5.2.5#mar a bheadh glas a bheadh ar thrúnc
+urn:cts:gleLit:chonaill.airt.gle:5.2.6#'s go raghadh an eochair amú.
+urn:cts:gleLit:chonaill.airt.gle:5.3.1#A mhná so amach ag gol
+urn:cts:gleLit:chonaill.airt.gle:5.3.2#stadaidh ar bhur gcois
+urn:cts:gleLit:chonaill.airt.gle:5.3.3#go nglaofaidh Art Mhac Conchúir deoch,
+urn:cts:gleLit:chonaill.airt.gle:5.3.4#agus tuilleadh thar cheann na mbocht,
+urn:cts:gleLit:chonaill.airt.gle:5.3.5#sula dtéann isteach don scoil --
+urn:cts:gleLit:chonaill.airt.gle:5.3.6#ní ag foghlaim léinn ná port,
+urn:cts:gleLit:chonaill.airt.gle:5.3.7#ach ag iompar cré agus cloch. 
+
+#!ctsdata
+urn:cts:gleLit:chonaill.airt.eng:1.1.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:1.1.2#When I saw you one day
+urn:cts:gleLit:chonaill.airt.eng:1.1.3#by the market-house gable
+urn:cts:gleLit:chonaill.airt.eng:1.1.4#my eye gave a look
+urn:cts:gleLit:chonaill.airt.eng:1.1.5#my heart shone out
+urn:cts:gleLit:chonaill.airt.eng:1.1.6#I fled with you far
+urn:cts:gleLit:chonaill.airt.eng:1.1.7#from friends and home.
+urn:cts:gleLit:chonaill.airt.eng:1.2.1#And never was sorry:
+urn:cts:gleLit:chonaill.airt.eng:1.2.2#you had parlours painted
+urn:cts:gleLit:chonaill.airt.eng:1.2.3#rooms decked out
+urn:cts:gleLit:chonaill.airt.eng:1.2.4#the oven reddened
+urn:cts:gleLit:chonaill.airt.eng:1.2.5#and loaves made up
+urn:cts:gleLit:chonaill.airt.eng:1.2.6#roasts on spits
+urn:cts:gleLit:chonaill.airt.eng:1.2.7#and cattle slaughtered;
+urn:cts:gleLit:chonaill.airt.eng:1.2.8#I slept in duck-down
+urn:cts:gleLit:chonaill.airt.eng:1.2.9#till noontime came
+urn:cts:gleLit:chonaill.airt.eng:1.2.10#or later if I liked.
+urn:cts:gleLit:chonaill.airt.eng:1.3.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.3.2#it comes to my mind
+urn:cts:gleLit:chonaill.airt.eng:1.3.3#that fine Spring day
+urn:cts:gleLit:chonaill.airt.eng:1.3.4#how well your hat looked
+urn:cts:gleLit:chonaill.airt.eng:1.3.5#with the drawn gold band,
+urn:cts:gleLit:chonaill.airt.eng:1.3.6#the sword silver-hilted
+urn:cts:gleLit:chonaill.airt.eng:1.3.7#your fine brave hand
+urn:cts:gleLit:chonaill.airt.eng:1.3.8#and menacing prance,
+urn:cts:gleLit:chonaill.airt.eng:1.3.9#and the fearful tremble
+urn:cts:gleLit:chonaill.airt.eng:1.3.10#of treacherous enemies.
+urn:cts:gleLit:chonaill.airt.eng:1.3.11#You were set to ride
+urn:cts:gleLit:chonaill.airt.eng:1.3.12#your slim white-faced steed
+urn:cts:gleLit:chonaill.airt.eng:1.3.13#and Saxons saluted
+urn:cts:gleLit:chonaill.airt.eng:1.3.14#down to the ground,
+urn:cts:gleLit:chonaill.airt.eng:1.3.15#not from good will
+urn:cts:gleLit:chonaill.airt.eng:1.3.16#but by dint of fear
+urn:cts:gleLit:chonaill.airt.eng:1.3.17#- though you died at their hands,
+urn:cts:gleLit:chonaill.airt.eng:1.3.18# my soul's beloved....
+urn:cts:gleLit:chonaill.airt.eng:1.4.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.4.2#And when they come home,
+urn:cts:gleLit:chonaill.airt.eng:1.4.3#our little pet Conchúr
+urn:cts:gleLit:chonaill.airt.eng:1.4.4#and baby Fear Ó Laoghaire,
+urn:cts:gleLit:chonaill.airt.eng:1.4.5#they will ask at once
+urn:cts:gleLit:chonaill.airt.eng:1.4.6#where I left their father.
+urn:cts:gleLit:chonaill.airt.eng:1.4.7#I will tell them in woe
+urn:cts:gleLit:chonaill.airt.eng:1.4.8#he is left in Cill na Martar,
+urn:cts:gleLit:chonaill.airt.eng:1.4.9#and they'll call for their father
+urn:cts:gleLit:chonaill.airt.eng:1.4.10#and get no answer....
+urn:cts:gleLit:chonaill.airt.eng:1.5.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.5.2#I didn't credit your death
+urn:cts:gleLit:chonaill.airt.eng:1.5.3#till your horse came home
+urn:cts:gleLit:chonaill.airt.eng:1.5.4#and her reins on the ground,
+urn:cts:gleLit:chonaill.airt.eng:1.5.5#your heart's blood on her back
+urn:cts:gleLit:chonaill.airt.eng:1.5.6#to the polished saddle
+urn:cts:gleLit:chonaill.airt.eng:1.5.7#where you sat - where you stood....
+urn:cts:gleLit:chonaill.airt.eng:1.5.8#I gave a leap to the door,
+urn:cts:gleLit:chonaill.airt.eng:1.5.9#a second leap to the gate
+urn:cts:gleLit:chonaill.airt.eng:1.5.10#and a third on your horse.
+urn:cts:gleLit:chonaill.airt.eng:1.6.1#I clapped my hands quickly
+urn:cts:gleLit:chonaill.airt.eng:1.6.2#and started mad running
+urn:cts:gleLit:chonaill.airt.eng:1.6.3#as hard as I could,
+urn:cts:gleLit:chonaill.airt.eng:1.6.4#to find you there dead
+urn:cts:gleLit:chonaill.airt.eng:1.6.5#by a low furze-bush
+urn:cts:gleLit:chonaill.airt.eng:1.6.6#with no Pope or bishop
+urn:cts:gleLit:chonaill.airt.eng:1.6.7#or clergy or priest
+urn:cts:gleLit:chonaill.airt.eng:1.6.8#to read a psalm over you
+urn:cts:gleLit:chonaill.airt.eng:1.6.9#but a spent old woman
+urn:cts:gleLit:chonaill.airt.eng:1.6.10#who spread her cloak corner
+urn:cts:gleLit:chonaill.airt.eng:1.6.11#where your blood streamed from you,
+urn:cts:gleLit:chonaill.airt.eng:1.6.12#and I didn't stop to clean it
+urn:cts:gleLit:chonaill.airt.eng:1.6.13#but drank it from my palms.
+urn:cts:gleLit:chonaill.airt.eng:1.7.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:1.7.2#Arise, stand up
+urn:cts:gleLit:chonaill.airt.eng:1.7.3#and come with myself
+urn:cts:gleLit:chonaill.airt.eng:1.7.4#and I'll have cattle slaughtered
+urn:cts:gleLit:chonaill.airt.eng:1.7.5#and call fine company
+urn:cts:gleLit:chonaill.airt.eng:1.7.6#and hurry up the music
+urn:cts:gleLit:chonaill.airt.eng:1.7.7#and make you up a bed
+urn:cts:gleLit:chonaill.airt.eng:1.7.8#with bright sheets upon it
+urn:cts:gleLit:chonaill.airt.eng:1.7.9#and fine speckled quilts
+urn:cts:gleLit:chonaill.airt.eng:1.7.10#to bring you out in a sweat
+urn:cts:gleLit:chonaill.airt.eng:1.7.11#where the cold has caught you.
+urn:cts:gleLit:chonaill.airt.eng:2.1.1#My friend and my treasure!
+urn:cts:gleLit:chonaill.airt.eng:2.1.2#Many fine-made women
+urn:cts:gleLit:chonaill.airt.eng:2.1.3#from Cork of the sails
+urn:cts:gleLit:chonaill.airt.eng:2.1.4#to Droichead na Tóime
+urn:cts:gleLit:chonaill.airt.eng:2.1.5#would bring you great herds
+urn:cts:gleLit:chonaill.airt.eng:2.1.6#and a yellow gold handful,
+urn:cts:gleLit:chonaill.airt.eng:2.1.7#and not sleep in their room
+urn:cts:gleLit:chonaill.airt.eng:2.1.8#on the night of your wake.
+urn:cts:gleLit:chonaill.airt.eng:2.2.1#My friend and my lamb!
+urn:cts:gleLit:chonaill.airt.eng:2.2.2#Don't you believe them
+urn:cts:gleLit:chonaill.airt.eng:2.2.3#nor the scandal you heard
+urn:cts:gleLit:chonaill.airt.eng:2.2.4#nor the jealous man's gossip
+urn:cts:gleLit:chonaill.airt.eng:2.2.5#that it's sleeping I went.
+urn:cts:gleLit:chonaill.airt.eng:2.2.6#It was no heavy slumber
+urn:cts:gleLit:chonaill.airt.eng:2.2.7#but your babies so troubled
+urn:cts:gleLit:chonaill.airt.eng:2.2.8#and all of them needing
+urn:cts:gleLit:chonaill.airt.eng:2.2.9#to be settled in peace.
+urn:cts:gleLit:chonaill.airt.eng:2.3.1#People of my heart,
+urn:cts:gleLit:chonaill.airt.eng:2.3.2#what woman in Ireland
+urn:cts:gleLit:chonaill.airt.eng:2.3.3#from setting of sun
+urn:cts:gleLit:chonaill.airt.eng:2.3.4#could stretch out beside him
+urn:cts:gleLit:chonaill.airt.eng:2.3.5#and bear him three sucklings
+urn:cts:gleLit:chonaill.airt.eng:2.3.6#and not run wild
+urn:cts:gleLit:chonaill.airt.eng:2.3.7#losing Art Ó Laoghaire
+urn:cts:gleLit:chonaill.airt.eng:2.3.8#who lies here vanquished
+urn:cts:gleLit:chonaill.airt.eng:2.3.9#since yesterday morning?...
+urn:cts:gleLit:chonaill.airt.eng:2.4.1#Long loss, bitter grief
+urn:cts:gleLit:chonaill.airt.eng:2.4.2#I was not by your side
+urn:cts:gleLit:chonaill.airt.eng:2.4.3#when the bullet was fired
+urn:cts:gleLit:chonaill.airt.eng:2.4.4#so my right side could take it
+urn:cts:gleLit:chonaill.airt.eng:2.4.5#or the edge of my shift
+urn:cts:gleLit:chonaill.airt.eng:2.4.6#till I freed you to the hills,
+urn:cts:gleLit:chonaill.airt.eng:2.4.7#my fine-handed horseman!
+urn:cts:gleLit:chonaill.airt.eng:2.5.1#My sharp bitter loss
+urn:cts:gleLit:chonaill.airt.eng:2.5.2#I was not at your back
+urn:cts:gleLit:chonaill.airt.eng:2.5.3#when the powder was fired
+urn:cts:gleLit:chonaill.airt.eng:2.5.4#so my fine waist could take it
+urn:cts:gleLit:chonaill.airt.eng:2.5.5#or the edge of my dress,
+urn:cts:gleLit:chonaill.airt.eng:2.5.6#till I let you go free,
+urn:cts:gleLit:chonaill.airt.eng:2.5.7#My grey-eyed rider,
+urn:cts:gleLit:chonaill.airt.eng:2.5.8#ablest for them all.
+urn:cts:gleLit:chonaill.airt.eng:3.1.1#My friend and my treasure trove!
+urn:cts:gleLit:chonaill.airt.eng:3.1.2#An ugly outfit for a warrior:
+urn:cts:gleLit:chonaill.airt.eng:3.1.3#a coffin and a cap
+urn:cts:gleLit:chonaill.airt.eng:3.1.4#on that great-hearted horseman
+urn:cts:gleLit:chonaill.airt.eng:3.1.5#who fished in the rivers
+urn:cts:gleLit:chonaill.airt.eng:3.1.6#and drank in the halls
+urn:cts:gleLit:chonaill.airt.eng:3.1.7#with white-breasted women.
+urn:cts:gleLit:chonaill.airt.eng:3.1.8#My thousand confusions
+urn:cts:gleLit:chonaill.airt.eng:3.1.9#I have lost the use of you.
+urn:cts:gleLit:chonaill.airt.eng:3.2.1#Ruin and bad cess to you,
+urn:cts:gleLit:chonaill.airt.eng:3.2.2#ugly traitor Morris,
+urn:cts:gleLit:chonaill.airt.eng:3.2.3#who took the man of my house
+urn:cts:gleLit:chonaill.airt.eng:3.2.4#and father of my young ones
+urn:cts:gleLit:chonaill.airt.eng:3.2.5#- a pair walking the house
+urn:cts:gleLit:chonaill.airt.eng:3.2.6#and the third in my womb,
+urn:cts:gleLit:chonaill.airt.eng:3.2.7#and I doubt that I'll bear it.
+urn:cts:gleLit:chonaill.airt.eng:3.3.1#My friend and beloved!
+urn:cts:gleLit:chonaill.airt.eng:3.3.2#When you left through the gate
+urn:cts:gleLit:chonaill.airt.eng:3.3.3#you came in again quickly,
+urn:cts:gleLit:chonaill.airt.eng:3.3.4#you kissed both your children,
+urn:cts:gleLit:chonaill.airt.eng:3.3.5#kissed the tips of my fingers.
+urn:cts:gleLit:chonaill.airt.eng:3.3.6#You said: " Eibhlín, stand up
+urn:cts:gleLit:chonaill.airt.eng:3.3.7#and finish with your work
+urn:cts:gleLit:chonaill.airt.eng:3.3.8#lively and swiftly:
+urn:cts:gleLit:chonaill.airt.eng:3.3.9#I am leaving our home
+urn:cts:gleLit:chonaill.airt.eng:3.3.10#and may never return."
+urn:cts:gleLit:chonaill.airt.eng:3.3.11#I made nothing of his talk
+urn:cts:gleLit:chonaill.airt.eng:3.3.12#for he spoke often so.
+urn:cts:gleLit:chonaill.airt.eng:3.4.1#My friend and my share!
+urn:cts:gleLit:chonaill.airt.eng:3.4.2#0 bright-sworded rider
+urn:cts:gleLit:chonaill.airt.eng:3.4.3#rise up now,
+urn:cts:gleLit:chonaill.airt.eng:3.4.4#put on your immaculate
+urn:cts:gleLit:chonaill.airt.eng:3.4.5#fine suit of clothes,
+urn:cts:gleLit:chonaill.airt.eng:3.4.6#put on your black beaver
+urn:cts:gleLit:chonaill.airt.eng:3.4.7#and pull on your gloves.
+urn:cts:gleLit:chonaill.airt.eng:3.4.8#There above is your whip
+urn:cts:gleLit:chonaill.airt.eng:3.4.9#and your mare is outside.
+urn:cts:gleLit:chonaill.airt.eng:3.4.10#Take the narrow road Eastward
+urn:cts:gleLit:chonaill.airt.eng:3.4.11#where the bushes bend before you
+urn:cts:gleLit:chonaill.airt.eng:3.4.12#and the stream will narrow for you
+urn:cts:gleLit:chonaill.airt.eng:3.4.13#and men and women will bow
+urn:cts:gleLit:chonaill.airt.eng:3.4.14#if they have their proper manners
+urn:cts:gleLit:chonaill.airt.eng:3.4.15#- as I doubt they have at present....
+urn:cts:gleLit:chonaill.airt.eng:3.5.1#My love, and my beloved!
+urn:cts:gleLit:chonaill.airt.eng:3.5.2#Not my people who have died
+urn:cts:gleLit:chonaill.airt.eng:3.5.3#- not my three dead children
+urn:cts:gleLit:chonaill.airt.eng:3.5.4#nor big Dónall Ó Conaill
+urn:cts:gleLit:chonaill.airt.eng:3.5.5#nor Conall drowned on the sea
+urn:cts:gleLit:chonaill.airt.eng:3.5.6#nor the girl of twenty-six
+urn:cts:gleLit:chonaill.airt.eng:3.5.7#who went across the ocean
+urn:cts:gleLit:chonaill.airt.eng:3.5.8#alliancing with kings
+urn:cts:gleLit:chonaill.airt.eng:3.5.9#- not all these do I summon
+urn:cts:gleLit:chonaill.airt.eng:3.5.10#but Art, reaped from his feet last night
+urn:cts:gleLit:chonaill.airt.eng:3.5.11#on the inch of Carriginima.
+urn:cts:gleLit:chonaill.airt.eng:3.5.12#The brown mare's rider
+urn:cts:gleLit:chonaill.airt.eng:3.5.13#deserted here beside me,
+urn:cts:gleLit:chonaill.airt.eng:3.5.14#no living being near him
+urn:cts:gleLit:chonaill.airt.eng:3.5.15#but the little black mill-women
+urn:cts:gleLit:chonaill.airt.eng:3.5.16#- and to top my thousand troubles
+urn:cts:gleLit:chonaill.airt.eng:3.5.17#their eyes not even streaming.
+urn:cts:gleLit:chonaill.airt.eng:3.6.1#My friend and my calf!
+urn:cts:gleLit:chonaill.airt.eng:3.6.2#O Art Ó Laoghaire
+urn:cts:gleLit:chonaill.airt.eng:3.6.3#son of Conchúr son of Céadach
+urn:cts:gleLit:chonaill.airt.eng:3.6.4#son of Laoiseach Ó Laoghaire:
+urn:cts:gleLit:chonaill.airt.eng:3.6.5#West from the Gaortha
+urn:cts:gleLit:chonaill.airt.eng:3.6.6#and East from the Caolchnoc
+urn:cts:gleLit:chonaill.airt.eng:3.6.7#where the berries grow,
+urn:cts:gleLit:chonaill.airt.eng:3.6.8#yellow nuts on the branches
+urn:cts:gleLit:chonaill.airt.eng:3.6.9#and masses of apples
+urn:cts:gleLit:chonaill.airt.eng:3.6.10#in their proper season
+urn:cts:gleLit:chonaill.airt.eng:3.6.11#- need anyone wonder
+urn:cts:gleLit:chonaill.airt.eng:3.6.12#if Uibh Laoghaire were alight
+urn:cts:gleLit:chonaill.airt.eng:3.6.13#and Béal Atha an Ghaorthaígh
+urn:cts:gleLit:chonaill.airt.eng:3.6.14#and Gúgán the holy
+urn:cts:gleLit:chonaill.airt.eng:3.6.15#or the fine-handed rider
+urn:cts:gleLit:chonaill.airt.eng:3.6.16#who used tire out the hunt
+urn:cts:gleLit:chonaill.airt.eng:3.6.17#as they panted from Greanach
+urn:cts:gleLit:chonaill.airt.eng:3.6.18#and the slim hounds gave up?
+urn:cts:gleLit:chonaill.airt.eng:3.6.19#Alluring-eyed rider,
+urn:cts:gleLit:chonaill.airt.eng:3.6.20#o what ailed you last night?
+urn:cts:gleLit:chonaill.airt.eng:3.6.21#For I thought myself
+urn:cts:gleLit:chonaill.airt.eng:3.6.22#when I bought your uniform
+urn:cts:gleLit:chonaill.airt.eng:3.6.23#the world couldn't kill you!
+urn:cts:gleLit:chonaill.airt.eng:4.1.1#My love and my darling!
+urn:cts:gleLit:chonaill.airt.eng:4.1.2#My love, my bright dove!
+urn:cts:gleLit:chonaill.airt.eng:4.1.3#Though I couldn't be with you
+urn:cts:gleLit:chonaill.airt.eng:4.1.4#nor bring you my people
+urn:cts:gleLit:chonaill.airt.eng:4.1.5#that's no cause for reproach,
+urn:cts:gleLit:chonaill.airt.eng:4.1.6#for hard pressed were they all
+urn:cts:gleLit:chonaill.airt.eng:4.1.7#in shuttered rooms
+urn:cts:gleLit:chonaill.airt.eng:4.1.8#and narrow coffins
+urn:cts:gleLit:chonaill.airt.eng:4.1.9#in a sleep with no waking.
+urn:cts:gleLit:chonaill.airt.eng:4.1.10#Were it not for the smallpox
+urn:cts:gleLit:chonaill.airt.eng:4.1.11#and the black death
+urn:cts:gleLit:chonaill.airt.eng:4.1.12#and the spotted fever
+urn:cts:gleLit:chonaill.airt.eng:4.1.13#those rough horse-riders
+urn:cts:gleLit:chonaill.airt.eng:4.1.14#would be rattling their reins
+urn:cts:gleLit:chonaill.airt.eng:4.1.15#and making a tumult
+urn:cts:gleLit:chonaill.airt.eng:4.1.16#on the way to your funeral,
+urn:cts:gleLit:chonaill.airt.eng:4.1.17#Art of the bright breast....
+urn:cts:gleLit:chonaill.airt.eng:4.2.1#My friend and my calf!
+urn:cts:gleLit:chonaill.airt.eng:4.2.2#A vision in dream
+urn:cts:gleLit:chonaill.airt.eng:4.2.3#was vouchsafed me last night
+urn:cts:gleLit:chonaill.airt.eng:4.2.4#in Cork, a late hour,
+urn:cts:gleLit:chonaill.airt.eng:4.2.5#in bed by myself:
+urn:cts:gleLit:chonaill.airt.eng:4.2.6#our white mansion had fallen,
+urn:cts:gleLit:chonaill.airt.eng:4.2.7#the Gaortha had withered,
+urn:cts:gleLit:chonaill.airt.eng:4.2.8#our slim hounds were silent
+urn:cts:gleLit:chonaill.airt.eng:4.2.9#and no sweet birds,
+urn:cts:gleLit:chonaill.airt.eng:4.2.10#when you were found spent
+urn:cts:gleLit:chonaill.airt.eng:4.2.11#out in midst of the mountain
+urn:cts:gleLit:chonaill.airt.eng:4.2.12#with no priest or cleric
+urn:cts:gleLit:chonaill.airt.eng:4.2.13#but an ancient old woman
+urn:cts:gleLit:chonaill.airt.eng:4.2.14#to spread the edge of her cloak,
+urn:cts:gleLit:chonaill.airt.eng:4.2.15#and you stitched to the earth,
+urn:cts:gleLit:chonaill.airt.eng:4.2.16#Art Ó Laoghaire,
+urn:cts:gleLit:chonaill.airt.eng:4.2.17#and streams of your blood
+urn:cts:gleLit:chonaill.airt.eng:4.2.18#on the breast of your shirt.
+urn:cts:gleLit:chonaill.airt.eng:4.3.1#My love and my darling!
+urn:cts:gleLit:chonaill.airt.eng:4.3.2#It is well they became you
+urn:cts:gleLit:chonaill.airt.eng:4.3.3#your stocking, five-ply,
+urn:cts:gleLit:chonaill.airt.eng:4.3.4#riding -boots to the knee,
+urn:cts:gleLit:chonaill.airt.eng:4.3.5#cornered Caroline hat
+urn:cts:gleLit:chonaill.airt.eng:4.3.6#and a lively whip
+urn:cts:gleLit:chonaill.airt.eng:4.3.7#on a spirited gelding,
+urn:cts:gleLit:chonaill.airt.eng:4.3.8#many modest mild maidens
+urn:cts:gleLit:chonaill.airt.eng:4.3.9#admiring behind you.
+urn:cts:gleLit:chonaill.airt.eng:4.4.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:4.4.2#When you walked through the servile
+urn:cts:gleLit:chonaill.airt.eng:4.4.3#strong-built towns,
+urn:cts:gleLit:chonaill.airt.eng:4.4.4#the merchants' wives
+urn:cts:gleLit:chonaill.airt.eng:4.4.5#would salute to the ground
+urn:cts:gleLit:chonaill.airt.eng:4.4.6#knowing well in their hearts
+urn:cts:gleLit:chonaill.airt.eng:4.4.7#a fine bed-mate you were
+urn:cts:gleLit:chonaill.airt.eng:4.4.8#a great front-rider
+urn:cts:gleLit:chonaill.airt.eng:4.4.9#and father of children.
+urn:cts:gleLit:chonaill.airt.eng:4.5.1#Jesus Christ well knows
+urn:cts:gleLit:chonaill.airt.eng:4.5.2#there's no cap upon my skull
+urn:cts:gleLit:chonaill.airt.eng:4.5.3#nor shift next to my body
+urn:cts:gleLit:chonaill.airt.eng:4.5.4#nor shoe upon my foot-sole
+urn:cts:gleLit:chonaill.airt.eng:4.5.5#nor furniture in my house
+urn:cts:gleLit:chonaill.airt.eng:4.5.6#nor reins on the brown mare
+urn:cts:gleLit:chonaill.airt.eng:4.5.7#but I'll spend it on the law;
+urn:cts:gleLit:chonaill.airt.eng:4.5.8#that I'll go across the ocean
+urn:cts:gleLit:chonaill.airt.eng:4.5.9#to argue with the King,
+urn:cts:gleLit:chonaill.airt.eng:4.5.10#and if he won't pay attention
+urn:cts:gleLit:chonaill.airt.eng:4.5.11#that I'll come back again
+urn:cts:gleLit:chonaill.airt.eng:4.5.12#to the black-blooded savage
+urn:cts:gleLit:chonaill.airt.eng:4.5.13#that took my treasure.
+urn:cts:gleLit:chonaill.airt.eng:5.1.1#My love and my beloved!
+urn:cts:gleLit:chonaill.airt.eng:5.1.2#Your corn-stacks are standing,
+urn:cts:gleLit:chonaill.airt.eng:5.1.3#your yellow cows milking.
+urn:cts:gleLit:chonaill.airt.eng:5.1.4#Your grief upon my heart
+urn:cts:gleLit:chonaill.airt.eng:5.1.5#all Munster couldn't cure,
+urn:cts:gleLit:chonaill.airt.eng:5.1.6#nor the smiths of Oiledn na bhFionn.
+urn:cts:gleLit:chonaill.airt.eng:5.2.1#Till Art Ó Laoghaire comes
+urn:cts:gleLit:chonaill.airt.eng:5.2.2#my grief will not disperse
+urn:cts:gleLit:chonaill.airt.eng:5.2.3#but cram my heart's core,
+urn:cts:gleLit:chonaill.airt.eng:5.2.4#shut firmly in
+urn:cts:gleLit:chonaill.airt.eng:5.2.5#like a trunk locked up
+urn:cts:gleLit:chonaill.airt.eng:5.2.6#when the key is lost.
+urn:cts:gleLit:chonaill.airt.eng:5.3.1#Women there weeping,
+urn:cts:gleLit:chonaill.airt.eng:5.3.2#stay there where you are,
+urn:cts:gleLit:chonaill.airt.eng:5.3.3#till Art Mac Conchúir summons drink
+urn:cts:gleLit:chonaill.airt.eng:5.3.4#with some extra for the poor
+urn:cts:gleLit:chonaill.airt.eng:5.3.5#- ere he enter that school
+urn:cts:gleLit:chonaill.airt.eng:5.3.6#not for study or for music
+urn:cts:gleLit:chonaill.airt.eng:5.3.7#but to bear clay and stones.
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:fufolio:chonaillAnnotation.2018demo:#Annotations on Caoineadh Airt Uí Laoghaire#urn:cite2:fufolio:chonaillAnnotation.2018demo.label:#urn:cite2:fufolio:chonaillAnnotation.2018demo.seq:#CC-BY-SA 3.0
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:chonaillAnnotation.2018demo.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:chonaillAnnotation.2018demo.label:#Label#String#
+urn:cite2:fufolio:chonaillAnnotation.2018demo.seq:#Sequence#Number#
+urn:cite2:fufolio:chonaillAnnotation.2018demo.passage:#Passage#CtsUrn#
+
+#!citedata
+urn#seq#label#passage
+urn:cite2:fufolio:chonaillAnnotation.2018demo:1#1#B'fhéidir gur aithris Eibhlín na dréachtaí seo os cionn an choirp i gCarraig an Ime.#urn:cts:gleLit:chonaill.airt.gle:1
+urn:cite2:fufolio:chonaillAnnotation.2018demo:2#2#Nuair a shroich deirfiúr Airt (ó Chorcaigh) teach an tórraimh in aice Mhaigh Chromtha, fuair sí, de réir an tseanchais, Eibhlín roimpi sa leaba. Seo roinnt den bhriatharchath a bhí eatarthu.#urn:cts:gleLit:chonaill.airt.gle:2
+urn:cite2:fufolio:chonaillAnnotation.2018demo:3#3#Cuireann Eibhlín a mórtas as a fear céile in iúl go lánphoiblí sna dréachtaí seo. B'fhéidir gur aithris si an méid seo tar éis don chorp a bheith rétithe le haghaidh an adhlactha.#urn:cts:gleLit:chonaill.airt.gle:3
+urn:cite2:fufolio:chonaillAnnotation.2018demo:4#4#Déanann deirfiúr Airt a caoineadh féin anseo. Nuair a luann sí, na mná óga a bhí mór le Art, spriúchann Eibhlín.#urn:cts:gleLit:chonaill.airt.gle:4
+urn:cite2:fufolio:chonaillAnnotation.2018demo:5#5#De bharr constaicí dlí, dealraionn sé nár cuireadh Art i reilig a shinsear. Cuireadh an corp go sealadach; agus cúpla mí ina dhiaidh sin, ní foldáir, aistríodh i go mainistir Chill Cré, Co. Chorcaí. B'fhéidir gur chuir Eibhlín na dréachtaí seo a leanas lena, caoineadh ar ócáid an dara adhlacadh.#urn:cts:gleLit:chonaill.airt.gle:5
+
+#!citedata
+urn#seq#label#passage
+urn:cite2:fufolio:chonaillAnnotation.2018demo:6#6#The extracts in this section appear to have been uttered by Eibhlín over her husband's body in Carriginima.#urn:cts:gleLit:chonaill.airt.eng:1
+urn:cite2:fufolio:chonaillAnnotation.2018demo:7#7#Tradition has it that Art's sister found Eibhlín in bed when she arrived from Cork City for the wake in the Ó Laoghaire home. Her rebuke to Eibhlín led to a sharp verbal contest.#urn:cts:gleLit:chonaill.airt.eng:2
+urn:cite2:fufolio:chonaillAnnotation.2018demo:8#8#These lines, with their public adulation of Art, were probably uttered by Eibhlín after her husband's body had been prepared for burial.#urn:cts:gleLit:chonaill.airt.eng:3
+urn:cite2:fufolio:chonaillAnnotation.2018demo:9#9#Art's sister makes her own formal contribution here to the keen.  Her reference to Art's women-friends brings a spirited reply from Eibhlín.#urn:cts:gleLit:chonaill.airt.eng:4
+urn:cite2:fufolio:chonaillAnnotation.2018demo:10#10#Due to some legal obstruction, the body of Art Ó Laoghaire was not buried in the ancestral graveyard, and temporary burial arrangements had to be made. It was possibly some months later that the body was transferred to the monastery of Kilcrea, Co. Cork.  Eibhlín appears to have uttered the following passage of her lament on the occasion of the second burial.#urn:cts:gleLit:chonaill.airt.eng:5
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:fufolio:chonaillSpeakers.2018demo:#Speaker annotation on Caoineadh Airt Uí Laoghaire#urn:cite2:fufolio:chonaillSpeakers.2018demo.speaker:##CC-BY-SA 3.0
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:chonaillSpeakers.2018demo.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:chonaillSpeakers.2018demo.speaker:#Speaker#String#
+
+#!citedata
+urn#speaker
+urn:cite2:fufolio:chonaillSpeakers.2018demo:1#Eibhlín Dubh Ní Chonaill
+urn:cite2:fufolio:chonaillSpeakers.2018demo:2#Deirfiúr Airt
+urn:cite2:fufolio:chonaillSpeakers.2018demo:3#Speaker: Eileen O'Connell
+urn:cite2:fufolio:chonaillSpeakers.2018demo:4#Speaker: Art's Sister

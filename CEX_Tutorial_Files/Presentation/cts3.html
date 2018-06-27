@@ -1,0 +1,769 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!-- configuration parameters -->
+  <meta name="defaultView" content="slideshow" />
+  <meta name="controlVis" content="hidden" />
+  <style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+  </style>
+  <!-- style sheet links -->
+  <link rel="stylesheet" href="s5/default/slides.css" type="text/css" media="projection" id="slideProj" />
+  <link rel="stylesheet" href="s5/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+  <link rel="stylesheet" href="s5/default/print.css" type="text/css" media="print" id="slidePrint" />
+  <link rel="stylesheet" href="s5/default/opera.css" type="text/css" media="projection" id="operaFix" />
+  <!-- S5 JS -->
+  <script src="s5/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="layout">
+<div id="controls"></div>
+<div id="currentSlide"></div>
+<div id="header"></div>
+<div id="footer">
+  <h1></h1>
+  <h2></h2>
+</div>
+</div>
+<div class="presentation">
+<div id="cite-cts" class="slide section level1">
+<h1>CITE &amp; CTS</h1>
+<h2 id="identification-retrieval-analysis-of-citable-data">Identification, retrieval, &amp; analysis of citable data</h2>
+<p>C. Blackwell, University College Cork, April 2018</p>
+</div>
+<div id="cts-and-then-cite" class="slide section level1">
+<h1>CTS (and then CITE)</h1>
+<p>Canonical Text Services (CTS) is a framework for <strong>identifying and retrieving passages of text by means of machine-actionable canonical citation.</strong></p>
+<p>CITE (for “Collections, Indices, Texts, and Extensions”) is an application of the principles of CTS to other kinds of data.</p>
+<p class="cwbNote">
+Developed for <em>The Homer Multitext</em>, Casey Dué and Mary Ebbott, edd., The Center for Hellenic Studies of Harvard University.
+</p>
+</div>
+<div id="the-homer-multitext" class="slide section level1">
+<h1>The Homer Multitext</h1>
+</div>
+<div id="the-question" class="slide section level1">
+<h1>The Question</h1>
+<p>There is formulaic language in the <em>Iliad</em> and <em>Odyssey</em>.</p>
+<p>How did it work?</p>
+</div>
+<div id="the-path-to-an-answer" class="slide section level1">
+<h1>The Path to an Answer</h1>
+<ul>
+<li>Hundreds of manuscript folios</li>
+<li>Thousands of images</li>
+<li>Scores of discrete texts—versions of the <em>Iliad</em> and commentary texts</li>
+<li>Graphical elements</li>
+<li>Language problems: meter, orthography, morphology, syntax,</li>
+</ul>
+</div>
+<div class="slide section level1">
+
+<div class="figure">
+<img src="images/VA012RN-0013.jpg" alt="Figure: Venetus A, Marcianus Graecus Z.454" />
+<p class="caption">Figure: Venetus A, <em>Marcianus Graecus</em> Z.454</p>
+</div>
+</div>
+<div class="slide section level1">
+
+<div class="figure">
+<img src="images/subscription.jpg" alt="Figure: Venetus A, Book 8 (Θ) Subscription" />
+<p class="caption">Figure: Venetus A, Book 8 (Θ) Subscription</p>
+</div>
+</div>
+<div class="slide section level1">
+
+<p>CITE has evolved as our approach to this problem.</p>
+<ul>
+<li>Over 16 years of close work</li>
+<li>100+ editors</li>
+<li>Several generations of technology (Perl, SGML, TEI-XML, XSLT, eXist, Google BigTable, PostgreSQL, Java/Groovy, RDF &amp; Fuseki, Scala)</li>
+</ul>
+</div>
+<div id="do-you-want-to-use-cts" class="slide section level1">
+<h1>Do <em>You</em> Want to Use CTS?</h1>
+<p>The following image is a test.</p>
+<p>If it is horrifying, you do not want to use CTS.</p>
+<p>If it interesting, you may want to use CTS.</p>
+</div>
+<div class="slide section level1">
+
+<div class="figure">
+<img src="images/jefferson_sliced.jpg" alt="Thomas Jefferson’s Bible: His intellectual project required disaggretation of a book." />
+<p class="caption">Thomas Jefferson’s Bible: His intellectual project required disaggretation of a book.</p>
+</div>
+</div>
+<div id="the-aspirations-of-cite" class="slide section level1">
+<h1>The Aspirations of CITE</h1>
+<ul>
+<li><p>Separation of Concerns, or, Avoiding the Instrumentalist Fallacy</p></li>
+<li><p>Declarative (not Procedural) Scholarship</p></li>
+</ul>
+<p class="cwbNote">
+The 2018b release of HMT data at <a href="https://github.com/homermultitext/hmt-archive">https://github.com/homermultitext/hmt-archive</a> contains work done in 2007 under a completely different toolchain.
+</p>
+</div>
+<div id="the-instrumentalist-fallacy" class="slide section level1">
+<h1>The Instrumentalist Fallacy</h1>
+<p>Confusing the <em>tool</em> for the <em>job.</em></p>
+<p>Forcing a new technology to imitate an old technology.</p>
+</div>
+<div class="slide section level1">
+
+<div class="figure">
+<img src="images/sinaiticus.jpg" alt="Figure: Codex Sinaiticus (4th c. CE)" />
+<p class="caption">Figure: Codex Sinaiticus (4th c. CE)</p>
+</div>
+</div>
+<div class="slide section level1">
+
+<p>The Venetus A (<em>Marcianus Graecus</em> Z.454)</p>
+<div class="figure">
+<img src="images/VA012RN-0013.jpg" alt="Figure: Venetus A" />
+<p class="caption">Figure: Venetus A</p>
+</div>
+</div>
+<div id="the-job-the-tools" class="slide section level1">
+<h1>The Job &amp; the Tools</h1>
+<p>For a thousand years, the scholar’s best tool was the book.</p>
+<p>Its job was to integrate and organize information in a portable and economical package.</p>
+<p>(It is possible that its job has been superceded.)</p>
+</div>
+<div id="a-job" class="slide section level1">
+<h1>A Job</h1>
+<p>For 21st Century scholars, sometimes the job is to reproduce the appearance of a Physical Object, as an historical artifact.</p>
+<p><a href="http://www.gutenberg.org/files/20771/20771-h/20771-h.htm">This absolutely beautiful version of Linnaeus’ <em>Species Plantarum</em> from Project Gutenberg</a> has values for which CTS would not be helpful.</p>
+<p>For art historians, codicologists, bibliographers, the book <em>is</em> the job.</p>
+<p>For these scholars, CTS may not be a useful tool.</p>
+<p>HTML, or TEI-XML do the job.</p>
+</div>
+<div id="cite-is-another-tool" class="slide section level1">
+<h1>CITE is Another Tool</h1>
+<p>A tool that may help fulfill the promise of digital libraries <em>for philologists</em>…</p>
+<ul>
+<li>Access</li>
+<li>Reproducibility</li>
+<li><em>Analysis &amp; Synthesis</em></li>
+<li><em>Integration</em></li>
+</ul>
+</div>
+<div class="slide section level1">
+
+<p>We want to pull apart out data, transform it, and put it back together, while <em>always being able to say what we are talking about.</em></p>
+</div>
+<div id="declarative-scholarship" class="slide section level1">
+<h1>Declarative Scholarship</h1>
+<p>Running computational process is part of the process of research.</p>
+<p>So is reading.</p>
+<p>The results of those processes and readings becomes <em>scholarship</em> only when we can <em>cite</em> them.</p>
+</div>
+<div id="f-is-not-a-footnote" class="slide section level1">
+<h1><code>⌘-f</code> is not a Footnote</h1>
+<p>The “final mile” of any computer-mediated humanist scholarship is taking the results of our analyses and turning them into something specific and concrete, that we can share, <em>independent of any particular technology.</em></p>
+<p>Historical practices give us the solution: <em>Canonical Citation</em></p>
+</div>
+<div id="citation" class="slide section level1">
+<h1>Citation</h1>
+<ul>
+<li>We can name what we are talking about,</li>
+<li>As precisely (John 3:16; <em>Iliad</em>, edition of T.W. Allen, 2.1) or as imprecisely (<em>Iliad</em> Books 9 and 10) as we need,</li>
+<li>We can “quote” (reproduce the text under discussion, and only the text under discussion),</li>
+<li>And always have access to the larger context, what comes next, what came before.</li>
+</ul>
+</div>
+<div id="canonical-citation" class="slide section level1">
+<h1>Canonical Citation</h1>
+<ul>
+<li>Not necessary “traditional citation”.</li>
+<li>Unique unambiguous citation values</li>
+<li>Immutable</li>
+<li>Independent of technology or format
+<ul>
+<li>physical books</li>
+<li>digital texts, regardless of format</li>
+</ul></li>
+</ul>
+</div>
+<div id="canonical-citation-1" class="slide section level1">
+<h1>Canonical Citation</h1>
+<ul>
+<li>Ideally capturing the semantics of a text
+<ul>
+<li><strong>citation hierarchy</strong></li>
+<li><strong>bibliographic hierarchy</strong></li>
+<li>(more on this shortly…)</li>
+</ul></li>
+<li>Ideally
+<ul>
+<li>concise &amp; human-readable</li>
+<li>machine-actionable</li>
+</ul></li>
+</ul>
+</div>
+<div id="canonical-citation-2" class="slide section level1">
+<h1>Canonical Citation</h1>
+<p>In many cases, particularly with old and cherished texts, tradition has given us a good basis for canonical citation.</p>
+<ul>
+<li>Homer, <em>Iliad</em> 1.1</li>
+<li>Sophocles, <em>Oedipus at Colonus</em> 1</li>
+<li>New Testament, <em>Luke</em> 2.1</li>
+<li>Euclid, <em>Elements of Geometry</em>, Book 1, Common Notions, 3</li>
+</ul>
+</div>
+<div id="canonical-citation-3" class="slide section level1">
+<h1>Canonical Citation</h1>
+<ul>
+<li>Some texts do not have an accepted, traditional scheme of citation.</li>
+<li>Some texts do have a traditional scheme of citation, but it does not work as <em>canonical citation</em> as defined above.</li>
+</ul>
+</div>
+<div class="slide section level1">
+
+<div class="figure">
+<img src="images/Causabon_1.3c.jpg" alt="Athenaeus, Deipnosophistae 13c, according to Causabon’s scheme of citation." />
+<p class="caption">Athenaeus, <em>Deipnosophistae</em> 13c, according to Causabon’s scheme of citation.</p>
+</div>
+<p>Causabon’s citation assumed the (imprecise) perception of a human eye on a physical page. But where does <strong>b</strong> end and <strong>c</strong> begin?</p>
+</div>
+<div id="canonical-citation-4" class="slide section level1">
+<h1>Canonical Citation</h1>
+<p>An editor can assert a citation scheme.</p>
+<ul>
+<li>Athenaeus, <em>Deipnosophistae</em>, 1.4 (Kaibel’s citation scheme of Book + Section)</li>
+<li>Anne Frank, <em>Het Achterhuis</em> 19420614.p1</li>
+<li>Eibhlín Dhubh Ní Chonaill, “Caoineadh Airt Uí Laoghaire” 1.1.1</li>
+</ul>
+</div>
+<div id="an-abstract-model" class="slide section level1">
+<h1>An Abstract Model</h1>
+<p>CTS is based on an <em>abstract model</em> of “text” that is based on canonical citation.</p>
+<p>It works <em>only</em> with implementations of that abstract model.</p>
+<p>Definition:</p>
+<blockquote>
+<p>An ordered hierarchy of <strong>citation</strong> objects (OHCO<sup>2</sup>)</p>
+</blockquote>
+<p class="cwbNote">
+N. Smith, G. Weaver. “Applying domain knowledge from structured citation formats to text and data mining: Examples using the CITE architecture” <i>Text Mining Services</i> (2009).
+</p>
+</div>
+<div id="ohco2-citation-objects" class="slide section level1">
+<h1>OHCO<sup>2</sup>: Citation Objects</h1>
+<p>A text consists of citation-objects, “citable nodes”.</p>
+<ul>
+<li><em>Iliad</em> 1.1</li>
+<li><em>Oedipus at Colonus</em> 1</li>
+<li><em>Luke</em> 2.1</li>
+<li><em>Elements of Geometry</em>, Book 1, Common Notions, 3</li>
+</ul>
+</div>
+<div id="why-citation-objects" class="slide section level1">
+<h1>Why “Citation” Objects?</h1>
+<p>The original OHCO attempted to define a text as an “ordered hierarchy of <strong>content</strong> objects.”<sup>1</sup></p>
+<p>This immediately ran into problems in the digital realm. What is content?</p>
+<p class="cwbNote">
+DeRose, Stephen, David Durand, Elli Mylonas, and Allen Renear. “What Is Text, Really?” <i>Journal of Computing in Higher Education</i> 1, no. 2 (Winter 1990): 3–26.
+</p>
+</div>
+<div id="ohco2-citation-objects-1" class="slide section level1">
+<h1>OHCO<sup>2</sup>: Citation Objects</h1>
+<p>By defining a text as an ordered hierarchy of <em>citation</em> objects, we are free to do what we want with the <em>textual content</em>.</p>
+</div>
+<div class="slide section level1">
+
+<p>Homer, <em>Iliad</em>, Perseus Digital Edition, 1.1</p>
+<div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml">    <span class="kw">&lt;l</span><span class="ot"> n=</span><span class="st">&quot;1&quot;</span><span class="kw">&gt;</span> Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος <span class="kw">&lt;/l&gt;</span></code></pre></div>
+</div>
+<div class="slide section level1">
+
+<p>Or…</p>
+<div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml">    <span class="kw">&lt;l</span><span class="ot"> n=</span><span class="st">&quot;1&quot;</span><span class="kw">&gt;</span>
+        Μῆνιν ἄειδε θεὰ
+        <span class="kw">&lt;persName</span><span class="ot"> n=</span><span class="st">&quot;urn:cite:hmt:pers.pers1&quot;</span><span class="kw">&gt;</span>Πηληϊάδεω
+        Ἀχιλῆος<span class="kw">&lt;/persName&gt;</span> <span class="kw">&lt;/l&gt;</span></code></pre></div>
+</div>
+<div class="slide section level1">
+
+<p>Or…</p>
+<p><code>Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος</code></p>
+</div>
+<div class="slide section level1">
+
+<p>Or, in addition, <em>e.g.</em>, Homer, <em>Iliad</em>, Perseus Digital Edition, metrical analytical exemplar, 1.1:</p>
+<p><code>¯˘˘ | ¯˘˘ | ¯ ⋮ ¯ | ¯˘˘ | ¯˘˘ | ¯¯</code></p>
+</div>
+<div id="ohco2-ordered" class="slide section level1">
+<h1>OHCO<sup>2</sup>: Ordered…</h1>
+<p>”Ordered”, because the sequence matters in a text.</p>
+</div>
+<div id="ohco2-hierarchy" class="slide section level1">
+<h1>OHCO<sup>2</sup>: …Hierarchy…</h1>
+<p>“Hierarchy”, because the text may be organized by containing elements.</p>
+<p>The Homeric <em>Iliad</em> Book 1 (often) contains 611 citation-objects (lines).</p>
+<p>Rajmund Kunić’s <em>Ilias</em> (a Latin translation of the <em>Iliad</em>) has 732 lines in Book 1.</p>
+</div>
+<div id="ohco2-hierarchy-1" class="slide section level1">
+<h1>OHCO<sup>2</sup>: …Hierarchy…</h1>
+<p>The hierarchy may be only one level deep, or may be many levels deep.</p>
+<p>Different sections of a text may have citation-hierarchies of differing depths.</p>
+<p>The Homeric <em>Iliad</em> has a two-level hierarchy throughout.</p>
+<p>Kunić’s <em>Ilias</em> is two levels deep except at the end of Book 2, where it is 3 levels deep.</p>
+</div>
+<div id="there-are-many-ways-to-implement-ohco2" class="slide section level1">
+<h1>There are Many Ways to Implement OHCO<sup>2</sup></h1>
+<div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml">
+<span class="kw">&lt;TEI&gt;</span>
+ <span class="kw">&lt;text&gt;</span>
+  <span class="kw">&lt;body&gt;</span>
+   <span class="kw">&lt;div</span><span class="ot"> n=</span><span class="st">&quot;19420614&quot;</span><span class="kw">&gt;</span>
+    <span class="kw">&lt;head</span><span class="ot"> id=</span><span class="st">&quot;1&quot;</span><span class="ot"> n=</span><span class="st">&quot;h1&quot;</span><span class="kw">&gt;</span>
+      Zondag, 14 Juni 1942
+    <span class="kw">&lt;/head&gt;</span>
+    <span class="kw">&lt;p</span><span class="ot"> id=</span><span class="st">&quot;2&quot;</span><span class="ot"> n=</span><span class="st">&quot;p1&quot;</span><span class="kw">&gt;</span>
+    Vrijdag 12 Juni was ik al om 6 uur wakker en dat is heel begrijpelijk,
+        daar ik jarig was. Maar om 6 uur mocht ik toch nog niet opstaan, dus
+        moest ik mijn nieuwsgierigheid bedwingen tot kwart voor zeven. Toen
+        ging het niet langer, ik ging naar de eetkamer, waar ik door Moortje
+        (de kat) met kopjes verwelkomd werd.
+    <span class="kw">&lt;/p&gt;</span>
+    <span class="kw">&lt;p</span><span class="ot"> id=</span><span class="st">&quot;3&quot;</span><span class="ot"> n=</span><span class="st">&quot;p2&quot;</span><span class="kw">&gt;</span>
+    Om even na zevenen ging ik naar papa en mama en dan naar de huiskamer,
+        om mijn cadeautjes uit te pakken. Het was in de eerste plaats jou die
+        ik te zien kreeg, wat misschien wel een van mijn jnste cadeau&#39;s is.
+        Dan een bos rozen, een plantje, twee takken pinkster-rozen, dat waren
+        die ochtend de kinderen van Flora, die op mijn tafel stonden, maar er
+        kwam nog veel meer.
+    <span class="kw">&lt;/p&gt;</span>
+   <span class="kw">&lt;/div&gt;</span>           
+  <span class="kw">&lt;/body&gt;</span>
+ <span class="kw">&lt;/text&gt;</span>
+<span class="kw">&lt;/TEI&gt;</span></code></pre></div>
+</div>
+<div id="but-format-model" class="slide section level1">
+<h1>But “Format” ≠ “Model”</h1>
+<p>There are many ways to create valid TEI-XML that do not implement OHCO<sup>2</sup>.</p>
+</div>
+<div id="cts-bibliographic-hierarchy" class="slide section level1">
+<h1>CTS: Bibliographic Hierarchy</h1>
+<p>A text belongs to a TextGroup. <em>E.g.</em></p>
+<ul>
+<li>“Thucydides”</li>
+<li>“New Testament”</li>
+<li>“Homeric Epic”</li>
+<li>&quot;Anne Frank&quot;</li>
+<li>&quot;Michigan Papyri&quot;</li>
+<li>&quot;<em>Inscriptiones Graecae</em> II<sup>3</sup>”</li>
+</ul>
+</div>
+<div id="cts-bibliographic-hierarchy-1" class="slide section level1">
+<h1>CTS: Bibliographic Hierarchy</h1>
+<p>A text is an instantiation of a notional Work. <em>E.g.</em></p>
+<ul>
+<li>“Homer, <em>Iliad</em>”</li>
+<li>“New Testament, Luke”</li>
+<li>“Anne Frank, <em>Het Achterhuis</em>”</li>
+<li>“<em>IG</em> II<sup>3</sup> 1-879”</li>
+</ul>
+</div>
+<div id="cts-bibliographic-hierarchy-2" class="slide section level1">
+<h1>CTS: Bibliographic Hierarchy</h1>
+<p>A text may be a Version of a notional Work. Versions are <em>real things that you can read</em>.</p>
+<ul>
+<li>Pope’s English translation of the <em>Iliad</em></li>
+<li>Villoison’s edition of the <em>Iliad</em> according to the Venetus A Manuscript.</li>
+</ul>
+</div>
+<div id="cts-bibliographic-hierarchy-3" class="slide section level1">
+<h1>CTS: Bibliographic Hierarchy</h1>
+<p>An <strong>Edition</strong> is a Version in the language of original composition.</p>
+<p>A <strong>Translation</strong> is a Version in another language.</p>
+<p class="cwbNote">
+The distinction between <em>edition</em> and <em>translation</em> can be fluid; CTS does not really care: they are all <em>versions</em>.
+</p>
+</div>
+<div id="cts-bibliographic-hierarchy-4" class="slide section level1">
+<h1>CTS: Bibliographic Hierarchy</h1>
+<p>Or, a text may be an <strong>Exemplar</strong>, a specific example of, or derivative from, a particular <strong>Version</strong>.</p>
+<ul>
+<li>Thomas Jefferson’s personal copy of Villoison’s edition of the <em>Iliad</em>.</li>
+<li>The <em>HMT</em>’s normalized <em>Exemplar</em> of the <em>Iliad</em> derived from the <em>HMT</em>’s diplomatic Edition.</li>
+<li>The <em>HMT</em>’s <em>Exemplar</em> of the <em>Iliad</em>, transformed specifically for the purpose of topic-modeling, derived from the <em>HMT</em>’s diplomatic Edition.</li>
+</ul>
+<p>Exemplars might become more clear during the Workshop.</p>
+</div>
+<div id="cts-urns" class="slide section level1">
+<h1>CTS-URNs</h1>
+<p>A CTS URN captures the OHCO<sup>2</sup> model’s semantics:</p>
+<p><code>TextGroup.Work[.Version[.Exemplar]?]?:[N[.N]*]?</code></p>
+</div>
+<div id="a-cts-urn" class="slide section level1">
+<h1>A CTS URN</h1>
+<p><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\fn_phv&space;\large&space;$\underbrace{\underbrace{urn:cts:greekLit}_\text{namespaces}:\underbrace{tlg0012}_\text{Homeric Epic}.\underbrace{tlg001}_\text{Iliad}.\underbrace{msA}_\text{Version}:\underbrace{1.1}_\text{citation}}_\text{cts-urn}$" title="\large $\underbrace{\underbrace{urn:cts:greekLit}_\text{namespaces}:\underbrace{tlg0012}_\text{Homeric Epic}.\underbrace{tlg001}_\text{Iliad}.\underbrace{msA}_\text{Version}:\underbrace{1.1}_\text{citation}}_\text{cts-urn}$" /></p>
+</div>
+<div id="some-examples" class="slide section level1">
+<h1>Some Examples</h1>
+<p>(Based on the <em>Iliad</em>, which consists, generally, of 24 poetic books, each containing several hundred poetic lines.)</p>
+<p>In the <code>greekLit</code> namespace<sup>1</sup>:</p>
+<ul>
+<li><code>urn:cts:greeklit:tlg0012</code> is the TextGroup-identifier for “Homeric Epic”</li>
+<li><code>urn:cts:greeklit:tlg0012.tlg001</code> is the Work-identifier for “Homeric Epic, <em>Iliad</em>”</li>
+</ul>
+<p class="cwbNote">
+<p><sup>1</sup> The <code>greekLit</code> namespace is controlled by the Center for Hellenic Studies of Harvard University, maintaining a unique catalog of TextGroups and Works for texts in Greek dating earlier than 1453 BCE, preserved through manuscript transmission.</p>
+</div>
+<div id="cts-in-action-some-live-demos" class="slide section level1">
+<h1>CTS in Action: Some Live Demos</h1>
+<div class="figure">
+<img src="images/dunkirk.jpg" alt="Cillian Murphy is not afraid of live demos." />
+<p class="caption">Cillian Murphy is not afraid of live demos.</p>
+</div>
+<p><a href="cite1.html">Link</a></p>
+</div>
+<div class="slide section level1">
+
+<p>A work-level leaf-node citation:</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001:1.1"><code>urn:cts:greekLit:tlg0012.tlg001:1.1</code></a></p>
+<p>Identifies every version of <em>Iliad</em> Book 1 line 1.</p>
+<p class="cwbNote">
+Some versions of the <i>Iliad</i> will not have a Book 1, Line 1; the citation above does not identify them.
+</p>
+</div>
+<div class="slide section level1">
+
+<p>A version-level leaf-node citation:</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1</code></a></p>
+<p>Identifies <em>Iliad</em> 1.1 in a particular version.</p>
+</div>
+<div class="slide section level1">
+
+<p>A (version-level) range.</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1-1.10"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1-1.10</code></a></p>
+<p>All citation objects, in sequence, between 1.1 and 1.10 in this version, inclusively.</p>
+<p><em>N.b.</em> The result may well not be ten leaf-nodes, depending on the text.</p>
+<p class="cwbNote">
+Some Versions of the <i>Iliad</i> may lack a 1.1 or a 1.10, or 1.10 may come <i>before</i> 1.9. For such a version, this would be an invalid citation.
+</p>
+</div>
+<div class="slide section level1">
+
+<p>A version-level containing element.</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1</code></a></p>
+<p>All citation objects contained by Book 1, in this version of the <em>Iliad</em>.</p>
+<p>(In this one, there are 610.)</p>
+</div>
+<div class="slide section level1">
+
+<p>A range of containing elements.</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1-2"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1-2</code></a></p>
+<p>Every citation object in Books 1 and 2 of this edition of the <em>Iliad</em>.</p>
+</div>
+<div class="slide section level1">
+
+<p>A mixed range.</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.600-2"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.600-2</code></a></p>
+<p>In the <code>msA</code> version of the <em>Iliad</em>, from Book 1, line 600 through all of Book 2.</p>
+<p class="cwbNote">
+It is worth emphasizing that “line 600” is not necessarily the 600th line, but merely the line whose ID happens to be “600”.
+</p>
+</div>
+<div class="slide section level1">
+
+<p>CTS-URN subreferences. Identifying contents.</p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1@μῆνιν%5B1%5D"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1@μῆνιν[1]</code></a></p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1@ν%5B2%5D"><code>urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1@ν[2]</code></a></p>
+<p><a href="http://localhost:9000/texts/urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:1.1@μῆνιν%5B1%5D-1.2@οὐλομένην%5B1%5D"><code>urn:cts:….perseus_grc2:1.1@μῆνιν[1]-1.2@οὐλομένην[1]</code></a></p>
+<p class="cwbNote">
+<b>N.b.</b> At least in the HMT implementations of CTS, <i>retrieval</i> happens at the citation-level only. And there are better ways to do this…
+</p>
+</div>
+<div id="cite-for-everything-else" class="slide section level1">
+<h1>CITE: For Everything Else</h1>
+<p>CTS is for identification and retrieval of citable passages of text.</p>
+<p>CITE is for everything else.</p>
+</div>
+<div id="cite2-model" class="slide section level1">
+<h1>CITE2 Model</h1>
+<p>In the CITE2 model, citable objects are modelled as unique objects in versioned collections.</p>
+<p>Each <em>object</em> is the sum of its <em>citable properties</em>.</p>
+<p class="cwbNote">
+From 2007 until 2017, Neel Smith and I used an earlier model of Collections, with different semantics. Those were cited with <code>urn:cite:…</code>. In 2017 we recognized our error and redefined the semantics for collections. CITE2 URNs reflect this new understanding.
+</p>
+</div>
+<div id="cite2-model-collections" class="slide section level1">
+<h1>CITE2 Model: Collections</h1>
+<p>A collection may be referred either in the abstract as a notional collection, or concretely as a specific version of a notional collection.</p>
+</div>
+<div id="cite2-model-versions-and-properties" class="slide section level1">
+<h1>CITE2 Model: Versions and Properties</h1>
+<p>Each version of a collection defines a set of properties which may or may not be identical across versions, but apply to all objects within a given version.</p>
+<p>All Objects in a Version of a Collection share a set of Properties.</p>
+<p>Each Object in a Version of a Collection has a uniquely citable set of Properties.</p>
+<p>Distinct objects may have identical contents, but within in a collection, each object is uniquely identified.</p>
+<p>For this reason, individual objects may be canonically cited either as part of a notional or concrete collection, but individual properties can only be cited as part of a specific version of a collection.</p>
+</div>
+<div id="cite2-model-ordered-and-unordered-collections" class="slide section level1">
+<h1>CITE2 Model: Ordered and Unordered Collections</h1>
+<p>Collections may or may not be intrinsically ordered. The relation of citable objects in ordered collection is analogous to the relation of citable passages in a citable text: it is possible to make statements about ordered relations at the notional level, but the ordering of citable units in individual versions are not guaranteed to agree with a notional ordering.</p>
+<p>For example, the Venetus A Manuscript has been rebound several times in its history. Each rebinding has put the folios of the front matter (before the actual <em>Iliad</em> text) in a different order. A notional &quot;Collection of Venetus A Folios&quot; might contain the same Objects, but different versions will put those objects in different sequences.</p>
+<p>So the <em>notional</em> collection has no sequence, but each <em>version</em> does.</p>
+</div>
+<div id="a-cite2-urn" class="slide section level1">
+<h1>A CITE2 URN</h1>
+<p><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\fn_phv&space;\large&space;$\underbrace{\underbrace{urn:cite2:hmt}_\text{namespaces}:\underbrace{msAfolios}_\text{collection}.\underbrace{v1}_\text{version}.\underbrace{seq}_\text{property}:\underbrace{12r}_\text{object}}_\text{cite-urn}$" title="\large $\underbrace{\underbrace{urn:cite2:hmt}_\text{namespaces}:\underbrace{msAfolios}_\text{collection}.\underbrace{v1}_\text{version}.\underbrace{seq}_\text{property}:\underbrace{12r}_\text{object}}_\text{cite-urn}$" /></p>
+<p>A Version of a Collection, then, is essentially a Vector of citable, typed property values.</p>
+<p>One property can be identified as the “ordering property”.</p>
+</div>
+<div id="cite2-collection-example" class="slide section level1">
+<h1>CITE2: Collection Example</h1>
+<p>We want to identify a collection of physical folio-sides of the Venetus A manuscript. So we make a collection:</p>
+<p><code>urn:cite2:hmt:msA.v1:</code></p>
+</div>
+<div id="cite2-defining-a-collection" class="slide section level1">
+<h1>CITE2: Defining a Collection</h1>
+<p>To define a versioned collection, we need only a little information:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Property</th>
+<th align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">URN</td>
+<td align="left"><code>urn:cite2:hmt:msA.v1:</code></td>
+</tr>
+<tr class="even">
+<td align="left">Description</td>
+<td align="left">Venetus A folio-sides</td>
+</tr>
+<tr class="odd">
+<td align="left">Labelling Property</td>
+<td align="left"><code>urn:cite2:hmt:msA.v1.label:</code></td>
+</tr>
+<tr class="even">
+<td align="left">Ordering Property</td>
+<td align="left"><code>urn:cite2:hmt:msA.v1.sequence:</code></td>
+</tr>
+<tr class="odd">
+<td align="left">License</td>
+<td align="left">CC-attribution-share-alike</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cite2-defining-properties-for-a-version" class="slide section level1">
+<h1>CITE2: Defining Properties for a Version</h1>
+<p>The Version of the Collection is defined by its Properties.</p>
+<p>For the purposes of the HMT, we do not need to say much about each folio-side.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Property</th>
+<th align="left">Label</th>
+<th align="left">Type</th>
+<th align="left">Authority list</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.urn:</code></td>
+<td align="left">URN</td>
+<td align="left">Cite2Urn</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left"><code>urn:cite2:hmt:msA.v1.sequence:</code></td>
+<td align="left">Page sequence</td>
+<td align="left">Number</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.rv:</code></td>
+<td align="left">Recto or Verso</td>
+<td align="left">String</td>
+<td align="left">recto,verso</td>
+</tr>
+<tr class="even">
+<td align="left"><code>urn:cite2:hmt:msA.v1.label:</code></td>
+<td align="left">Label</td>
+<td align="left">String</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.image:</code></td>
+<td align="left">Image</td>
+<td align="left">Cite2Urn</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cite2-an-object" class="slide section level1">
+<h1>CITE2: An Object…</h1>
+<p>…in a Versioned Collection is defined by its property-values:</p>
+<table>
+<colgroup>
+<col width="40%" />
+<col width="59%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Property</th>
+<th align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.urn:</code></td>
+<td align="left"><code>urn:cite2:hmt:msA.v1:12r</code></td>
+</tr>
+<tr class="even">
+<td align="left"><code>urn:cite2:hmt:msA.v1.sequence:</code></td>
+<td align="left">23</td>
+</tr>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.rv:</code></td>
+<td align="left">recto</td>
+</tr>
+<tr class="even">
+<td align="left"><code>urn:cite2:hmt:msA.v1.label:</code></td>
+<td align="left">Venetus A (Marciana 454 = 822), folio 12, recto</td>
+</tr>
+<tr class="odd">
+<td align="left"><code>urn:cite2:hmt:msA.v1.image:</code></td>
+<td align="left"><code>urn:cite2:hmt:vaimg.2017a:VA012RN_0013</code></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="cite2-an-object-its-properties" class="slide section level1">
+<h1>CITE2: An Object &amp; its Properties</h1>
+<p>The CITE2 URN lets us cite objects and their properties specifically and unambiguously.</p>
+<p><code>urn:cite2:hmt:msA.v1:12r</code> → the object <code>12r</code> and <em>all</em> its properties</p>
+<p><code>urn:cite2:hmt:msA.v1.sequence:12r</code> → the value of the <code>sequence</code> property for <code>12r</code></p>
+<p><code>urn:cite2:hmt:msA.v1.label:12r</code> → the value of the <code>label</code> property for <code>12r</code></p>
+</div>
+<div id="cite2-versions" class="slide section level1">
+<h1>CITE2: Versions</h1>
+<p>We now can identify an object: <code>urn:cite2:hmt:msA.v1:12r</code></p>
+<p>A conservator or codicologist might want to say <em>much</em> more about “Venetus A (Marciana 454 = 822), folio 12, recto”. She could create another version of the Collection, with different properties, and cite:</p>
+<p><code>urn:cite2:hmt:msA.CODICOLOGISTVERSION:12r</code></p>
+<p><strong>But</strong> we can all be assured that the <em>notional</em> citation to…</p>
+<p><code>urn:cite2:hmt:msA:12r</code></p>
+<p>…is talking about the same object.</p>
+</div>
+<div id="relations-the-i-in-cite" class="slide section level1">
+<h1>Relations: The “I” in CITE</h1>
+<p>With CTS and CITE2 URNs, we have a framework for <em>citable scholarly primitives</em> that lets us identify the objects of study.</p>
+<p><strong>CITE Relations</strong> the (<strong>I</strong>ndices in the CITE acronym) are relations between pairs of citable objects.</p>
+<p>Borrowing from RDF, these are “subject-verb-object” relationships. The <em>verb</em> is an Object identified by a CITE2 URN, with properties assigned to it as seems useful.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Subject</th>
+<th>Verb</th>
+<th>Object</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>CTS or CITE2 URN</td>
+<td>CITE2-URN</td>
+<td>CTS or CITE2 URN</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="data-models-the-e-in-cite" class="slide section level1">
+<h1>Data Models: The “E” in CITE</h1>
+<p>The “E” in CITE stands for “Extensions”.</p>
+<p>All CITE Objects are, generically, the same, and they can be treated as such.</p>
+<p>But some represent special types of data that require or afford special treatment:</p>
+<ul>
+<li>Binary Images</li>
+<li>Documented Scholarly Relations objects</li>
+<li>Commentary objects</li>
+</ul>
+<p>CITE includes a provision for <em>discoverable data models</em> that handle these cases.</p>
+</div>
+<div id="cex-cite-exchange-format" class="slide section level1">
+<h1>CEX: CITE Exchange Format</h1>
+<p>A plain-text, straightforward way to capture CITE data.</p>
+<p>A complement to other serializations:</p>
+<ul>
+<li>JSON</li>
+<li>RDF</li>
+<li>XML</li>
+<li>RDB Schemas</li>
+<li>&amp;c.</li>
+</ul>
+</div>
+<div id="code-libraries" class="slide section level1">
+<h1>Code Libraries</h1>
+<ul>
+<li><code>xcite</code> Constructing, validating, and parsing CTS and CITE2 URNs</li>
+<li><code>ohco2</code> Corpora of texts (CTS stuff)</li>
+<li><code>citeobj</code> Collections of CITE Objects</li>
+<li><code>citeimg</code> Extending a CITE collection of “objects” that are images</li>
+<li><code>citerelations</code> Arbitrary relations among URN-citable data</li>
+<li><code>scm</code> Managing libraries of CITE/CTS data; defining data-models.</li>
+<li><code>cex</code> Serializing CITE data to a plain-text format; parsing that format</li>
+<li><code>citejson</code> Unmarshalling JSON expressions of CITE data to Scala objects</li>
+</ul>
+</div>
+<div id="apps-tools" class="slide section level1">
+<h1>Apps &amp; Tools</h1>
+<ul>
+<li><code>CiteApp</code> A “zero-configuration” web-application for interacting with CITE data.</li>
+<li><code>Scala Cite Services Akka (scs-akka)</code> A microservice delivering CITE data (as JSON) over HTTP</li>
+<li><code>Server CiteApp</code> [in development] A version of <code>CiteApp</code> that hand processing over to <code>scs-akka</code></li>
+<li><code>ICT2</code> (Image Citation Tool 2) A Javascript application for creating CITE2 URNs + ROIs for citable binary images.</li>
+</ul>
+</div>
+<div id="go-raibh-maith-agaibh" class="slide section level1">
+<h1>Go raibh maith agaibh</h1>
+<p>https://github.com/cite-architecture</p>
+<p>christopher.blackwell@furman.edu</p>
+</div>
+</div>
+</body>
+</html>

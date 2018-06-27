@@ -1,0 +1,304 @@
+// Library of texts for teaching CITE Collections
+// The pound sign "#" is used as a column divider.
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#Cork Demonstration Library 2
+urn#urn:cite2:furman:cex.2017a:corkDemo2
+license#The Irish text of Caoineadh Airt Uí Laoghaire is in the public domain. The English translation by T. Kinsella was published in "An Duanaire - Poems of the Dispossessed: an anthology of Gaelic poems", edited by Seán Ó Tuama (Dolmen Press, Portlaoise 1981 ISBN 0-85105-363-7). Included in this demonstration dataset under the doctrine of Fair Use. Please do not distribute further.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:gleLit:chonaill.airt.eng:#Stanza/Section/Line#Eibhlín Dhubh Ní Chonaill#Caoineadh Airt UÍ Laoghaire#The Lament For Art Ó Laoghaire, T. Kinsella, trans.##true#eng
+
+#!ctsdata
+urn:cts:gleLit:chonaill.airt.eng:1.1.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:1.1.2#When I saw you one day
+urn:cts:gleLit:chonaill.airt.eng:1.1.3#by the market-house gable
+urn:cts:gleLit:chonaill.airt.eng:1.1.4#my eye gave a look
+urn:cts:gleLit:chonaill.airt.eng:1.1.5#my heart shone out
+urn:cts:gleLit:chonaill.airt.eng:1.1.6#I fled with you far
+urn:cts:gleLit:chonaill.airt.eng:1.1.7#from friends and home.
+urn:cts:gleLit:chonaill.airt.eng:1.2.1#And never was sorry:
+urn:cts:gleLit:chonaill.airt.eng:1.2.2#you had parlours painted
+urn:cts:gleLit:chonaill.airt.eng:1.2.3#rooms decked out
+urn:cts:gleLit:chonaill.airt.eng:1.2.4#the oven reddened
+urn:cts:gleLit:chonaill.airt.eng:1.2.5#and loaves made up
+urn:cts:gleLit:chonaill.airt.eng:1.2.6#roasts on spits
+urn:cts:gleLit:chonaill.airt.eng:1.2.7#and cattle slaughtered;
+urn:cts:gleLit:chonaill.airt.eng:1.2.8#I slept in duck-down
+urn:cts:gleLit:chonaill.airt.eng:1.2.9#till noontime came
+urn:cts:gleLit:chonaill.airt.eng:1.2.10#or later if I liked.
+urn:cts:gleLit:chonaill.airt.eng:1.3.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.3.2#it comes to my mind
+urn:cts:gleLit:chonaill.airt.eng:1.3.3#that fine Spring day
+urn:cts:gleLit:chonaill.airt.eng:1.3.4#how well your hat looked
+urn:cts:gleLit:chonaill.airt.eng:1.3.5#with the drawn gold band,
+urn:cts:gleLit:chonaill.airt.eng:1.3.6#the sword silver-hilted
+urn:cts:gleLit:chonaill.airt.eng:1.3.7#your fine brave hand
+urn:cts:gleLit:chonaill.airt.eng:1.3.8#and menacing prance,
+urn:cts:gleLit:chonaill.airt.eng:1.3.9#and the fearful tremble
+urn:cts:gleLit:chonaill.airt.eng:1.3.10#of treacherous enemies.
+urn:cts:gleLit:chonaill.airt.eng:1.3.11#You were set to ride
+urn:cts:gleLit:chonaill.airt.eng:1.3.12#your slim white-faced steed
+urn:cts:gleLit:chonaill.airt.eng:1.3.13#and Saxons saluted
+urn:cts:gleLit:chonaill.airt.eng:1.3.14#down to the ground,
+urn:cts:gleLit:chonaill.airt.eng:1.3.15#not from good will
+urn:cts:gleLit:chonaill.airt.eng:1.3.16#but by dint of fear
+urn:cts:gleLit:chonaill.airt.eng:1.3.17#- though you died at their hands,
+urn:cts:gleLit:chonaill.airt.eng:1.3.18# my soul's beloved....
+urn:cts:gleLit:chonaill.airt.eng:1.4.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.4.2#And when they come home,
+urn:cts:gleLit:chonaill.airt.eng:1.4.3#our little pet Conchúr
+urn:cts:gleLit:chonaill.airt.eng:1.4.4#and baby Fear Ó Laoghaire,
+urn:cts:gleLit:chonaill.airt.eng:1.4.5#they will ask at once
+urn:cts:gleLit:chonaill.airt.eng:1.4.6#where I left their father.
+urn:cts:gleLit:chonaill.airt.eng:1.4.7#I will tell them in woe
+urn:cts:gleLit:chonaill.airt.eng:1.4.8#he is left in Cill na Martar,
+urn:cts:gleLit:chonaill.airt.eng:1.4.9#and they'll call for their father
+urn:cts:gleLit:chonaill.airt.eng:1.4.10#and get no answer....
+urn:cts:gleLit:chonaill.airt.eng:1.5.1#My steadfast friend!
+urn:cts:gleLit:chonaill.airt.eng:1.5.2#I didn't credit your death
+urn:cts:gleLit:chonaill.airt.eng:1.5.3#till your horse came home
+urn:cts:gleLit:chonaill.airt.eng:1.5.4#and her reins on the ground,
+urn:cts:gleLit:chonaill.airt.eng:1.5.5#your heart's blood on her back
+urn:cts:gleLit:chonaill.airt.eng:1.5.6#to the polished saddle
+urn:cts:gleLit:chonaill.airt.eng:1.5.7#where you sat - where you stood....
+urn:cts:gleLit:chonaill.airt.eng:1.5.8#I gave a leap to the door,
+urn:cts:gleLit:chonaill.airt.eng:1.5.9#a second leap to the gate
+urn:cts:gleLit:chonaill.airt.eng:1.5.10#and a third on your horse.
+urn:cts:gleLit:chonaill.airt.eng:1.6.1#I clapped my hands quickly
+urn:cts:gleLit:chonaill.airt.eng:1.6.2#and started mad running
+urn:cts:gleLit:chonaill.airt.eng:1.6.3#as hard as I could,
+urn:cts:gleLit:chonaill.airt.eng:1.6.4#to find you there dead
+urn:cts:gleLit:chonaill.airt.eng:1.6.5#by a low furze-bush
+urn:cts:gleLit:chonaill.airt.eng:1.6.6#with no Pope or bishop
+urn:cts:gleLit:chonaill.airt.eng:1.6.7#or clergy or priest
+urn:cts:gleLit:chonaill.airt.eng:1.6.8#to read a psalm over you
+urn:cts:gleLit:chonaill.airt.eng:1.6.9#but a spent old woman
+urn:cts:gleLit:chonaill.airt.eng:1.6.10#who spread her cloak corner
+urn:cts:gleLit:chonaill.airt.eng:1.6.11#where your blood streamed from you,
+urn:cts:gleLit:chonaill.airt.eng:1.6.12#and I didn't stop to clean it
+urn:cts:gleLit:chonaill.airt.eng:1.6.13#but drank it from my palms.
+urn:cts:gleLit:chonaill.airt.eng:1.7.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:1.7.2#Arise, stand up
+urn:cts:gleLit:chonaill.airt.eng:1.7.3#and come with myself
+urn:cts:gleLit:chonaill.airt.eng:1.7.4#and I'll have cattle slaughtered
+urn:cts:gleLit:chonaill.airt.eng:1.7.5#and call fine company
+urn:cts:gleLit:chonaill.airt.eng:1.7.6#and hurry up the music
+urn:cts:gleLit:chonaill.airt.eng:1.7.7#and make you up a bed
+urn:cts:gleLit:chonaill.airt.eng:1.7.8#with bright sheets upon it
+urn:cts:gleLit:chonaill.airt.eng:1.7.9#and fine speckled quilts
+urn:cts:gleLit:chonaill.airt.eng:1.7.10#to bring you out in a sweat
+urn:cts:gleLit:chonaill.airt.eng:1.7.11#where the cold has caught you.
+urn:cts:gleLit:chonaill.airt.eng:2.1.1#My friend and my treasure!
+urn:cts:gleLit:chonaill.airt.eng:2.1.2#Many fine-made women
+urn:cts:gleLit:chonaill.airt.eng:2.1.3#from Cork of the sails
+urn:cts:gleLit:chonaill.airt.eng:2.1.4#to Droichead na Tóime
+urn:cts:gleLit:chonaill.airt.eng:2.1.5#would bring you great herds
+urn:cts:gleLit:chonaill.airt.eng:2.1.6#and a yellow gold handful,
+urn:cts:gleLit:chonaill.airt.eng:2.1.7#and not sleep in their room
+urn:cts:gleLit:chonaill.airt.eng:2.1.8#on the night of your wake.
+urn:cts:gleLit:chonaill.airt.eng:2.2.1#My friend and my lamb!
+urn:cts:gleLit:chonaill.airt.eng:2.2.2#Don't you believe them
+urn:cts:gleLit:chonaill.airt.eng:2.2.3#nor the scandal you heard
+urn:cts:gleLit:chonaill.airt.eng:2.2.4#nor the jealous man's gossip
+urn:cts:gleLit:chonaill.airt.eng:2.2.5#that it's sleeping I went.
+urn:cts:gleLit:chonaill.airt.eng:2.2.6#It was no heavy slumber
+urn:cts:gleLit:chonaill.airt.eng:2.2.7#but your babies so troubled
+urn:cts:gleLit:chonaill.airt.eng:2.2.8#and all of them needing
+urn:cts:gleLit:chonaill.airt.eng:2.2.9#to be settled in peace.
+urn:cts:gleLit:chonaill.airt.eng:2.3.1#People of my heart,
+urn:cts:gleLit:chonaill.airt.eng:2.3.2#what woman in Ireland
+urn:cts:gleLit:chonaill.airt.eng:2.3.3#from setting of sun
+urn:cts:gleLit:chonaill.airt.eng:2.3.4#could stretch out beside him
+urn:cts:gleLit:chonaill.airt.eng:2.3.5#and bear him three sucklings
+urn:cts:gleLit:chonaill.airt.eng:2.3.6#and not run wild
+urn:cts:gleLit:chonaill.airt.eng:2.3.7#losing Art Ó Laoghaire
+urn:cts:gleLit:chonaill.airt.eng:2.3.8#who lies here vanquished
+urn:cts:gleLit:chonaill.airt.eng:2.3.9#since yesterday morning?...
+urn:cts:gleLit:chonaill.airt.eng:2.4.1#Long loss, bitter grief
+urn:cts:gleLit:chonaill.airt.eng:2.4.2#I was not by your side
+urn:cts:gleLit:chonaill.airt.eng:2.4.3#when the bullet was fired
+urn:cts:gleLit:chonaill.airt.eng:2.4.4#so my right side could take it
+urn:cts:gleLit:chonaill.airt.eng:2.4.5#or the edge of my shift
+urn:cts:gleLit:chonaill.airt.eng:2.4.6#till I freed you to the hills,
+urn:cts:gleLit:chonaill.airt.eng:2.4.7#my fine-handed horseman!
+urn:cts:gleLit:chonaill.airt.eng:2.5.1#My sharp bitter loss
+urn:cts:gleLit:chonaill.airt.eng:2.5.2#I was not at your back
+urn:cts:gleLit:chonaill.airt.eng:2.5.3#when the powder was fired
+urn:cts:gleLit:chonaill.airt.eng:2.5.4#so my fine waist could take it
+urn:cts:gleLit:chonaill.airt.eng:2.5.5#or the edge of my dress,
+urn:cts:gleLit:chonaill.airt.eng:2.5.6#till I let you go free,
+urn:cts:gleLit:chonaill.airt.eng:2.5.7#My grey-eyed rider,
+urn:cts:gleLit:chonaill.airt.eng:2.5.8#ablest for them all.
+urn:cts:gleLit:chonaill.airt.eng:3.1.1#My friend and my treasure trove!
+urn:cts:gleLit:chonaill.airt.eng:3.1.2#An ugly outfit for a warrior:
+urn:cts:gleLit:chonaill.airt.eng:3.1.3#a coffin and a cap
+urn:cts:gleLit:chonaill.airt.eng:3.1.4#on that great-hearted horseman
+urn:cts:gleLit:chonaill.airt.eng:3.1.5#who fished in the rivers
+urn:cts:gleLit:chonaill.airt.eng:3.1.6#and drank in the halls
+urn:cts:gleLit:chonaill.airt.eng:3.1.7#with white-breasted women.
+urn:cts:gleLit:chonaill.airt.eng:3.1.8#My thousand confusions
+urn:cts:gleLit:chonaill.airt.eng:3.1.9#I have lost the use of you.
+urn:cts:gleLit:chonaill.airt.eng:3.2.1#Ruin and bad cess to you,
+urn:cts:gleLit:chonaill.airt.eng:3.2.2#ugly traitor Morris,
+urn:cts:gleLit:chonaill.airt.eng:3.2.3#who took the man of my house
+urn:cts:gleLit:chonaill.airt.eng:3.2.4#and father of my young ones
+urn:cts:gleLit:chonaill.airt.eng:3.2.5#- a pair walking the house
+urn:cts:gleLit:chonaill.airt.eng:3.2.6#and the third in my womb,
+urn:cts:gleLit:chonaill.airt.eng:3.2.7#and I doubt that I'll bear it.
+urn:cts:gleLit:chonaill.airt.eng:3.3.1#My friend and beloved!
+urn:cts:gleLit:chonaill.airt.eng:3.3.2#When you left through the gate
+urn:cts:gleLit:chonaill.airt.eng:3.3.3#you came in again quickly,
+urn:cts:gleLit:chonaill.airt.eng:3.3.4#you kissed both your children,
+urn:cts:gleLit:chonaill.airt.eng:3.3.5#kissed the tips of my fingers.
+urn:cts:gleLit:chonaill.airt.eng:3.3.6#You said: " Eibhlín, stand up
+urn:cts:gleLit:chonaill.airt.eng:3.3.7#and finish with your work
+urn:cts:gleLit:chonaill.airt.eng:3.3.8#lively and swiftly:
+urn:cts:gleLit:chonaill.airt.eng:3.3.9#I am leaving our home
+urn:cts:gleLit:chonaill.airt.eng:3.3.10#and may never return."
+urn:cts:gleLit:chonaill.airt.eng:3.3.11#I made nothing of his talk
+urn:cts:gleLit:chonaill.airt.eng:3.3.12#for he spoke often so.
+urn:cts:gleLit:chonaill.airt.eng:3.4.1#My friend and my share!
+urn:cts:gleLit:chonaill.airt.eng:3.4.2#0 bright-sworded rider
+urn:cts:gleLit:chonaill.airt.eng:3.4.3#rise up now,
+urn:cts:gleLit:chonaill.airt.eng:3.4.4#put on your immaculate
+urn:cts:gleLit:chonaill.airt.eng:3.4.5#fine suit of clothes,
+urn:cts:gleLit:chonaill.airt.eng:3.4.6#put on your black beaver
+urn:cts:gleLit:chonaill.airt.eng:3.4.7#and pull on your gloves.
+urn:cts:gleLit:chonaill.airt.eng:3.4.8#There above is your whip
+urn:cts:gleLit:chonaill.airt.eng:3.4.9#and your mare is outside.
+urn:cts:gleLit:chonaill.airt.eng:3.4.10#Take the narrow road Eastward
+urn:cts:gleLit:chonaill.airt.eng:3.4.11#where the bushes bend before you
+urn:cts:gleLit:chonaill.airt.eng:3.4.12#and the stream will narrow for you
+urn:cts:gleLit:chonaill.airt.eng:3.4.13#and men and women will bow
+urn:cts:gleLit:chonaill.airt.eng:3.4.14#if they have their proper manners
+urn:cts:gleLit:chonaill.airt.eng:3.4.15#- as I doubt they have at present....
+urn:cts:gleLit:chonaill.airt.eng:3.5.1#My love, and my beloved!
+urn:cts:gleLit:chonaill.airt.eng:3.5.2#Not my people who have died
+urn:cts:gleLit:chonaill.airt.eng:3.5.3#- not my three dead children
+urn:cts:gleLit:chonaill.airt.eng:3.5.4#nor big Dónall Ó Conaill
+urn:cts:gleLit:chonaill.airt.eng:3.5.5#nor Conall drowned on the sea
+urn:cts:gleLit:chonaill.airt.eng:3.5.6#nor the girl of twenty-six
+urn:cts:gleLit:chonaill.airt.eng:3.5.7#who went across the ocean
+urn:cts:gleLit:chonaill.airt.eng:3.5.8#alliancing with kings
+urn:cts:gleLit:chonaill.airt.eng:3.5.9#- not all these do I summon
+urn:cts:gleLit:chonaill.airt.eng:3.5.10#but Art, reaped from his feet last night
+urn:cts:gleLit:chonaill.airt.eng:3.5.11#on the inch of Carriginima.
+urn:cts:gleLit:chonaill.airt.eng:3.5.12#The brown mare's rider
+urn:cts:gleLit:chonaill.airt.eng:3.5.13#deserted here beside me,
+urn:cts:gleLit:chonaill.airt.eng:3.5.14#no living being near him
+urn:cts:gleLit:chonaill.airt.eng:3.5.15#but the little black mill-women
+urn:cts:gleLit:chonaill.airt.eng:3.5.16#- and to top my thousand troubles
+urn:cts:gleLit:chonaill.airt.eng:3.5.17#their eyes not even streaming.
+urn:cts:gleLit:chonaill.airt.eng:3.6.1#My friend and my calf!
+urn:cts:gleLit:chonaill.airt.eng:3.6.2#O Art Ó Laoghaire
+urn:cts:gleLit:chonaill.airt.eng:3.6.3#son of Conchúr son of Céadach
+urn:cts:gleLit:chonaill.airt.eng:3.6.4#son of Laoiseach Ó Laoghaire:
+urn:cts:gleLit:chonaill.airt.eng:3.6.5#West from the Gaortha
+urn:cts:gleLit:chonaill.airt.eng:3.6.6#and East from the Caolchnoc
+urn:cts:gleLit:chonaill.airt.eng:3.6.7#where the berries grow,
+urn:cts:gleLit:chonaill.airt.eng:3.6.8#yellow nuts on the branches
+urn:cts:gleLit:chonaill.airt.eng:3.6.9#and masses of apples
+urn:cts:gleLit:chonaill.airt.eng:3.6.10#in their proper season
+urn:cts:gleLit:chonaill.airt.eng:3.6.11#- need anyone wonder
+urn:cts:gleLit:chonaill.airt.eng:3.6.12#if Uibh Laoghaire were alight
+urn:cts:gleLit:chonaill.airt.eng:3.6.13#and Béal Atha an Ghaorthaígh
+urn:cts:gleLit:chonaill.airt.eng:3.6.14#and Gúgán the holy
+urn:cts:gleLit:chonaill.airt.eng:3.6.15#or the fine-handed rider
+urn:cts:gleLit:chonaill.airt.eng:3.6.16#who used tire out the hunt
+urn:cts:gleLit:chonaill.airt.eng:3.6.17#as they panted from Greanach
+urn:cts:gleLit:chonaill.airt.eng:3.6.18#and the slim hounds gave up?
+urn:cts:gleLit:chonaill.airt.eng:3.6.19#Alluring-eyed rider,
+urn:cts:gleLit:chonaill.airt.eng:3.6.20#o what ailed you last night?
+urn:cts:gleLit:chonaill.airt.eng:3.6.21#For I thought myself
+urn:cts:gleLit:chonaill.airt.eng:3.6.22#when I bought your uniform
+urn:cts:gleLit:chonaill.airt.eng:3.6.23#the world couldn't kill you!
+urn:cts:gleLit:chonaill.airt.eng:4.1.1#My love and my darling!
+urn:cts:gleLit:chonaill.airt.eng:4.1.2#My love, my bright dove!
+urn:cts:gleLit:chonaill.airt.eng:4.1.3#Though I couldn't be with you
+urn:cts:gleLit:chonaill.airt.eng:4.1.4#nor bring you my people
+urn:cts:gleLit:chonaill.airt.eng:4.1.5#that's no cause for reproach,
+urn:cts:gleLit:chonaill.airt.eng:4.1.6#for hard pressed were they all
+urn:cts:gleLit:chonaill.airt.eng:4.1.7#in shuttered rooms
+urn:cts:gleLit:chonaill.airt.eng:4.1.8#and narrow coffins
+urn:cts:gleLit:chonaill.airt.eng:4.1.9#in a sleep with no waking.
+urn:cts:gleLit:chonaill.airt.eng:4.1.10#Were it not for the smallpox
+urn:cts:gleLit:chonaill.airt.eng:4.1.11#and the black death
+urn:cts:gleLit:chonaill.airt.eng:4.1.12#and the spotted fever
+urn:cts:gleLit:chonaill.airt.eng:4.1.13#those rough horse-riders
+urn:cts:gleLit:chonaill.airt.eng:4.1.14#would be rattling their reins
+urn:cts:gleLit:chonaill.airt.eng:4.1.15#and making a tumult
+urn:cts:gleLit:chonaill.airt.eng:4.1.16#on the way to your funeral,
+urn:cts:gleLit:chonaill.airt.eng:4.1.17#Art of the bright breast....
+urn:cts:gleLit:chonaill.airt.eng:4.2.1#My friend and my calf!
+urn:cts:gleLit:chonaill.airt.eng:4.2.2#A vision in dream
+urn:cts:gleLit:chonaill.airt.eng:4.2.3#was vouchsafed me last night
+urn:cts:gleLit:chonaill.airt.eng:4.2.4#in Cork, a late hour,
+urn:cts:gleLit:chonaill.airt.eng:4.2.5#in bed by myself:
+urn:cts:gleLit:chonaill.airt.eng:4.2.6#our white mansion had fallen,
+urn:cts:gleLit:chonaill.airt.eng:4.2.7#the Gaortha had withered,
+urn:cts:gleLit:chonaill.airt.eng:4.2.8#our slim hounds were silent
+urn:cts:gleLit:chonaill.airt.eng:4.2.9#and no sweet birds,
+urn:cts:gleLit:chonaill.airt.eng:4.2.10#when you were found spent
+urn:cts:gleLit:chonaill.airt.eng:4.2.11#out in midst of the mountain
+urn:cts:gleLit:chonaill.airt.eng:4.2.12#with no priest or cleric
+urn:cts:gleLit:chonaill.airt.eng:4.2.13#but an ancient old woman
+urn:cts:gleLit:chonaill.airt.eng:4.2.14#to spread the edge of her cloak,
+urn:cts:gleLit:chonaill.airt.eng:4.2.15#and you stitched to the earth,
+urn:cts:gleLit:chonaill.airt.eng:4.2.16#Art Ó Laoghaire,
+urn:cts:gleLit:chonaill.airt.eng:4.2.17#and streams of your blood
+urn:cts:gleLit:chonaill.airt.eng:4.2.18#on the breast of your shirt.
+urn:cts:gleLit:chonaill.airt.eng:4.3.1#My love and my darling!
+urn:cts:gleLit:chonaill.airt.eng:4.3.2#It is well they became you
+urn:cts:gleLit:chonaill.airt.eng:4.3.3#your stocking, five-ply,
+urn:cts:gleLit:chonaill.airt.eng:4.3.4#riding -boots to the knee,
+urn:cts:gleLit:chonaill.airt.eng:4.3.5#cornered Caroline hat
+urn:cts:gleLit:chonaill.airt.eng:4.3.6#and a lively whip
+urn:cts:gleLit:chonaill.airt.eng:4.3.7#on a spirited gelding,
+urn:cts:gleLit:chonaill.airt.eng:4.3.8#many modest mild maidens
+urn:cts:gleLit:chonaill.airt.eng:4.3.9#admiring behind you.
+urn:cts:gleLit:chonaill.airt.eng:4.4.1#My steadfast love!
+urn:cts:gleLit:chonaill.airt.eng:4.4.2#When you walked through the servile
+urn:cts:gleLit:chonaill.airt.eng:4.4.3#strong-built towns,
+urn:cts:gleLit:chonaill.airt.eng:4.4.4#the merchants' wives
+urn:cts:gleLit:chonaill.airt.eng:4.4.5#would salute to the ground
+urn:cts:gleLit:chonaill.airt.eng:4.4.6#knowing well in their hearts
+urn:cts:gleLit:chonaill.airt.eng:4.4.7#a fine bed-mate you were
+urn:cts:gleLit:chonaill.airt.eng:4.4.8#a great front-rider
+urn:cts:gleLit:chonaill.airt.eng:4.4.9#and father of children.
+urn:cts:gleLit:chonaill.airt.eng:4.5.1#Jesus Christ well knows
+urn:cts:gleLit:chonaill.airt.eng:4.5.2#there's no cap upon my skull
+urn:cts:gleLit:chonaill.airt.eng:4.5.3#nor shift next to my body
+urn:cts:gleLit:chonaill.airt.eng:4.5.4#nor shoe upon my foot-sole
+urn:cts:gleLit:chonaill.airt.eng:4.5.5#nor furniture in my house
+urn:cts:gleLit:chonaill.airt.eng:4.5.6#nor reins on the brown mare
+urn:cts:gleLit:chonaill.airt.eng:4.5.7#but I'll spend it on the law;
+urn:cts:gleLit:chonaill.airt.eng:4.5.8#that I'll go across the ocean
+urn:cts:gleLit:chonaill.airt.eng:4.5.9#to argue with the King,
+urn:cts:gleLit:chonaill.airt.eng:4.5.10#and if he won't pay attention
+urn:cts:gleLit:chonaill.airt.eng:4.5.11#that I'll come back again
+urn:cts:gleLit:chonaill.airt.eng:4.5.12#to the black-blooded savage
+urn:cts:gleLit:chonaill.airt.eng:4.5.13#that took my treasure.
+urn:cts:gleLit:chonaill.airt.eng:5.1.1#My love and my beloved!
+urn:cts:gleLit:chonaill.airt.eng:5.1.2#Your corn-stacks are standing,
+urn:cts:gleLit:chonaill.airt.eng:5.1.3#your yellow cows milking.
+urn:cts:gleLit:chonaill.airt.eng:5.1.4#Your grief upon my heart
+urn:cts:gleLit:chonaill.airt.eng:5.1.5#all Munster couldn't cure,
+urn:cts:gleLit:chonaill.airt.eng:5.1.6#nor the smiths of Oiledn na bhFionn.
+urn:cts:gleLit:chonaill.airt.eng:5.2.1#Till Art Ó Laoghaire comes
+urn:cts:gleLit:chonaill.airt.eng:5.2.2#my grief will not disperse
+urn:cts:gleLit:chonaill.airt.eng:5.2.3#but cram my heart's core,
+urn:cts:gleLit:chonaill.airt.eng:5.2.4#shut firmly in
+urn:cts:gleLit:chonaill.airt.eng:5.2.5#like a trunk locked up
+urn:cts:gleLit:chonaill.airt.eng:5.2.6#when the key is lost.
+urn:cts:gleLit:chonaill.airt.eng:5.3.1#Women there weeping,
+urn:cts:gleLit:chonaill.airt.eng:5.3.2#stay there where you are,
+urn:cts:gleLit:chonaill.airt.eng:5.3.3#till Art Mac Conchúir summons drink
+urn:cts:gleLit:chonaill.airt.eng:5.3.4#with some extra for the poor
+urn:cts:gleLit:chonaill.airt.eng:5.3.5#- ere he enter that school
+urn:cts:gleLit:chonaill.airt.eng:5.3.6#not for study or for music
+urn:cts:gleLit:chonaill.airt.eng:5.3.7#but to bear clay and stones.
