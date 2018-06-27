@@ -14,6 +14,7 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:#chapter/verse#Greek New Testament
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:#chapter/verse#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091##true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:#chapter/verse/token#Greek New Testament#Matthew (excerpts)#Diplomatic Edition of FU MS 2017.091#lexical tokens#true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_normal:#chapter/verse#Greek New Testament#Matthew (excerpts)#Normalized Edition of FU MS 2017.091##true#grc
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:#chapter/verse#Greek New Testament#Matthew (excerpts)#Translation of FU MS 2017.091 (recto) by Janey Capers Newland and Gunner Hedden##true#eng
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:#chapter/verse#Greek New Testament#Matthew (excerepts)#Wescott-Hort (1885)##true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:#chapter/verse/tokens#Greek New Testament#Matthew (excepts)#Wescott-Hort (1885)#Tokenized to align with FU MS 2017.091#true#grc
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_furv:#chapter/verse#Greek New Testament#Reina–Valera (1602)#Project Gutenberg (1909)##true#spa
@@ -34,6 +35,15 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.8#ἄλλα δὲ ἔπεσεν
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.9#ὁ ἔχ<supplied>ων ὦτα</supplied> ἀκουέ<supplied>τω</supplied>.
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.10#<supplied>Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν</supplied> πα ραβολαῖς λαλεῖς αὐτοῖς· 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.11#ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Ὅτ<supplied>ι ὑμῖν</supplied> δ<supplied>έδο</supplied>ται γνῶναι τὰ <supplied>μυ</supplied>στήρια τ<supplied>ῆς</supplied> βασιλείας <supplied>τῶν οὐραν</supplied>ῶν· <supplied>ἐ</supplied>κείνοις δὲ οὐ δέ<supplied>δοται</supplied>. 
+
+#!ctsdata
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:12.48#giving an answer, he spoke saying to him, "Who is my mother? And who are my brothers?"
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:12.49#and extending his hand towards his disciples, he said, "Behold my mother and my brothers.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:12.50#for whoever may do the will of my father in heaven, he is my brother; and sister. and is mother."
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:13.1#and on that day, Jesus having gone from the house, was sitting by the sea.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:13.2#and many crowds were gathered together before him. Because of this stepping into the boat he sat and the whole crowd had stood on the shore.
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:13.3#and he spoke many things to them in parables; saying, "Behold, the one sowing went to begin to sow
+urn:cts:greekLit:tlg0031.tlg001.fu2017091_newland_hedden:13.4#and to sow them, on the one hand, he threw them along the road. The birds came and…
 
 #!ctsdata
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:12.48#ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν οἱ ἀδελφοί μου · 
