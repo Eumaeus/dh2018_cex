@@ -357,6 +357,15 @@ urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.labe
 urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:binaryimg.v1.label:##Public domain
 urn:cite2:fufolio:jbdms_dse.v1:#DSE model of James B. Duke MSS#urn:cite2:fufolio:jbdms_dse.v1.label:#urn:cite2:fufolio:jbdms_dse.v1.seq:#CC-attribution-share-alike
 urn:cite2:cite:verbs.v1:#Collection of verbal relations#urn:cite2:cite:verbs.v1.label:##Public Domain
+urn:cite2:fumsc:commentary_ms2017091.2018a:#Commentary on ancient texts: Furman Research#urn:cite2:fumsc:commentary_ms2017091.2018a.label:##CC NC-BY-SA 3.0
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fumsc:commentary_ms2017091.2018a.urn:#URN#Cite2Urn#
+urn:cite2:fumsc:commentary_ms2017091.2018a.label:#Label#String#
+urn:cite2:fumsc:commentary_ms2017091.2018a.passage:#Passage#CtsUrn#
+urn:cite2:fumsc:commentary_ms2017091.2018a.comment:#Comment#String#
+urn:cite2:fumsc:commentary_ms2017091.2018a.resp:#Responsibility#String#
 
 #!citeproperties
 Property#Label#Type#Authority list
@@ -408,6 +417,15 @@ urn#label#description
 urn:cite2:cite:verbs.v1:commentsOn#comments on#subject[Urn] comments on object[Urn]
 urn:cite2:cite:verbs.v1:illustrates#illustrates#subject[Urn] comments on object[Urn]
 urn:cite2:cite:verbs.v1:hasOnIt#has on it#subject[Urn] comments on object[Urn]
+
+#!citedata
+urn#label#passage#comment#resp
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#Comment on Matthew 13.3#urn:cts:greekLit:tlg0031.tlg001:13.3#Westcott and Hort has the present infinitive σπείρειν. MS2018-091 has the aorist infinitive σπεῖραι. The sense of the aorist infinitive must be ingressive, e.g. "began to sow".#eb,jcn,bdp,sh,jr,dm,be
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#Comment on Matthew 13.4#urn:cts:greekLit:tlg0031.tlg001:13.4#Where critical editions have a participle and a finite verb, "ἐλθόντα… κατέφαγεν" ("[birds] having come… ate up"), the fragment MS2017-091 has two coordinated finite verbs, "ἦλθε… καὶ ἐφάγεν" ("[birds] came and ate up").#eb,jcn,bdp,sh,jr,dm,be
+urn:cite2:fumsc:commentary_ms2017091.2018a:3#Comment on Matthew 13.3#urn:cts:greekLit:tlg0031.tlg001:13.3#The MS introduces the particle δέ here, not present in the critical editions. Evidence of the scribe's fluency?#eb,jcn,bdp,sh,jr,dm,be
+
+
+
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
@@ -856,4 +874,20 @@ urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.16#κείνοις
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.17#δὲ 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.18#οὐ 
 urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.11.19#δέ
+
+#!relations
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.3.12
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.3.12
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.3
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.3
+urn:cite2:fumsc:commentary_ms2017091.2018a:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.3
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.4.13
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh.tokens:13.4.13
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.4
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.4
+urn:cite2:fumsc:commentary_ms2017091.2018a:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.4
+urn:cite2:fumsc:commentary_ms2017091.2018a:3#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl.tokens:13.1.2
+urn:cite2:fumsc:commentary_ms2017091.2018a:3#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_fuwh:13.1
+urn:cite2:fumsc:commentary_ms2017091.2018a:3#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_dipl:13.1
+urn:cite2:fumsc:commentary_ms2017091.2018a:3#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0031.tlg001.fu2017091_xml:13.1
 
