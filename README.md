@@ -3,7 +3,7 @@ Tutoriales y demostraciones: Formato CEX, para DH 2018, Ciudad de México.
 
 ## Contents
 
-- `MSS2017-091`: An integrated digital edition of Furman University, James B. Duke Library, MS2017-091, a 10th Century fragment of a manuscript of Matthew 12-13.
+- `MSS2017-091`: An integrated digital edition of Furman University, James B. Duke Library, MS2017-091, a 10th Century fragment of a manuscript of Matthew 12-13. See also its original editorial work at <https://github.com/Eumaeus/MSS2017-091>.
 - `CEX_Tutorial_Files`: Files aimed at demonstrating how CEX can capture integrated digital library information.
 - `DH2018_Posters`: PDF versions of the posters for the two projects represented in this dataset.
 - `Scripts`: Scripts for opening a Chrome Browser with "cross-origin" and "local-file" restrictions disabled. See below.
